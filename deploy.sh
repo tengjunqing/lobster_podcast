@@ -10,6 +10,18 @@ cd "$PODCAST_DIR"
 
 echo "🎙️ 开始部署播客..."
 
+# 如果有新的脚本文件，用 edge-tts 生成音频
+SCRIPT_DIR="$PODCAST_DIR/scripts"
+AUDIO_DIR="$PODCAST_DIR/audio"
+DATE_TAG=$(date '+%Y%m%d')
+
+# 查找今天最新的脚本
+LATEST_SCRIPT=$(ls -t "$SCRIPT_DIR"/${DATE_TAG}*.txt 2>/dev/null | head -1)
+if [ -n "$LATEST_SCRIPT" ] && [ ! -f "$AUDIO_DIR/${DATE_TAG}_Morning_AINews.mp3" ]; then
+    echo "🎤 用 Edge TTS 生成语音..."
+    edge-tts --voice zh-CN-XiaoxiaoNeural --text "$(cat "$LATEST_SCRIPT")" --write-media "$AUDIO_DIR/${DATE_TAG}_Morning_AINews.mp3"
+fi
+
 # 1. 生成最新的 feed.xml
 echo "📡 生成 RSS Feed..."
 python3 generate_feed.py
