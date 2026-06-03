@@ -75,6 +75,7 @@ def generate_rss():
       <guid isPermaLink="true">{audio_url}</guid>
       <itunes:duration>{duration_str}</itunes:duration>
       <itunes:author>{PODCAST_AUTHOR}</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>"""
         rss_items.append(item_xml)
 
@@ -86,7 +87,9 @@ def generate_rss():
   <channel>
     <title>{PODCAST_TITLE}</title>
     <link>{BASE_URL}</link>
-    <language>{PODCAST_LANGUAGE}</language>
+    <language>zh-CN</language>
+
+    <itunes:type>episodic</itunes:type>
     <description>{PODCAST_DESC}</description>
     <itunes:author>{PODCAST_AUTHOR}</itunes:author>
     <itunes:summary>{PODCAST_DESC}</itunes:summary>

@@ -5,7 +5,9 @@
   <channel>
     <title>龙虾 AI 生产力播客</title>
     <link>https://tengjunqing.github.io/lobster_podcast</link>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
+
+    <itunes:type>episodic</itunes:type>
     <description>由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递</description>
     <itunes:author>AI Assistant</itunes:author>
     <itunes:summary>由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递</itunes:summary>
@@ -25,6 +27,7 @@
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3</guid>
       <itunes:duration>05:49</itunes:duration>
       <itunes:author>AI Assistant</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
