@@ -4,20 +4,20 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>龙虾 AI 生产力播客</title>
-    <link>https://jeffrey628.github.io/lobster_podcast</link>
+    <link>https://tengjunqing.github.io/lobster_podcast</link>
     <language>zh-cn</language>
     <description>由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递</description>
     <itunes:author>AI Assistant</itunes:author>
     <itunes:summary>由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://jeffrey628.github.io/lobster_podcast/cover.png"/>
-    <atom:link href="https://jeffrey628.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
+    <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>20260603 Morning AINews</title>
       <description>AI 生成于 2026-06-03 11:55</description>
       <pubDate>Wed, 03 Jun 2026 03:55:01 GMT</pubDate>
-      <enclosure url="https://jeffrey628.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3" length="2373633" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://jeffrey628.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3</guid>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3" length="2373633" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3</guid>
       <itunes:duration>02:28</itunes:duration>
       <itunes:author>AI Assistant</itunes:author>
     </item>

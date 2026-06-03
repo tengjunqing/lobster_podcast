@@ -11,7 +11,7 @@ import email.utils
 import xml.etree.ElementTree as ET
 
 # ====== 配置项 ======
-BASE_URL = "https://jeffrey628.github.io/lobster_podcast"  # 替换为你的 GitHub Pages 域名
+BASE_URL = "https://tengjunqing.github.io/lobster_podcast"
 PODCAST_TITLE = "龙虾 AI 生产力播客"
 PODCAST_DESC = "由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递"
 PODCAST_AUTHOR = "AI Assistant"
