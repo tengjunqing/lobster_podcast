@@ -16,7 +16,10 @@ PODCAST_TITLE = "龙虾 AI 生产力播客"
 PODCAST_DESC = "由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递"
 PODCAST_AUTHOR = "AI Assistant"
 PODCAST_LANGUAGE = "zh-cn"
-PODCAST_IMAGE = f"{BASE_URL}/cover.png"  # 可选：播客封面图
+PODCAST_IMAGE = f"{BASE_URL}/cover.png"
+PODCAST_OWNER_NAME = "AI Assistant"
+PODCAST_OWNER_EMAIL = "ai@example.com"
+PODCAST_CATEGORY = "Technology"
 # ====================
 
 
@@ -87,7 +90,12 @@ def generate_rss():
     <description>{PODCAST_DESC}</description>
     <itunes:author>{PODCAST_AUTHOR}</itunes:author>
     <itunes:summary>{PODCAST_DESC}</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="{PODCAST_CATEGORY}"/>
+    <itunes:owner>
+      <itunes:name>{PODCAST_OWNER_NAME}</itunes:name>
+      <itunes:email>{PODCAST_OWNER_EMAIL}</itunes:email>
+    </itunes:owner>
     <itunes:image href="{PODCAST_IMAGE}"/>
     <atom:link href="{BASE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
 {chr(10).join(rss_items)}
