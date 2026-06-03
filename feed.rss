@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>龙虾 AI 生产力播客</title>
+    <link>https://tengjunqing.github.io/lobster_podcast</link>
+    <language>zh-cn</language>
+    <description>由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递</description>
+    <itunes:author>AI Assistant</itunes:author>
+    <itunes:summary>由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
+    <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>20260603 Morning AINews</title>
+      <description>AI 生成于 2026-06-03 12:44</description>
+      <pubDate>Wed, 03 Jun 2026 04:44:23 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3" length="5597612" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260603_Morning_AINews.mp3</guid>
+      <itunes:duration>05:49</itunes:duration>
+      <itunes:author>AI Assistant</itunes:author>
+    </item>
+  </channel>
+</rss>
