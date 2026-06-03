@@ -1,0 +1,6 @@
+# 播客项目 Git 忽略文件
+*.pyc
+__pycache__/
+.DS_Store
+*.tmp
+.env
