@@ -20,6 +20,16 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>20260609 Morning AINews</title>
+      <description>AI 生成于 2026-06-09 07:39</description>
+      <pubDate>Mon, 08 Jun 2026 23:39:30 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260609_Morning_AINews.mp3" length="9140396" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260609_Morning_AINews.mp3</guid>
+      <itunes:duration>09:31</itunes:duration>
+      <itunes:author>AI Assistant</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>20260608 Morning AINews</title>
       <description>AI 生成于 2026-06-08 07:32</description>
       <pubDate>Sun, 07 Jun 2026 23:32:37 GMT</pubDate>
