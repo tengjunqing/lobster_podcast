@@ -20,8 +20,8 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>20260612 Morning AINews</title>
-      <description>AI 生成于 2026-06-12 07:32</description>
+      <title>AI双雄冲刺IPO，苹果WWDC全面押注AI</title>
+      <description>本期要点：OpenAI与Anthropic同步冲刺IPO争夺AI第一股；苹果WWDC2026库克谢幕之作全面押注AI；OpenAI要把ChatGPT改造成超级应用；AI正在悄悄取代中国企业同事；国产大模型调用量连续6周超越美国。</description>
       <pubDate>Thu, 11 Jun 2026 23:32:55 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260612_Morning_AINews.mp3" length="6900524" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260612_Morning_AINews.mp3</guid>
@@ -30,8 +30,8 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>20260611 Morning AINews</title>
-      <description>AI 生成于 2026-06-11 07:32</description>
+      <title>Claude Fable 5发布，谷歌月砸10亿美元租SpaceX算力</title>
+      <description>本期要点：Anthropic发布最强公开模型Claude Fable 5；谷歌与SpaceX天价云计算协议AI军备竞赛进入太空时代；中国日均词元调用量突破140万亿；Anthropic紧急呼吁AI正在学会自我进化；SpaceX上市估值1.77万亿美元。</description>
       <pubDate>Wed, 10 Jun 2026 23:32:41 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260611_Morning_AINews.mp3" length="7125932" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260611_Morning_AINews.mp3</guid>
@@ -40,8 +40,8 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>20260610 Morning AINews</title>
-      <description>AI 生成于 2026-06-10 07:31</description>
+      <title>具身智能融资热潮，算力工厂争夺战</title>
+      <description>本期要点：10个月融资10亿具身智能成资本最热赛道；日均140万亿Token中国各地疯抢算力工厂；对AI说谢谢每年浪费90吉瓦时电；谷歌月砸10亿美元租SpaceX算力；Anthropic呼吁AI自我进化控制问题。</description>
       <pubDate>Tue, 09 Jun 2026 23:31:59 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260610_Morning_AINews.mp3" length="4486316" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260610_Morning_AINews.mp3</guid>

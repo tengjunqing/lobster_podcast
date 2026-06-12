@@ -6,6 +6,7 @@
 
 import os
 import glob
+import json
 from datetime import datetime
 import email.utils
 import xml.etree.ElementTree as ET
@@ -30,6 +31,27 @@ def get_audio_files():
     return files
 
 
+def load_episodes_meta():
+    """加载 episodes.json 中的标题和描述"""
+    if os.path.exists("episodes.json"):
+        with open("episodes.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return data.get("episodes", {})
+    return {}
+
+
+def find_episode_meta(date_tag, episodes_meta):
+    """根据文件名查找匹配的元数据（支持前缀匹配）"""
+    # 直接匹配
+    if date_tag in episodes_meta:
+        return episodes_meta[date_tag]
+    # 前缀匹配（如 20260612_Morning_AINews 匹配 20260612_Morning）
+    for key, value in episodes_meta.items():
+        if date_tag.startswith(key):
+            return value
+    return None
+
+
 def format_duration(seconds):
     """将秒数转换为 HH:MM:SS 格式"""
     hours = seconds // 3600
@@ -52,10 +74,18 @@ def generate_rss():
         # 发布时间（RFC 822 格式）
         pub_date = email.utils.formatdate(stat.st_mtime, usegmt=True)
 
-        # 从文件名提取标题
-        episode_title = os.path.splitext(file_name)[0]
-        # 美化标题：替换下划线为空格
-        episode_title = episode_title.replace("_", " ")
+        # 从文件名提取日期标签（如 20260612_Morning_AINews）
+        date_tag = os.path.splitext(file_name)[0]
+        
+        # 从 episodes.json 读取标题和描述
+        episodes_meta = load_episodes_meta()
+        episode_meta = find_episode_meta(date_tag, episodes_meta)
+        if episode_meta:
+            episode_title = episode_meta.get("title", date_tag.replace("_", " "))
+            episode_desc = episode_meta.get("description", f"AI 生成于 {datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d %H:%M')}")
+        else:
+            episode_title = date_tag.replace("_", " ")
+            episode_desc = f"AI 生成于 {datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d %H:%M')}"
 
         # 音频直链
         audio_url = f"{BASE_URL}/audio/{file_name}"
@@ -69,7 +99,7 @@ def generate_rss():
 
         item_xml = f"""    <item>
       <title>{episode_title}</title>
-      <description>AI 生成于 {datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d %H:%M')}</description>
+      <description>{episode_desc}</description>
       <pubDate>{pub_date}</pubDate>
       <enclosure url="{audio_url}" length="{file_size}" type="{mime_type}"/>
       <guid isPermaLink="true">{audio_url}</guid>
