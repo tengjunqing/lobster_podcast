@@ -18,8 +18,8 @@ PODCAST_DESC = "虾聊AI是一档专注AI与科技领域的每日播客，由AI�
 PODCAST_AUTHOR = "小王"
 PODCAST_LANGUAGE = "zh-cn"
 PODCAST_IMAGE = f"{BASE_URL}/cover.png"
-PODCAST_OWNER_NAME = "AI Assistant"
-PODCAST_OWNER_EMAIL = "ai@example.com"
+PODCAST_OWNER_NAME = "JeffreyTT"
+PODCAST_OWNER_EMAIL = "tengjunqing@163.com"
 PODCAST_CATEGORY = "Technology"
 # ====================
 
