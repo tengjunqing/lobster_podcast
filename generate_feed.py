@@ -14,8 +14,8 @@ import xml.etree.ElementTree as ET
 # ====== 配置项 ======
 BASE_URL = "https://tengjunqing.github.io/lobster_podcast"
 PODCAST_TITLE = "虾聊AI"
-PODCAST_DESC = "由 AI 自动生成的个人定制语音播客，每日 AI 资讯速递"
-PODCAST_AUTHOR = "AI Assistant"
+PODCAST_DESC = "虾聊AI是一档专注AI与科技领域的每日播客，由AI主播小王为你播报。每天5-8分钟，覆盖：AI大模型最新动态（OpenAI、Anthropic、Google、国产大模型）、科技圈重大事件与产品发布、行业趋势与深度分析、有趣的AI应用和工具推荐。无论你是AI从业者、科技爱好者，还是想跟上时代节奏的普通人，虾聊AI都是你的每日信息伴侣。每天早上7:30更新，通勤路上听一听，轻松跟上AI时代。"
+PODCAST_AUTHOR = "小王"
 PODCAST_LANGUAGE = "zh-cn"
 PODCAST_IMAGE = f"{BASE_URL}/cover.png"
 PODCAST_OWNER_NAME = "AI Assistant"
