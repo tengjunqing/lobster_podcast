@@ -19,6 +19,10 @@
     "20260614_Morning": {
       "title": "Anthropic最强模型遭美政府全球下线",
       "description": "本期要点：美国政府以国家安全为由要求Anthropic全球下线Fable 5和Mythos 5；智源大会图灵奖得主预言AI将在2050年前深度主导社会；科大讯飞发布唯一纯国产算力训练的主流大模型X2-VL；北京AI产业规模超4500亿大模型241款全国第一；Token成本危机来袭六个月暴涨40%"
+    },
+    "20260615_Morning": {
+      "title": "Databricks峰会开幕，Fable 5越狱震动AI圈",
+      "description": "本期要点：Databricks Data+AI Summit 2026今日旧金山开幕聚焦智能体落地；Fable 5越狱事件暴露12万字符系统提示安全漏洞；Anthropic发布全球AI暂停提案引发行业激辩；Gemini 3.5 Pro即将发布200万token超长上下文；MolmoAct 2机器人AI在斯坦福投入基因编辑实验"
     }
   }
 }
