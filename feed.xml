@@ -19,6 +19,7 @@
     </itunes:owner>
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 15 Jun 2026 14:33:00 GMT</lastBuildDate>
     <item>
       <title>Databricks峰会开幕，Fable 5越狱震动AI圈</title>
       <description>本期要点：Databricks Data+AI Summit 2026今日旧金山开幕聚焦智能体落地；Fable 5越狱事件暴露12万字符系统提示安全漏洞；Anthropic发布全球AI暂停提案引发行业激辩；Gemini 3.5 Pro即将发布200万token超长上下文；MolmoAct 2机器人AI在斯坦福投入基因编辑实验</description>
