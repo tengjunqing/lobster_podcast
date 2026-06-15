@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>虾聊AI</title>
     <link>https://tengjunqing.github.io/lobster_podcast</link>
@@ -18,8 +19,9 @@
       <itunes:email>tengjunqing@163.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
+    <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 15 Jun 2026 14:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:46:48 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Databricks峰会开幕，Fable 5越狱震动AI圈</title>

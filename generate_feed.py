@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-播客 RSS Feed 生成器
+播客 RSS Feed 生成器 v2.0
 扫描 audio/ 目录，自动生成符合 Apple Podcasts 标准的 feed.xml
+新增：itunes:keywords、podcast:chapters、lastBuildDate、ttl
 """
 
 import os
@@ -21,6 +22,12 @@ PODCAST_IMAGE = f"{BASE_URL}/cover.png"
 PODCAST_OWNER_NAME = "JeffreyTT"
 PODCAST_OWNER_EMAIL = "tengjunqing@163.com"
 PODCAST_CATEGORY = "Technology"
+
+# 频道级别关键词（全局）
+PODCAST_KEYWORDS = "AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI"
+
+# RSS 缓存有效期（分钟），Apple 要求 ≥30，小宇宙 ≤120
+RSS_TTL = 60
 # ====================
 
 
@@ -32,7 +39,7 @@ def get_audio_files():
 
 
 def load_episodes_meta():
-    """加载 episodes.json 中的标题和描述"""
+    """加载 episodes.json 中的元数据"""
     if os.path.exists("episodes.json"):
         with open("episodes.json", "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -42,10 +49,8 @@ def load_episodes_meta():
 
 def find_episode_meta(date_tag, episodes_meta):
     """根据文件名查找匹配的元数据（支持前缀匹配）"""
-    # 直接匹配
     if date_tag in episodes_meta:
         return episodes_meta[date_tag]
-    # 前缀匹配（如 20260612_Morning_AINews 匹配 20260612_Morning）
     for key, value in episodes_meta.items():
         if date_tag.startswith(key):
             return value
@@ -53,7 +58,7 @@ def find_episode_meta(date_tag, episodes_meta):
 
 
 def format_duration(seconds):
-    """将秒数转换为 HH:MM:SS 格式"""
+    """将秒数转换为 HH:MM:SS 或 MM:SS 格式"""
     hours = seconds // 3600
     minutes = (seconds % 3600) // 60
     secs = seconds % 60
@@ -62,8 +67,38 @@ def format_duration(seconds):
     return f"{minutes:02d}:{secs:02d}"
 
 
+def escape_xml(text):
+    """转义 XML 特殊字符"""
+    if not text:
+        return ""
+    return (text
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&apos;"))
+
+
+def generate_chapters_xml(chapters):
+    """生成 podcast:chapters XML 片段
+    chapters 格式: [{"start": "00:00:00", "title": "开场白"}, ...]
+    """
+    if not chapters:
+        return ""
+
+    lines = ['      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">']
+    for ch in chapters:
+        start = ch.get("start", "00:00:00")
+        title = escape_xml(ch.get("title", ""))
+        lines.append(f'        <podcast:chapter start="{start}" title="{title}"/>')
+    lines.append('      </podcast:chapters>')
+    return "\n".join(lines)
+
+
 def generate_rss():
     audio_files = get_audio_files()
+    episodes_meta = load_episodes_meta()
+    build_date = email.utils.formatdate(usegmt=True)  # RFC 2822 格式
 
     rss_items = []
     for file_path in audio_files:
@@ -74,46 +109,64 @@ def generate_rss():
         # 发布时间（RFC 822 格式）
         pub_date = email.utils.formatdate(stat.st_mtime, usegmt=True)
 
-        # 从文件名提取日期标签（如 20260612_Morning_AINews）
+        # 从文件名提取日期标签
         date_tag = os.path.splitext(file_name)[0]
-        
-        # 从 episodes.json 读取标题和描述
-        episodes_meta = load_episodes_meta()
+
+        # 从 episodes.json 读取元数据
         episode_meta = find_episode_meta(date_tag, episodes_meta)
         if episode_meta:
             episode_title = episode_meta.get("title", date_tag.replace("_", " "))
-            episode_desc = episode_meta.get("description", f"AI 生成于 {datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d %H:%M')}")
+            episode_desc = episode_meta.get("description", "")
+            episode_keywords = episode_meta.get("keywords", "")
+            episode_chapters = episode_meta.get("chapters", [])
         else:
             episode_title = date_tag.replace("_", " ")
             episode_desc = f"AI 生成于 {datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d %H:%M')}"
+            episode_keywords = ""
+            episode_chapters = []
 
         # 音频直链
         audio_url = f"{BASE_URL}/audio/{file_name}"
 
-        # 判断 MIME 类型
+        # MIME 类型
         mime_type = "audio/mpeg" if file_name.endswith(".mp3") else "audio/mp4"
 
-        # 尝试估算时长（基于文件大小粗略估算，MP3 128kbps ≈ 16KB/s）
+        # 估算时长（MP3 128kbps ≈ 16KB/s）
         est_duration_sec = int(file_size / 16000) if file_name.endswith(".mp3") else int(file_size / 20000)
         duration_str = format_duration(est_duration_sec)
 
-        item_xml = f"""    <item>
-      <title>{episode_title}</title>
-      <description>{episode_desc}</description>
-      <pubDate>{pub_date}</pubDate>
-      <enclosure url="{audio_url}" length="{file_size}" type="{mime_type}"/>
-      <guid isPermaLink="true">{audio_url}</guid>
-      <itunes:duration>{duration_str}</itunes:duration>
-      <itunes:author>{PODCAST_AUTHOR}</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>"""
-        rss_items.append(item_xml)
+        # 构建 item XML
+        item_lines = [
+            f"    <item>",
+            f"      <title>{escape_xml(episode_title)}</title>",
+            f"      <description>{escape_xml(episode_desc)}</description>",
+            f"      <pubDate>{pub_date}</pubDate>",
+            f'      <enclosure url="{audio_url}" length="{file_size}" type="{mime_type}"/>',
+            f'      <guid isPermaLink="true">{audio_url}</guid>',
+            f"      <itunes:duration>{duration_str}</itunes:duration>",
+            f"      <itunes:author>{PODCAST_AUTHOR}</itunes:author>",
+            f"      <itunes:episodeType>full</itunes:episodeType>",
+        ]
+
+        # 每集关键词
+        if episode_keywords:
+            item_lines.append(f"      <itunes:keywords>{escape_xml(episode_keywords)}</itunes:keywords>")
+
+        # 章节时间戳
+        chapters_xml = generate_chapters_xml(episode_chapters)
+        if chapters_xml:
+            item_lines.append(chapters_xml)
+
+        item_lines.append("    </item>")
+        rss_items.append("\n".join(item_lines))
 
     # 组装完整 RSS XML
+    items_xml = "\n".join(rss_items)
     full_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>{PODCAST_TITLE}</title>
     <link>{BASE_URL}</link>
@@ -130,8 +183,11 @@ def generate_rss():
       <itunes:email>{PODCAST_OWNER_EMAIL}</itunes:email>
     </itunes:owner>
     <itunes:image href="{PODCAST_IMAGE}"/>
+    <itunes:keywords>{PODCAST_KEYWORDS}</itunes:keywords>
     <atom:link href="{BASE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
-{chr(10).join(rss_items)}
+    <lastBuildDate>{build_date}</lastBuildDate>
+    <ttl>{RSS_TTL}</ttl>
+{items_xml}
   </channel>
 </rss>"""
 
