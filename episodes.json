@@ -23,6 +23,53 @@
     "20260615_Morning": {
       "title": "Databricks峰会开幕，Fable 5越狱震动AI圈",
       "description": "本期要点：Databricks Data+AI Summit 2026今日旧金山开幕聚焦智能体落地；Fable 5越狱事件暴露12万字符系统提示安全漏洞；Anthropic发布全球AI暂停提案引发行业激辩；Gemini 3.5 Pro即将发布200万token超长上下文；MolmoAct 2机器人AI在斯坦福投入基因编辑实验"
+    },
+    "20260616_Morning": {
+      "title": "🔥引爆AI圈！Fable 5上线3天遭政府封杀，SpaceX史上最大IPO马斯克成万亿富翁",
+      "description": "本期要点：Anthropic Fable 5因越狱漏洞被美国政府强制下线，上线仅3天全球断供；SpaceX创史上最大IPO融资750亿美元，马斯克成全球首位万亿富翁；谷歌Gemini 3.5 Flash全面铺开，搜索AI月活破10亿；DiffusionGemma开源本地推理提速4倍；小米MiMo Code、快手Keye-VL-2.0密集开源；斯坦福报告AI Agent成功率飙升至66%",
+      "keywords": "Anthropic, Fable5, SpaceX IPO, 马斯克, Gemini 3.5, DiffusionGemma, AI安全, 智能体",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场白"
+        },
+        {
+          "start": "00:00:30",
+          "title": "第一条：Anthropic Fable 5被美国政府封杀"
+        },
+        {
+          "start": "00:02:00",
+          "title": "第二条：SpaceX史上最大IPO马斯克成万亿富翁"
+        },
+        {
+          "start": "00:03:20",
+          "title": "第三条：谷歌Gemini 3.5 Flash全面铺开"
+        },
+        {
+          "start": "00:04:20",
+          "title": "第四条：DiffusionGemma开源本地推理提速4倍"
+        },
+        {
+          "start": "00:05:10",
+          "title": "第五条：小米MiMo Code开源"
+        },
+        {
+          "start": "00:05:40",
+          "title": "第六条：快手Keye-VL-2.0多模态大模型"
+        },
+        {
+          "start": "00:06:20",
+          "title": "第七条：斯坦福2026 AI指数报告"
+        },
+        {
+          "start": "00:06:50",
+          "title": "深度分析：Fable 5封杀的三个先例"
+        },
+        {
+          "start": "00:08:30",
+          "title": "总结"
+        }
+      ]
     }
   }
 }

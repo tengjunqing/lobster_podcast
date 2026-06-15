@@ -21,8 +21,31 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 15 Jun 2026 06:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 23:33:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>🔥引爆AI圈！Fable 5上线3天遭政府封杀，SpaceX史上最大IPO马斯克成万亿富翁</title>
+      <description>本期要点：Anthropic Fable 5因越狱漏洞被美国政府强制下线，上线仅3天全球断供；SpaceX创史上最大IPO融资750亿美元，马斯克成全球首位万亿富翁；谷歌Gemini 3.5 Flash全面铺开，搜索AI月活破10亿；DiffusionGemma开源本地推理提速4倍；小米MiMo Code、快手Keye-VL-2.0密集开源；斯坦福报告AI Agent成功率飙升至66%</description>
+      <pubDate>Mon, 15 Jun 2026 23:33:08 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260616_Morning_AINews.mp3" length="8233205" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260616_Morning_AINews.mp3</guid>
+      <itunes:duration>08:34</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Anthropic, Fable5, SpaceX IPO, 马斯克, Gemini 3.5, DiffusionGemma, AI安全, 智能体</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场白"/>
+        <podcast:chapter start="00:00:30" title="第一条：Anthropic Fable 5被美国政府封杀"/>
+        <podcast:chapter start="00:02:00" title="第二条：SpaceX史上最大IPO马斯克成万亿富翁"/>
+        <podcast:chapter start="00:03:20" title="第三条：谷歌Gemini 3.5 Flash全面铺开"/>
+        <podcast:chapter start="00:04:20" title="第四条：DiffusionGemma开源本地推理提速4倍"/>
+        <podcast:chapter start="00:05:10" title="第五条：小米MiMo Code开源"/>
+        <podcast:chapter start="00:05:40" title="第六条：快手Keye-VL-2.0多模态大模型"/>
+        <podcast:chapter start="00:06:20" title="第七条：斯坦福2026 AI指数报告"/>
+        <podcast:chapter start="00:06:50" title="深度分析：Fable 5封杀的三个先例"/>
+        <podcast:chapter start="00:08:30" title="总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>Databricks峰会开幕，Fable 5越狱震动AI圈</title>
       <description>本期要点：Databricks Data+AI Summit 2026今日旧金山开幕聚焦智能体落地；Fable 5越狱事件暴露12万字符系统提示安全漏洞；Anthropic发布全球AI暂停提案引发行业激辩；Gemini 3.5 Pro即将发布200万token超长上下文；MolmoAct 2机器人AI在斯坦福投入基因编辑实验</description>
