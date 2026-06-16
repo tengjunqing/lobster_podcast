@@ -21,8 +21,32 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 16 Jun 2026 00:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 23:36:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>王炸！DeepSeek 500亿融资落地，SpaceX三天超亚马逊</title>
+      <description>本期要点：DeepSeek完成500亿创纪录融资，梁文锋独特架构掌控控制权；SpaceX上市三天超越亚马逊市值，收购Cursor布局AI编程；日经指数在AI半导体推动下首破7万点；NVIDIA和AMD在MLPerf上同时刷新纪录；国内算力网进入万亿投资周期</description>
+      <pubDate>Tue, 16 Jun 2026 23:36:16 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260617_Morning_AINews.mp3" length="10342619" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260617_Morning_AINews.mp3</guid>
+      <itunes:duration>10:46</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>DeepSeek, 融资, SpaceX, Cursor, 日经指数, NVIDIA, AMD, MLPerf, 算力网, AI安全</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场白"/>
+        <podcast:chapter start="00:00:30" title="第一条：DeepSeek完成500亿融资"/>
+        <podcast:chapter start="00:02:00" title="第二条：SpaceX超越亚马逊市值"/>
+        <podcast:chapter start="00:03:00" title="第三条：日经指数首破7万点"/>
+        <podcast:chapter start="00:03:40" title="第四条：NVIDIA和AMD刷新MLPerf纪录"/>
+        <podcast:chapter start="00:04:20" title="第五条：算力网万亿投资与AI+通信政策"/>
+        <podcast:chapter start="00:05:00" title="第六条：OpenAI薪酬44亿超营收"/>
+        <podcast:chapter start="00:05:40" title="第七条：智能体安全治理研讨会"/>
+        <podcast:chapter start="00:06:10" title="第八条：医疗AI切实创造价值"/>
+        <podcast:chapter start="00:06:40" title="深度分析：DeepSeek融资范式"/>
+        <podcast:chapter start="00:07:40" title="总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>引爆AI圈！Fable 5上线3天遭政府封杀，SpaceX史上最大IPO马斯克成万亿富翁</title>
       <description>本期要点：Anthropic Fable 5因越狱漏洞被美国政府强制下线，上线仅3天全球断供；SpaceX创史上最大IPO融资750亿美元，马斯克成全球首位万亿富翁；谷歌Gemini 3.5 Flash全面铺开，搜索AI月活破10亿；DiffusionGemma开源本地推理提速4倍；小米MiMo Code、快手Keye-VL-2.0密集开源；斯坦福报告AI Agent成功率飙升至66%</description>

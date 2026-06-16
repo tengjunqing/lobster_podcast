@@ -39,7 +39,7 @@ def generate_speech(text, output_path, voice_prompt="你是一个专业的播客
     }
 
     print(f"🎤 调用 MiMo TTS API...")
-    resp = requests.post(API_URL, headers=headers, json=payload, timeout=120)
+    resp = requests.post(API_URL, headers=headers, json=payload, timeout=300)
     resp.raise_for_status()
 
     data = resp.json()

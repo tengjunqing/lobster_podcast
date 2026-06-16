@@ -70,6 +70,57 @@
           "title": "总结"
         }
       ]
+    },
+    "20260617_Morning": {
+      "title": "王炸！DeepSeek 500亿融资落地，SpaceX三天超亚马逊",
+      "description": "本期要点：DeepSeek完成500亿创纪录融资，梁文锋独特架构掌控控制权；SpaceX上市三天超越亚马逊市值，收购Cursor布局AI编程；日经指数在AI半导体推动下首破7万点；NVIDIA和AMD在MLPerf上同时刷新纪录；国内算力网进入万亿投资周期",
+      "keywords": "DeepSeek, 融资, SpaceX, Cursor, 日经指数, NVIDIA, AMD, MLPerf, 算力网, AI安全",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场白"
+        },
+        {
+          "start": "00:00:30",
+          "title": "第一条：DeepSeek完成500亿融资"
+        },
+        {
+          "start": "00:02:00",
+          "title": "第二条：SpaceX超越亚马逊市值"
+        },
+        {
+          "start": "00:03:00",
+          "title": "第三条：日经指数首破7万点"
+        },
+        {
+          "start": "00:03:40",
+          "title": "第四条：NVIDIA和AMD刷新MLPerf纪录"
+        },
+        {
+          "start": "00:04:20",
+          "title": "第五条：算力网万亿投资与AI+通信政策"
+        },
+        {
+          "start": "00:05:00",
+          "title": "第六条：OpenAI薪酬44亿超营收"
+        },
+        {
+          "start": "00:05:40",
+          "title": "第七条：智能体安全治理研讨会"
+        },
+        {
+          "start": "00:06:10",
+          "title": "第八条：医疗AI切实创造价值"
+        },
+        {
+          "start": "00:06:40",
+          "title": "深度分析：DeepSeek融资范式"
+        },
+        {
+          "start": "00:07:40",
+          "title": "总结"
+        }
+      ]
     }
   }
 }
