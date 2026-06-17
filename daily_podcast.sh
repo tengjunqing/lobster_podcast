@@ -1,30 +1,42 @@
 #!/bin/bash
-# 每日播客自动化脚本
+# 每日播客自动化脚本 v2.0
 # 由 OpenClaw Agent 调用，执行完整的播客生成流程
+# 新增：片头拼接 + BGM背景音乐混合
 #
-# 用法：bash daily_podcast.sh <音频文件路径> <日期标签> [标题] [描述]
-# 示例：bash daily_podcast.sh /tmp/podcast_20260603.mp3 20260603_Morning "AI双雄冲刺IPO" "本期要点：OpenAI与Anthropic同步冲刺IPO..."
+# 用法：bash daily_podcast.sh <人声音频路径> <日期标签> [标题] [描述]
+# 示例：bash daily_podcast.sh /tmp/podcast_raw.mp3 20260603_Morning "AI双雄冲刺IPO" "本期要点..."
 
 set -e
 
 PODCAST_DIR="$HOME/lobster_podcast"
-AUDIO_FILE="$1"
+VOICE_FILE="$1"
 DATE_TAG="$2"
 EPISODE_TITLE="$3"
 EPISODE_DESC="$4"
 
-if [ -z "$AUDIO_FILE" ] || [ -z "$DATE_TAG" ]; then
-    echo "用法: bash daily_podcast.sh <音频文件路径> <日期标签> [标题] [描述]"
-    echo "示例: bash daily_podcast.sh /tmp/podcast.mp3 20260603_Morning \"AI双雄冲刺IPO\" \"本期要点...\""
+if [ -z "$VOICE_FILE" ] || [ -z "$DATE_TAG" ]; then
+    echo "用法: bash daily_podcast.sh <人声音频路径> <日期标签> [标题] [描述]"
+    echo "示例: bash daily_podcast.sh /tmp/podcast_raw.mp3 20260603_Morning \"AI双雄冲刺IPO\" \"本期要点...\""
     exit 1
 fi
 
 cd "$PODCAST_DIR"
 
-# 1. 复制音频到播客目录
+# 1. 混音处理：片头 + BGM + 人声 → 最终音频
+RAW_FILE="audio/${DATE_TAG}_raw.mp3"
 TARGET_FILE="audio/${DATE_TAG}_AINews.mp3"
-echo "📁 复制音频: $AUDIO_FILE → $TARGET_FILE"
-cp "$AUDIO_FILE" "$TARGET_FILE"
+echo "📁 复制人声: $VOICE_FILE → $RAW_FILE"
+cp "$VOICE_FILE" "$RAW_FILE"
+
+echo "🎵 混音处理（片头 + BGM）..."
+python3 mix_bgm.py "$RAW_FILE" "$TARGET_FILE"
+if [ $? -ne 0 ]; then
+    echo "❌ 混音失败，回退到纯人声..."
+    cp "$RAW_FILE" "$TARGET_FILE"
+fi
+
+# 清理临时人声文件
+rm -f "$RAW_FILE"
 
 # 2. 如果有标题和描述，更新 episodes.json
 if [ -n "$EPISODE_TITLE" ]; then
