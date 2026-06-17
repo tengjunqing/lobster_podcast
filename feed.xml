@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 16 Jun 2026 23:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:34:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>变天了！G7峰会AI巨头定规则，OpenAI巨亏390亿曝光</title>
+      <description>本期要点：G7峰会Altman、Hassabis、Amodei与特朗普讨论全球AI标准协调；OpenAI 2025年巨亏390亿美元，IPO成续命关键；SpaceX上市一周后首跌6%；智谱GLM-5.2开源登顶全球评测；ChatGPT全球份额跌破50%；支付宝推出AI助手阿宝</description>
+      <pubDate>Wed, 17 Jun 2026 23:33:45 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_AINews.mp3" length="7914518" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_AINews.mp3</guid>
+      <itunes:duration>08:14</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>G7峰会,AI标准,OpenAI亏损,SpaceX,智谱GLM-5.2,ChatGPT,支付宝AI,硅基流动</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:04:30" title="深度探索：G7峰会与全球AI标准"/>
+        <podcast:chapter start="00:06:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>王炸！DeepSeek 500亿融资落地，SpaceX三天超亚马逊</title>
       <description>本期要点：DeepSeek完成500亿创纪录融资，梁文锋独特架构掌控控制权；SpaceX上市三天超越亚马逊市值，收购Cursor布局AI编程；日经指数在AI半导体推动下首破7万点；NVIDIA和AMD在MLPerf上同时刷新纪录；国内算力网进入万亿投资周期</description>

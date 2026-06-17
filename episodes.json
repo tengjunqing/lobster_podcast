@@ -121,6 +121,29 @@
           "title": "总结"
         }
       ]
+    },
+    "20260618_Morning": {
+      "title": "变天了！G7峰会AI巨头定规则，OpenAI巨亏390亿曝光",
+      "description": "本期要点：G7峰会Altman、Hassabis、Amodei与特朗普讨论全球AI标准协调；OpenAI 2025年巨亏390亿美元，IPO成续命关键；SpaceX上市一周后首跌6%；智谱GLM-5.2开源登顶全球评测；ChatGPT全球份额跌破50%；支付宝推出AI助手阿宝",
+      "keywords": "G7峰会,AI标准,OpenAI亏损,SpaceX,智谱GLM-5.2,ChatGPT,支付宝AI,硅基流动",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:30",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:04:30",
+          "title": "深度探索：G7峰会与全球AI标准"
+        },
+        {
+          "start": "00:06:30",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }
