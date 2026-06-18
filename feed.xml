@@ -21,8 +21,42 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 17 Jun 2026 23:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 23:04:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>桑德斯突袭！AI公司一半股份归全民，每年发1000美元AI红利</title>
+      <description>本期要点：桑德斯提出AI主权财富基金法案，要求公众持有AI公司50%股份；马斯克预测中国AI明年一季度追上Fable级别；印度Sarvam AI成为新独角兽，主权AI赛道升温；ChatGPT接入银行账户引发隐私争议；日本银行业警告或因AI威胁暂停ATM服务；Snapchat发布全套AI广告工具；Cloudflare数据显示机器人流量首超人类</description>
+      <pubDate>Thu, 18 Jun 2026 23:04:13 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260619_Morning_AINews.mp3" length="8963596" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260619_Morning_AINews.mp3</guid>
+      <itunes:duration>09:20</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>桑德斯, AI主权财富基金, 马斯克, 智谱, Sarvam AI, ChatGPT银行账户, 日本银行AI安全, Snapchat AI广告, Cloudflare机器人流量</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:28" title="资讯速递"/>
+        <podcast:chapter start="00:05:30" title="深度探索：桑德斯AI主权财富基金法案"/>
+        <podcast:chapter start="00:08:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
+    <item>
+      <title>变天了！G7峰会AI巨头定规则，OpenAI巨亏390亿曝光</title>
+      <description>本期要点：G7峰会Altman、Hassabis、Amodei与特朗普讨论全球AI标准协调；OpenAI 2025年巨亏390亿美元，IPO成续命关键；SpaceX上市一周后首跌6%；智谱GLM-5.2开源登顶全球评测；ChatGPT全球份额跌破50%；支付宝推出AI助手阿宝</description>
+      <pubDate>Thu, 18 Jun 2026 13:53:02 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_final.mp3" length="8500915" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_final.mp3</guid>
+      <itunes:duration>08:51</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>G7峰会,AI标准,OpenAI亏损,SpaceX,智谱GLM-5.2,ChatGPT,支付宝AI,硅基流动</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:04:30" title="深度探索：G7峰会与全球AI标准"/>
+        <podcast:chapter start="00:06:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>变天了！G7峰会AI巨头定规则，OpenAI巨亏390亿曝光</title>
       <description>本期要点：G7峰会Altman、Hassabis、Amodei与特朗普讨论全球AI标准协调；OpenAI 2025年巨亏390亿美元，IPO成续命关键；SpaceX上市一周后首跌6%；智谱GLM-5.2开源登顶全球评测；ChatGPT全球份额跌破50%；支付宝推出AI助手阿宝</description>
