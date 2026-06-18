@@ -68,7 +68,8 @@ def mix_podcast(voice_path, output_path, bgm_path=None, intro_path=None, outro_p
     outro_dur = get_duration(outro_path) if has_outro else 0
     body_dur = voice_dur  # 人声总时长 = 看点预告 + 正文
     overlap = min(INTRO_OVERLAP, intro_dur)
-    total_dur = overlap + body_dur + outro_dur
+    # total_dur = 人声时长 + 片尾时长（overlap只是片头与人声重叠，不额外增加时长）
+    total_dur = body_dur + outro_dur
 
     print(f"🎵 混音参数（看点预告模式）:")
     print(f"   片头音乐: {overlap:.0f}s（与人声重叠，在'大家好'前结束）")
@@ -124,7 +125,8 @@ def mix_podcast(voice_path, output_path, bgm_path=None, intro_path=None, outro_p
             f"afade=t=out:st={overlap-1.5}:d=1.5[intro_vol];"
             f"[1:a]volume={VOICE_VOL}[voice_vol];"
             f"[2:a]aloop=loop=-1:size=2e+09,atrim=duration={total_dur},"
-            f"volume=if(lt(t\\,{overlap})\\,0\\,{BGM_VOL_BODY})[bgm_vol];"
+            f"volume=if(lt(t\\,{overlap})\\,0\\,{BGM_VOL_BODY}),"
+            f"afade=t=in:st={overlap}:d=1.5,afade=t=out:st={total_dur-1.5}:d=1.5[bgm_vol];"
             f"[intro_vol][voice_vol][bgm_vol]amix=inputs=3:duration=longest:dropout_transition=0[out]"
         )
         cmd = [
