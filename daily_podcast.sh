@@ -1,7 +1,7 @@
 #!/bin/bash
-# 每日播客自动化脚本 v2.0
+# 每日播客自动化脚本 v3.0
 # 由 OpenClaw Agent 调用，执行完整的播客生成流程
-# 新增：片头拼接 + BGM背景音乐混合
+# 新增：片头+BGM+片尾三明治混音（v3.0）
 #
 # 用法：bash daily_podcast.sh <人声音频路径> <日期标签> [标题] [描述]
 # 示例：bash daily_podcast.sh /tmp/podcast_raw.mp3 20260603_Morning "AI双雄冲刺IPO" "本期要点..."
@@ -71,7 +71,7 @@ python3 generate_feed.py
 echo "📦 提交并推送..."
 git add -A
 git commit -m "🎙️ 新增播客: ${DATE_TAG}" || echo "无变更"
-git push origin main
+git push origin master
 
 echo "✅ 播客发布成功！"
 echo "🎧 音频文件: $TARGET_FILE"

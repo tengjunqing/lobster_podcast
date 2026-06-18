@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
-播客混音脚本 v2.0
-功能：片头音乐与人声重叠（看点预告）+ BGM铺底 + 片尾音乐
+播客混音脚本 v3.0
+功能：片头音乐与人声重叠（看点预告）+ BGM铺底 + 片尾音乐收尾
 用法：python3 mix_bgm.py <人声mp3> <输出mp3> [--bgm BGM路径] [--intro 片头路径] [--outro 片尾路径]
 
-混音逻辑（v2.0 - 看点预告模式）：
-- 片头段：片头音乐100% + 人声（精彩看点预告，音乐与人声重叠）
-- 片头结束后：片头音乐渐弱到15%，BGM开始铺底（15%）
-- 正文段：BGM 15% + 人声
-- 片尾段：片尾音乐100%
+混音逻辑（v3.0 - 完整三明治模式）：
+- 片头段（前22s）：片头音乐80% + 人声120%（看点预告重叠）
+- 正文段：BGM 80% + 人声120%（片头渐弱 → BGM淡入）
+- 片尾段（最后15s）：BGM渐弱 → 片尾音乐85%淡入收尾
 """
 
 import subprocess
@@ -19,15 +18,16 @@ import argparse
 # 默认路径
 PODCAST_DIR = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_BGM = os.path.join(PODCAST_DIR, "assets", "podcast_bgm.mp3")
-DEFAULT_INTRO = os.path.join(PODCAST_DIR, "assets", "Intro music.mp3")
-DEFAULT_OUTRO = None  # 片尾音乐已禁用
+DEFAULT_INTRO = os.path.join(PODCAST_DIR, "assets", "intro_30s.mp3")
+DEFAULT_OUTRO = os.path.join(PODCAST_DIR, "assets", "outro music 2.mp3")  # 21s，适合收尾
 
 # 音量参数
-INTRO_VOL = 0.8        # 片头音乐音量（80%）
-BGM_VOL_BODY = 0.8    # 正文BGM音量（80%）
-VOICE_VOL = 1.2        # 人声音量（120%，加强20%）
-INTRO_OVERLAP = 25     # 片头音乐与人声重叠时长（秒），覆盖到"大家好"前
-OUTRO_ADVANCE = 30     # 片尾音乐提前进入时长（秒），在"我们明天见"前进入
+INTRO_VOL = 0.80       # 片头音乐音量（80%）
+BGM_VOL_BODY = 0.80   # 正文BGM音量（80%）
+VOICE_VOL = 1.20       # 人声音量（120%）
+OUTRO_VOL = 0.85       # 片尾音乐音量（85%，与片头匹配）
+INTRO_OVERLAP = 22     # 片头与人声重叠时长（秒），覆盖看点预告到"大家好"前
+OUTRO_ADVANCE = 15     # 片尾提前进入时长（秒），在"我们明天见"前淡入
 
 
 def get_duration(filepath):
@@ -71,38 +71,40 @@ def mix_podcast(voice_path, output_path, bgm_path=None, intro_path=None, outro_p
     # total_dur = 人声时长 + 片尾时长（overlap只是片头与人声重叠，不额外增加时长）
     total_dur = body_dur + outro_dur
 
-    print(f"🎵 混音参数（看点预告模式）:")
-    print(f"   片头音乐: {overlap:.0f}s（与人声重叠，在'大家好'前结束）")
+    print(f"🎵 混音参数（v3.0 三明治模式）:")
+    print(f"   片头音乐: {overlap:.0f}s（与人声重叠，看点预告）")
     print(f"   人声: {body_dur:.1f}s")
     if has_outro:
-        print(f"   片尾音乐: {outro_dur:.1f}s")
+        print(f"   片尾音乐: {outro_dur:.1f}s（提前{OUTRO_ADVANCE}s淡入）")
     print(f"   总时长: {total_dur:.1f}s")
-    print(f"   🎤 片头段: 音乐{INTRO_VOL*100:.0f}% + 人声（精彩看点）")
-    print(f"   🎵 正文段: BGM {BGM_VOL_BODY*100:.0f}% + 人声")
+    print(f"   🎤 片头段: 音乐{INTRO_VOL*100:.0f}% + 人声{VOICE_VOL*100:.0f}%")
+    print(f"   🎵 正文段: BGM {BGM_VOL_BODY*100:.0f}% + 人声{VOICE_VOL*100:.0f}%")
     if has_outro:
-        print(f"   🎵 片尾段: 音乐100%")
+        print(f"   🎵 片尾段: 音乐{OUTRO_VOL*100:.0f}%")
 
-    # 构建滤镜 - 片头音乐与人声重叠（看点预告效果）
-    # [0:a]=片头音乐 [1:a]=人声 [2:a]=片尾(可选) [3:a]=BGM
+    # 构建滤镜 - v3.0 三明治混音
+    # [0:a]=片头音乐 [1:a]=人声 [2:a]=片尾 [3:a]=BGM
     if has_outro:
         outro_start = overlap + body_dur - OUTRO_ADVANCE
         filter_complex = (
-            # 片头音乐：前 overlap 秒高音量（与人声重叠=看点预告），之后静音
+            # 片头音乐：前 overlap 秒与人声重叠（看点预告），末尾淡出1.5s
             f"[0:a]atrim=duration={overlap},volume={INTRO_VOL},"
             f"afade=t=out:st={overlap-1.5}:d=1.5[intro_vol];"
-            # 人声音量增强20%
+            # 人声音量增强
             f"[1:a]volume={VOICE_VOL}[voice_vol];"
-            # BGM循环，正文段音量，片头段静音，添加淡入淡出（1.5秒）
+            # BGM循环播放，正文段开始淡入，片尾段渐弱
             f"[3:a]aloop=loop=-1:size=2e+09,atrim=duration={total_dur},"
-            f"volume=if(lt(t\\,{overlap})\\,0\\,{BGM_VOL_BODY}),"
-            f"afade=t=in:st={overlap}:d=1.5,afade=t=out:st={total_dur-1.5}:d=1.5[bgm_vol];"
-            # 片尾音乐：先创建静音段，再拼接片尾，实现延迟播放
+            f"volume=if(lt(t\\,{overlap})\\,0\\,{BGM_VOL_BODY})"
+            f"*if(gte(t\\,{outro_start})\\,max(0\\,1-(t-{outro_start})/{OUTRO_ADVANCE})\\,1),"
+            f"afade=t=in:st={overlap}:d=1.5[bgm_vol];"
+            # 片尾音乐：静音延迟 → 拼接片尾 → 淡入淡出
             f"anullsrc=r=44100:cl=mono,atrim=duration={outro_start}[silence];"
             f"[silence][2:a]concat=n=2:v=0:a=1[outro_padded];"
             f"[outro_padded]atrim=duration={total_dur},"
-            f"volume=1.5,"
-            f"afade=t=in:st={outro_start}:d=1,afade=t=out:st={outro_start+outro_dur-2}:d=2[outro_vol];"
-            # 混合4层：片头音乐 + 人声 + BGM + 片尾音乐
+            f"volume={OUTRO_VOL},"
+            f"afade=t=in:st={outro_start}:d=1.5,"
+            f"afade=t=out:st={outro_start+outro_dur-2}:d=2[outro_vol];"
+            # 混合4层
             f"[intro_vol][voice_vol][bgm_vol][outro_vol]amix=inputs=4:duration=longest:dropout_transition=0[out]"
         )
         cmd = [
@@ -120,13 +122,15 @@ def mix_podcast(voice_path, output_path, bgm_path=None, intro_path=None, outro_p
             output_path
         ]
     else:
+        # 无片尾回退模式：BGM保持到结尾并淡出
         filter_complex = (
             f"[0:a]atrim=duration={overlap},volume={INTRO_VOL},"
             f"afade=t=out:st={overlap-1.5}:d=1.5[intro_vol];"
             f"[1:a]volume={VOICE_VOL}[voice_vol];"
             f"[2:a]aloop=loop=-1:size=2e+09,atrim=duration={total_dur},"
             f"volume=if(lt(t\\,{overlap})\\,0\\,{BGM_VOL_BODY}),"
-            f"afade=t=in:st={overlap}:d=1.5,afade=t=out:st={total_dur-1.5}:d=1.5[bgm_vol];"
+            f"afade=t=in:st={overlap}:d=1.5,"
+            f"afade=t=out:st={total_dur-2}:d=2[bgm_vol];"
             f"[intro_vol][voice_vol][bgm_vol]amix=inputs=3:duration=longest:dropout_transition=0[out]"
         )
         cmd = [
@@ -167,7 +171,7 @@ def mix_podcast(voice_path, output_path, bgm_path=None, intro_path=None, outro_p
 
 
 def main():
-    parser = argparse.ArgumentParser(description="播客混音（看点预告模式：片头音乐+人声重叠+BGM+片尾）")
+    parser = argparse.ArgumentParser(description="播客混音 v3.0（片头+BGM+片尾三明治混音）")
     parser.add_argument("voice", help="人声音频路径")
     parser.add_argument("output", help="输出音频路径")
     parser.add_argument("--bgm", default=DEFAULT_BGM, help="BGM路径")
