@@ -167,6 +167,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260620_Morning": {
+      "title": "马斯克要把数据中心送上太空！SpaceX轨道AI卫星正式公布，Google AI灵魂人物跳槽OpenAI",
+      "description": "本期要点：SpaceX公布AI1轨道数据中心卫星设计，目标百万颗卫星组成太空算力星座；Transformer论文联合作者Noam Shazeer从Google跳槽到OpenAI；Pew调查显示半数美国人使用AI但仅16%看好AI前景；OpenAI发布部署模拟安全方法；SoftBank与OpenAI联手推出AI网络安全服务；Odyssey融资3.1亿美元打造世界模型",
+      "keywords": "SpaceX,AI1,轨道数据中心,Noam Shazeer,OpenAI,Pew调查,AI信任危机,部署模拟,世界模型,SoftBank",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:30",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:05:40",
+          "title": "深度探索：AI太空竞赛"
+        },
+        {
+          "start": "00:08:50",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }

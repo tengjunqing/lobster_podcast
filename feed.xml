@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 18 Jun 2026 23:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 23:04:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>马斯克要把数据中心送上太空！SpaceX轨道AI卫星正式公布，Google AI灵魂人物跳槽OpenAI</title>
+      <description>本期要点：SpaceX公布AI1轨道数据中心卫星设计，目标百万颗卫星组成太空算力星座；Transformer论文联合作者Noam Shazeer从Google跳槽到OpenAI；Pew调查显示半数美国人使用AI但仅16%看好AI前景；OpenAI发布部署模拟安全方法；SoftBank与OpenAI联手推出AI网络安全服务；Odyssey融资3.1亿美元打造世界模型</description>
+      <pubDate>Fri, 19 Jun 2026 23:04:21 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260620_Morning_AINews.mp3" length="9012079" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260620_Morning_AINews.mp3</guid>
+      <itunes:duration>09:23</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>SpaceX,AI1,轨道数据中心,Noam Shazeer,OpenAI,Pew调查,AI信任危机,部署模拟,世界模型,SoftBank</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:05:40" title="深度探索：AI太空竞赛"/>
+        <podcast:chapter start="00:08:50" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>桑德斯突袭！AI公司一半股份归全民，每年发1000美元AI红利</title>
       <description>本期要点：桑德斯提出AI主权财富基金法案，要求公众持有AI公司50%股份；马斯克预测中国AI明年一季度追上Fable级别；印度Sarvam AI成为新独角兽，主权AI赛道升温；ChatGPT接入银行账户引发隐私争议；日本银行业警告或因AI威胁暂停ATM服务；Snapchat发布全套AI广告工具；Cloudflare数据显示机器人流量首超人类</description>
