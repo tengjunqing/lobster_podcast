@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 19 Jun 2026 23:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 23:04:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>暗度陈仓！GPT-5.6偷偷上线，Agentjacking席卷全球</title>
+      <description>本期要点：GPT-5.6疑似在ChatGPT Pro悄悄上线，开发者实测速度翻倍；Agentjacking新型AI安全攻击席卷2388家企业，成功率高达85%；Anthropic签下超1吉瓦数据中心租约，同步推进万亿级IPO；《经济学人》封面定性美国AI管控为地缘政治行为；AI编程工具采用率97%但治理框架严重滞后</description>
+      <pubDate>Sat, 20 Jun 2026 23:04:30 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260621_Morning_AINews.mp3" length="10724876" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260621_Morning_AINews.mp3</guid>
+      <itunes:duration>11:10</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>GPT-5.6,Agentjacking,Anthropic,AI安全,AI编程,经济学人,数据中心,IPO</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:05:30" title="深度探索：Agentjacking安全威胁"/>
+        <podcast:chapter start="00:07:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>马斯克要把数据中心送上太空！SpaceX轨道AI卫星正式公布，Google AI灵魂人物跳槽OpenAI</title>
       <description>本期要点：SpaceX公布AI1轨道数据中心卫星设计，目标百万颗卫星组成太空算力星座；Transformer论文联合作者Noam Shazeer从Google跳槽到OpenAI；Pew调查显示半数美国人使用AI但仅16%看好AI前景；OpenAI发布部署模拟安全方法；SoftBank与OpenAI联手推出AI网络安全服务；Odyssey融资3.1亿美元打造世界模型</description>
