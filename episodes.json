@@ -213,6 +213,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260622_Morning": {
+      "title": "特朗普改口！Fable 5回归在即，诺奖得主投奔Anthropic",
+      "description": "本期要点：特朗普改口称Anthropic不构成安全威胁，Fable 5回归在即；诺奖得主Jumper和Karpathy齐聚Anthropic，AI人才战升至顶峰；OpenRouter三个便宜模型组合碾压单个旗舰；欧盟发布技术主权方案；国内金融监管出台AI安全治理指导意见",
+      "keywords": "特朗普,Anthropic,Fable 5,OpenRouter,AI人才,欧盟技术主权,摩尔线程,AI治理",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:30",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:05:00",
+          "title": "深度探索：Fable 5的命运与AI治理博弈"
+        },
+        {
+          "start": "00:06:30",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }

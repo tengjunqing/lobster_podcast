@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 20 Jun 2026 23:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 23:03:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>特朗普改口！Fable 5回归在即，诺奖得主投奔Anthropic</title>
+      <description>本期要点：特朗普改口称Anthropic不构成安全威胁，Fable 5回归在即；诺奖得主Jumper和Karpathy齐聚Anthropic，AI人才战升至顶峰；OpenRouter三个便宜模型组合碾压单个旗舰；欧盟发布技术主权方案；国内金融监管出台AI安全治理指导意见</description>
+      <pubDate>Sun, 21 Jun 2026 23:03:03 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260622_Morning_AINews.mp3" length="6684883" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260622_Morning_AINews.mp3</guid>
+      <itunes:duration>06:57</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>特朗普,Anthropic,Fable 5,OpenRouter,AI人才,欧盟技术主权,摩尔线程,AI治理</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:05:00" title="深度探索：Fable 5的命运与AI治理博弈"/>
+        <podcast:chapter start="00:06:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>暗度陈仓！GPT-5.6偷偷上线，Agentjacking席卷全球</title>
       <description>本期要点：GPT-5.6疑似在ChatGPT Pro悄悄上线，开发者实测速度翻倍；Agentjacking新型AI安全攻击席卷2388家企业，成功率高达85%；Anthropic签下超1吉瓦数据中心租约，同步推进万亿级IPO；《经济学人》封面定性美国AI管控为地缘政治行为；AI编程工具采用率97%但治理框架严重滞后</description>
