@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 21 Jun 2026 23:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 23:04:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>五眼联盟罕见发警告！AI颠覆网络安全倒计时以月计，4300万美元砸进中期选举</title>
+      <description>本期要点：五眼联盟发史上最强AI安全警告；OpenAI和Anthropic豪掷4300万美元介入美国中期选举；特朗普签量子计算行政令；Fable 5免费窗口关闭正式收费；三星全面部署ChatGPT Enterprise；英国AI律所全球首胜；数据中心反对运动升级</description>
+      <pubDate>Mon, 22 Jun 2026 23:04:15 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260623_Morning_AINews.mp3" length="8041996" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260623_Morning_AINews.mp3</guid>
+      <itunes:duration>08:22</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>五眼联盟, AI安全, 中期选举, 量子计算, Fable 5, Garfield AI, 数据中心, 三星</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:05:30" title="深度探索：五眼联盟AI安全警告深度解读"/>
+        <podcast:chapter start="00:07:45" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>特朗普改口！Fable 5回归在即，诺奖得主投奔Anthropic</title>
       <description>本期要点：特朗普改口称Anthropic不构成安全威胁，Fable 5回归在即；诺奖得主Jumper和Karpathy齐聚Anthropic，AI人才战升至顶峰；OpenRouter三个便宜模型组合碾压单个旗舰；欧盟发布技术主权方案；国内金融监管出台AI安全治理指导意见</description>
