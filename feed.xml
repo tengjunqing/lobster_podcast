@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 22 Jun 2026 23:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:04:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>破防了！韩国股市暴跌10%触发熔断，AI泡沫第一块多米诺骨牌倒了？</title>
+      <description>本期要点：韩国KOSPI暴跌10%触发熔断，三星SK海力士双双崩盘；Meta推出自有品牌AI眼镜299美元起，首次脱离Ray-Ban独立出击；Oracle承认AI裁员21000人，遣散费18.4亿美元；2026年科技行业AI裁员超12万人；WEF十大新兴技术报告指出技术重心转向物理系统；Amazon撤掉4000万美元Sam Altman传记电影</description>
+      <pubDate>Tue, 23 Jun 2026 23:03:55 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260624_Morning_AINews.mp3" length="6856664" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260624_Morning_AINews.mp3</guid>
+      <itunes:duration>07:08</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>韩国股市崩盘, Meta AI眼镜, Oracle裁员, AI泡沫, KOSPI熔断, SK海力士, AI裁员潮, 新兴技术</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:25" title="资讯速递"/>
+        <podcast:chapter start="00:04:10" title="深度探索：韩国股市暴跌与AI泡沫之争"/>
+        <podcast:chapter start="00:06:10" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>五眼联盟罕见发警告！AI颠覆网络安全倒计时以月计，4300万美元砸进中期选举</title>
       <description>本期要点：五眼联盟发史上最强AI安全警告；OpenAI和Anthropic豪掷4300万美元介入美国中期选举；特朗普签量子计算行政令；Fable 5免费窗口关闭正式收费；三星全面部署ChatGPT Enterprise；英国AI律所全球首胜；数据中心反对运动升级</description>
