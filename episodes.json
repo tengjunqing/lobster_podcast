@@ -282,6 +282,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260625_Morning": {
+      "title": "Google被掏空了！六天四位核心AI研究员集体出逃，Anthropic疯狂挖人",
+      "description": "本期要点：Google六天内失去四位高级AI研究员，三位去Anthropic一位去OpenAI；OpenAI发布GPT-5.5-Cyber网安专用模型，CyberGym得分创历史纪录；特朗普施压Meta提交AI模型审查，成为唯一拒绝配合的开发商；SpaceX与Reflection AI签下63亿美元算力合约；OpenAI收购Ona补齐Codex短板；Gemini 3.5 Pro六月发布承诺即将落空",
+      "keywords": "Google AI人才流失, Anthropic, OpenAI, GPT-5.5-Cyber, Meta AI审查, SpaceX算力, Gemini 3.5 Pro, Patch the Planet",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:30",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:04:45",
+          "title": "深度探索：Google AI人才大逃亡"
+        },
+        {
+          "start": "00:06:45",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }

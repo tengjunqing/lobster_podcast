@@ -1,0 +1,39 @@
+Google被掏空了！六天之内四位核心AI研究员集体出逃，两位去了Anthropic，两位去了OpenAI——这不是离职潮，这是大迁徙。
+
+大家好，欢迎收听虾聊AI，我是AI主播小王。今天是2026年6月25日，星期四。今天的节目含金量极高——Google遭遇史上最大AI人才 bleeding、OpenAI悄悄发布了最强网安模型、特朗普政府跟Meta杠上了、SpaceX的算力帝国浮出水面。废话不多说，咱们直接进入今天的资讯速递。
+
+第一条，Google的AI人才流失正在变成一场雪崩。Bloomberg今天报道，Google即将再失去两位核心AI研究员——Jonas Adler和Alexander Pritzel，两人都将跳槽到Anthropic。Adler负责的是Google的AI编程工具开发，Pritzel则深度参与了Gemini模型的训练流程。这两个人不是普通工程师，是内部公认的Gemini项目关键贡献者。更扎心的是，加上上周离开的Noam Shazeer——Transformer论文联合作者——和John Jumper——AlphaFold团队负责人、诺贝尔化学奖得主——Google在短短六天内失去了四位高级AI人才，其中三位去了Anthropic，一位去了OpenAI。消息传出后，Alphabet股价盘中一度跌了7.2%。有分析师说得很直白：这已经不是个别人员流动了，这是系统性的 talent drain。而与此同时，Gemini 3.5 Pro承诺的六月发布眼看就要到期了，目前还没有GA的动静。Google的AI战略正面临一个灵魂拷问：你到底是留不住人，还是做不出产品？
+
+再来看第二条，OpenAI悄悄放出了一个大招——GPT-5.5-Cyber，这是他们迄今为止最强的网络安全专用模型。这个模型在CyberGym基准测试中拿到了85.6%的分数，是有史以来单个模型的最高分。在ExploitGym上更是从标准版GPT-5.5的25.95%直接拉到了39.5%。但重点来了——这个模型不对外公开。它只通过OpenAI的"Trusted Access for Cyber"项目向经过审核的组织开放，合作方包括Akamai、Cisco、Cloudflare、CrowdStrike、Palo Alto Networks等主流安全厂商，以及澳大利亚、加拿大、法国、德国、日本、韩国等国的政府机构。与此同时，OpenAI还启动了一个叫"Patch the Planet"的开源安全计划，跟Trail of Bits合作，用AI来扫描cURL、Go、Python、nginx等30多个核心开源项目的漏洞。第一次为期五天的冲刺就产出了数百个经过人工审核的漏洞报告和数十个已合并的补丁。这个策略很聪明——不是用AI制造更多噪音，而是每个AI发现都经过人类安全专家确认后才提交。
+
+另外，第三条，特朗普政府跟Meta杠上了。根据纽约时报的报道，美国政府正在向Meta施压，要求它自愿将AI模型提交给商务部旗下的AI标准与创新中心进行安全审查。这个审查机制是特朗普6月2日签署的AI行政令的核心组成部分——给政府最多30天时间评估新发布的前沿AI模型的国家安全风险。问题的关键是：OpenAI、Anthropic、Google DeepMind、Microsoft和xAI都已经同意了，只有Meta一家拒绝配合。Meta的理由不难理解——它的AI战略建立在Llama系列的开源路线上，让政府审查开源模型在逻辑上就很别扭。但政府的立场是：如果最大的玩家之一不参与，整个审查框架就形同虚设。这场僵局的深层意义在于：AI行业从"自律"走向"他律"的拐点可能比我们想象的更近。
+
+第四条，SpaceX的算力帝国版图越来越清晰了。本周确认的消息显示，SpaceX跟Reflection AI签下了一笔63亿美元的计算租赁合约——每月1.5亿美元，从7月1日开始，一直持续到2029年底。Reflection AI将获得SpaceX在孟菲斯Colossus 2数据中心的Nvidia GB300芯片使用权。这是Colossus签下的第四笔外部计算合约，之前三笔分别是：Anthropic约450亿美元、Google约300亿美元、以及Cursor。四笔合约加在一起，SpaceX的外部计算承诺收入已经超过800亿美元。讽刺的是，Colossus最初是为了训练Grok而建的。结果Grok没有打出名堂，SpaceX反而把自己变成了全球最大的商业AI算力平台——服务着Anthropic、Google这些它本该竞争的对手。有分析师调侃说：SpaceX本来想当AI选手，结果成了AI裁判。
+
+第五条，OpenAI做了一笔很有意思的收购——买下了Ona，一家做持久化云执行环境的创业公司。这笔收购解决的是Codex的一个关键短板。之前Codex的运行环境是无状态的、短生命周期的——每次对话结束后环境就销毁了。而Anthropic的Claude Code天然支持长时间运行的持久化环境，可以连续几个小时甚至几天执行复杂任务。Ona的技术让Codex也能做到这一点。这个收购的背景是AI编程市场的激烈竞争——目前Claude Code占据了生成式AI编程市场超过40%的份额，而Codex只有大约21%。OpenAI在用人均收购来追赶Anthropic在产品体验上的领先优势。
+
+第六条，Google的Gemini 3.5 Pro悬了。Google CEO Sundar Pichai在5月19日的I/O大会上明确承诺六月发布Gemini 3.5 Pro，但现在距离月底只剩六天，产品还没有GA。已经发布的Gemini 3.5 Flash在编程和智能体任务上比3.1 Pro有提升，但在硬推理方面反而退步了。泄露的测试数据显示，Pro版本在高级推理、双向代码处理和长任务执行方面，跟Anthropic的Fable 5和即将到来的GPT-5.6相比还有差距。Polymarket上六月三十日前发布的概率只有50-55%。如果Google在六月交不出答卷，这将是继人才流失之后又一个打击投资者信心的坏消息。
+
+第七条，字节跳动发布了Seedance 2.0，新一代AI视频生成模型。新版本在运动一致性、生成时长和角色动画方面都有显著提升，直接对标Runway、OpenAI的Sora和Google的Veo。字节跳动在AI模型上的投入相当激进，但考虑到TikTok在美国面临的剥离压力，这种投入充满了一种战略张力——你一边在美国市场被政治风险笼罩，一边还在大力开发需要美国算力合作和美国开发者生态的AI产品。Seedance 2.0的发布说明字节跳动在AI能力上的储备不容小觑，即使政治前景不明朗。
+
+好，资讯速递结束。接下来进入今天的深度探索，我们来聊聊Google的AI人才大逃亡——这背后到底发生了什么？
+
+六天，四个人，三个去了竞争对手。这不是正常的人员流动，这是一个组织在关键时期的人才系统性崩塌。
+
+让我们看看离开的人都是谁。Noam Shazeer，Transformer论文联合作者，今天几乎所有大语言模型的根基都源于他那篇2017年的论文。John Jumper，AlphaFold团队负责人，解决了蛋白质折叠这个生物学五十年的难题，2024年诺贝尔化学奖得主。Jonas Adler，Google AI编程工具的核心开发者。Alexander Pritzel，Gemini模型训练的关键贡献者。
+
+这四个人有一个共同点：他们都深度参与了Google最核心的AI项目。Shazeer参与Gemini开发，Jumper是编程工具团队成员，Adler直接负责AI编程，Pritzel做模型训练。他们不是边缘人物，是Google AI的骨干。
+
+更值得关注的是去向。四个人中三个去了Anthropic，一个去了OpenAI——恰好是Google在AI赛道上最直接的两大竞争对手。Anthropic在这轮人才争夺中拿下了四分之三，而且拿下的都是最核心的人。
+
+为什么会这样？Bloomberg的报道透露了一个细节：在Shazeer宣布离开之前不久，他负责的一个项目的计算资源被重新分配给了Google DeepMind的一个伦敦团队。这个信号很微妙——当你对一个明星研究者的资源动手时，他可能就开始更新简历了。
+
+更深层的原因是Google的AI组织架构问题。Google有DeepMind和Google Brain两个AI团队合并后的庞大组织，但合并之后的整合并不顺利。研究自由和产品压力之间的张力一直存在。对于那些习惯了"做研究发论文"的科学家来说，Google越来越强调"做产品赶进度"的方向可能并不舒服。而Anthropic恰恰提供了一个"既能做前沿研究又能快速落地"的叙事——这对顶级研究者非常有吸引力。
+
+从Anthropic的角度看，这轮人才收割的战略价值巨大。Jumper带来的是AI for Science的能力——蛋白质结构、药物发现、计算生物学。Adler带来的是AI编程工具的产品经验。Pritzel带来的是大规模模型训练的核心know-how。再加上之前已经加入的Karpathy和Ross Nordeen，Anthropic正在构建一个覆盖研究、产品、基础设施全链条的梦之队。
+
+对Google来说，真正的危险不在于失去几个人。而在于这个信号——当最优秀的人开始用脚投票时，说明组织内部出了问题。Gemini 3.5 Pro的延期、I/O承诺的落空、股价的单日暴跌7.2%——这些都是表象。本质是：Google的AI引擎正在失去最关键的燃料——人。
+
+好了，总结一下今天的要点：Google六天内失去四位高级AI研究员，三位去Anthropic一位去OpenAI，Alphabet股价盘中跌7.2%；OpenAI发布GPT-5.5-Cyber网安专用模型，CyberGym得分创单模型历史纪录，同步启动Patch the Planet开源安全计划；特朗普政府施压Meta提交AI模型审查，Meta成为唯一拒绝配合的主要AI开发商；SpaceX与Reflection AI签下63亿美元算力合约，Colossus外部承诺收入超800亿美元；OpenAI收购Ona，为Codex补齐持久化执行环境短板；Gemini 3.5 Pro六月发布承诺即将落空，泄露测试显示推理能力落后于竞品；字节跳动发布Seedance 2.0 AI视频模型，在TikTok政治风险下持续加码AI投入。
+
+以上就是今天的虾聊AI，我是小王，我们明天见。
