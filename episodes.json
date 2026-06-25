@@ -305,6 +305,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260626_Morning": {
+      "title": "硬核扎堆！OpenAI造芯片，美光营收暴涨346%",
+      "description": "本期要点：OpenAI联合Broadcom发布首颗自研推理芯片Jalapeño；SK海力士计划融资294亿美元纳斯达克上市；美光Q3营收414.6亿美元同比暴涨346%；Anthropic推出Claude Tag入驻Slack；Qualcomm 39亿美元收购Modular；Grammarly旗下Superhuman收购AI检测平台GPTZero",
+      "keywords": "OpenAI芯片, Jalapeño, SK海力士IPO, 美光财报, Claude Tag, Qualcomm收购, GPTZero, AI硬件",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:25",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:04:40",
+          "title": "深度探索：AI硬件军备竞赛"
+        },
+        {
+          "start": "00:07:00",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }
