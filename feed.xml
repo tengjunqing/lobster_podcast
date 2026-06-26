@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 25 Jun 2026 23:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 23:04:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>王炸三连！GPT-5.6被政府看管，IPO万亿估值梦碎，苹果全线涨价</title>
+      <description>本期要点：OpenAI发布GPT-5.6三款模型但仅向20家政府审批合作伙伴开放；OpenAI考虑推迟IPO至2027年坚持万亿美元估值；苹果全线涨价MacBook Pro涨至2999美元因DRAM暴涨98%；中国开源模型GLM-5.2编程超越GPT-5.5可在单台Mac运行；加州多项AI法案加速推进；全球科技股集体下跌</description>
+      <pubDate>Fri, 26 Jun 2026 23:04:06 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260627_Morning_AINews.mp3" length="7040984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260627_Morning_AINews.mp3</guid>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>GPT-5.6, OpenAI IPO, 苹果涨价, GLM-5.2, 开源模型, AI政府审批, RAMageddon, 科技股</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:04:30" title="深度探索：GPT-5.6的政府审批发布"/>
+        <podcast:chapter start="00:06:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>硬核扎堆！OpenAI造芯片，美光营收暴涨346%</title>
       <description>本期要点：OpenAI联合Broadcom发布首颗自研推理芯片Jalapeño；SK海力士计划融资294亿美元纳斯达克上市；美光Q3营收414.6亿美元同比暴涨346%；Anthropic推出Claude Tag入驻Slack；Qualcomm 39亿美元收购Modular；Grammarly旗下Superhuman收购AI检测平台GPTZero</description>
