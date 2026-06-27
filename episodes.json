@@ -351,6 +351,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260628_Morning": {
+      "title": "石破天惊！中国超算时隔九年重夺全球第一，纯CPU方案打破GPU霸权",
+      "description": "本期要点：中国LineShine超算2.198 exaflops登顶TOP500，纯CPU方案颠覆GPU至上共识；Fox 220亿美元收购Roku改写流媒体版图；RAISE US获5亿美元资助助AI时代工人转型；英伟达Rubin世代100%液冷零水消耗方案发布；中国科技IPO创2023年以来最强浪潮",
+      "keywords": "中国超算, LineShine, TOP500, Fox收购Roku, RAISE US, 英伟达液冷, 中国科技IPO, 机器人投资",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:25",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:05:30",
+          "title": "深度探索：中国超算LineShine登顶的战略意义"
+        },
+        {
+          "start": "00:07:50",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }

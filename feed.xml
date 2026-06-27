@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 26 Jun 2026 23:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 23:04:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>石破天惊！中国超算时隔九年重夺全球第一，纯CPU方案打破GPU霸权</title>
+      <description>本期要点：中国LineShine超算2.198 exaflops登顶TOP500，纯CPU方案颠覆GPU至上共识；Fox 220亿美元收购Roku改写流媒体版图；RAISE US获5亿美元资助助AI时代工人转型；英伟达Rubin世代100%液冷零水消耗方案发布；中国科技IPO创2023年以来最强浪潮</description>
+      <pubDate>Sat, 27 Jun 2026 23:04:13 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260628_Morning_AINews.mp3" length="8136455" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260628_Morning_AINews.mp3</guid>
+      <itunes:duration>08:28</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>中国超算, LineShine, TOP500, Fox收购Roku, RAISE US, 英伟达液冷, 中国科技IPO, 机器人投资</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:25" title="资讯速递"/>
+        <podcast:chapter start="00:05:30" title="深度探索：中国超算LineShine登顶的战略意义"/>
+        <podcast:chapter start="00:07:50" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>王炸三连！GPT-5.6被政府看管，IPO万亿估值梦碎，苹果全线涨价</title>
       <description>本期要点：OpenAI发布GPT-5.6三款模型但仅向20家政府审批合作伙伴开放；OpenAI考虑推迟IPO至2027年坚持万亿美元估值；苹果全线涨价MacBook Pro涨至2999美元因DRAM暴涨98%；中国开源模型GLM-5.2编程超越GPT-5.5可在单台Mac运行；加州多项AI法案加速推进；全球科技股集体下跌</description>
