@@ -21,8 +21,25 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 29 Jun 2026 01:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:04:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>GitHub账单暴涨50倍！AI编程自助餐时代终结，Alphabet 847亿融资创纪录</title>
+      <description>本期要点：GitHub Copilot按量计费引发开发者账单暴涨10-50倍，AI固定月费时代终结；Alphabet完成847.5亿美元史上最大科技股权融资，巴菲特砸100亿押注；Google五个月失去六位核心AI研究者；苹果被AI网络攻击逼得提前发安全补丁；欧盟正式批准AI法案简化方案；Scaled Cognition获1亿美元融资要消灭AI幻觉；BMW投3亿美元建AI基金</description>
+      <pubDate>Mon, 29 Jun 2026 23:03:55 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260630_Morning_AINews.mp3" length="6098904" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260630_Morning_AINews.mp3</guid>
+      <itunes:duration>06:21</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>GitHub Copilot, Alphabet融资, 巴菲特, AI编程, Google人才流失, 苹果安全, 欧盟AI法案, AI幻觉</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场预告"/>
+        <podcast:chapter start="00:00:30" title="资讯速递"/>
+        <podcast:chapter start="00:04:30" title="深度探索：GitHub Copilot按量计费与AI行业分水岭"/>
+        <podcast:chapter start="00:06:30" title="结尾总结"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>Google限供！Meta算力被卡脖子，AI芯片虹吸效应席卷全球</title>
       <description>本期要点：Google限制Meta使用Gemini算力，Meta内部项目被延迟；生成式AI经济年销售额突破1100亿美元；微软Xbox因AI芯片荒三年内第三次涨价；Anthropic Mythos 5获准向100+美国机构开放；OpenAI与韩国签署AI安全评估协议；华尔街日报揭示芯片商以牺牲其他行业为代价获利</description>

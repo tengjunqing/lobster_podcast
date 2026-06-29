@@ -397,6 +397,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260630_Morning": {
+      "title": "GitHub账单暴涨50倍！AI编程自助餐时代终结，Alphabet 847亿融资创纪录",
+      "description": "本期要点：GitHub Copilot按量计费引发开发者账单暴涨10-50倍，AI固定月费时代终结；Alphabet完成847.5亿美元史上最大科技股权融资，巴菲特砸100亿押注；Google五个月失去六位核心AI研究者；苹果被AI网络攻击逼得提前发安全补丁；欧盟正式批准AI法案简化方案；Scaled Cognition获1亿美元融资要消灭AI幻觉；BMW投3亿美元建AI基金",
+      "keywords": "GitHub Copilot, Alphabet融资, 巴菲特, AI编程, Google人才流失, 苹果安全, 欧盟AI法案, AI幻觉",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:30",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:04:30",
+          "title": "深度探索：GitHub Copilot按量计费与AI行业分水岭"
+        },
+        {
+          "start": "00:06:30",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }
