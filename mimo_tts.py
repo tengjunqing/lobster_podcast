@@ -12,8 +12,8 @@ import requests
 import os
 import subprocess
 
-API_URL = "https://token-plan-cn.xiaomimimo.com/v1/chat/completions"
-API_KEY = "tp-cxcgsq8xgq26snnfqcj8yxi0no81oo1glxb2eukglwvvmtzk"
+API_URL = "https://api.xiaomimimo.com/v1/chat/completions"
+API_KEY = "sk-co0yzu4w7i0jaks8wu0qh73qz7bg9mquqmaxy3iqvye8ifl8"
 MODEL = "mimo-v2.5-tts"
 
 # 后处理脚本路径

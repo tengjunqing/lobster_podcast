@@ -376,24 +376,24 @@
       ]
     },
     "20260629_Morning": {
-      "title": "变天了！全球央行警告AI泡沫将破，Coinbase叛逃投中国模型",
-      "description": "本期要点：BIS年度报告警告AI投资崩溃风险堪比2008金融危机；Coinbase弃用OpenAI转向中国开源模型GLM-5.2和Kimi 2.7，AI支出砍半；科罗拉多AI法案明日生效成全美首个全面AI执法法案；Anthropic Mythos 5获准向网安公司有限开放；SoftBank借60亿被拒",
-      "keywords": "AI泡沫, BIS, 国际清算银行, Coinbase, GLM-5.2, 科罗拉多AI法案, Anthropic Mythos 5, SoftBank",
+      "title": "Google限供！Meta算力被卡脖子，AI芯片虹吸效应席卷全球",
+      "description": "本期要点：Google限制Meta使用Gemini算力，Meta内部项目被延迟；生成式AI经济年销售额突破1100亿美元；微软Xbox因AI芯片荒三年内第三次涨价；Anthropic Mythos 5获准向100+美国机构开放；OpenAI与韩国签署AI安全评估协议；华尔街日报揭示芯片商以牺牲其他行业为代价获利",
+      "keywords": "Google, Meta, Gemini, AI算力, 生成式AI, Xbox涨价, Anthropic, Mythos",
       "chapters": [
         {
           "start": "00:00:00",
           "title": "开场预告"
         },
         {
-          "start": "00:00:25",
+          "start": "00:00:28",
           "title": "资讯速递"
         },
         {
-          "start": "00:04:30",
-          "title": "深度探索：BIS警告AI泡沫的深层逻辑"
+          "start": "00:04:50",
+          "title": "深度探索：AI算力从商品变稀缺资源"
         },
         {
-          "start": "00:09:30",
+          "start": "00:08:50",
           "title": "结尾总结"
         }
       ]
