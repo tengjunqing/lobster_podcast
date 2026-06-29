@@ -374,6 +374,29 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260629_Morning": {
+      "title": "变天了！全球央行警告AI泡沫将破，Coinbase叛逃投中国模型",
+      "description": "本期要点：BIS年度报告警告AI投资崩溃风险堪比2008金融危机；Coinbase弃用OpenAI转向中国开源模型GLM-5.2和Kimi 2.7，AI支出砍半；科罗拉多AI法案明日生效成全美首个全面AI执法法案；Anthropic Mythos 5获准向网安公司有限开放；SoftBank借60亿被拒",
+      "keywords": "AI泡沫, BIS, 国际清算银行, Coinbase, GLM-5.2, 科罗拉多AI法案, Anthropic Mythos 5, SoftBank",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场预告"
+        },
+        {
+          "start": "00:00:25",
+          "title": "资讯速递"
+        },
+        {
+          "start": "00:04:30",
+          "title": "深度探索：BIS警告AI泡沫的深层逻辑"
+        },
+        {
+          "start": "00:09:30",
+          "title": "结尾总结"
+        }
+      ]
     }
   }
 }
