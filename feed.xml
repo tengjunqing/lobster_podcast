@@ -21,8 +21,29 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 29 Jun 2026 23:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 23:04:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Sonnet 5平价上线，智能体能力不再是高端专属</title>
+      <description>本期要点：Anthropic发布Claude Sonnet 5性能接近Opus但价格更低；Google Gemini 3.5 Pro获批七月上线；加州与Anthropic签署五折协议；Meta限制工程师使用竞品AI工具防止蒸馏；Fable 5即将恢复访问。</description>
+      <pubDate>Tue, 30 Jun 2026 23:04:44 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260701_Morning_AINews.mp3" length="7092393" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260701_Morning_AINews.mp3</guid>
+      <itunes:duration>07:23</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Anthropic,Claude Sonnet 5,Google,Gemini 3.5 Pro,加州,Meta,蒸馏,Fable 5,智能体,AI编程,AI安全</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场白"/>
+        <podcast:chapter start="00:00:25" title="第一条：Anthropic发布Claude Sonnet 5"/>
+        <podcast:chapter start="00:01:40" title="第二条：Google Gemini 3.5 Pro获批七月上线"/>
+        <podcast:chapter start="00:02:55" title="第三条：加州与Anthropic签署五折协议"/>
+        <podcast:chapter start="00:04:10" title="第四条：Meta限制工程师使用竞品AI工具"/>
+        <podcast:chapter start="00:05:25" title="第五条：Fable 5即将恢复访问"/>
+        <podcast:chapter start="00:06:40" title="深度探索：智能体能力平价化"/>
+        <podcast:chapter start="00:09:20" title="总结收尾"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>GitHub账单暴涨50倍！AI编程自助餐时代终结，Alphabet 847亿融资创纪录</title>
       <description>本期要点：GitHub Copilot按量计费引发开发者账单暴涨10-50倍，AI固定月费时代终结；Alphabet完成847.5亿美元史上最大科技股权融资，巴菲特砸100亿押注；Google五个月失去六位核心AI研究者；苹果被AI网络攻击逼得提前发安全补丁；欧盟正式批准AI法案简化方案；Scaled Cognition获1亿美元融资要消灭AI幻觉；BMW投3亿美元建AI基金</description>

@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-01",
+  "episode": "20260701_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic发布Claude Sonnet 5，性能接近Opus 4.8但价格更低",
+      "source_name": "TechCrunch / Anthropic官方",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents",
+      "published_at": "2026-06-30",
+      "credibility": "A",
+      "key_facts": [
+        "Sonnet 5在代理编码基准上得分63.2%，接近Opus 4.8的69.2%，远超Sonnet 4.6的58.1%",
+        " introductory定价：输入$2/百万token，输出$10/百万token（8月31日前）",
+        "成为Free和Pro计划用户的默认模型",
+        "支持1M token上下文窗口和自适应思考功能"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google Gemini 3.5 Pro获批七月发布，2M token上下文窗口为生产模型最大",
+      "source_name": "TechTimes / Axios / Business Insider",
+      "url": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
+      "published_at": "2026-06-29",
+      "credibility": "B",
+      "key_facts": [
+        "Gemini 3.5 Pro预计七月正式发布，面向Vertex AI企业客户",
+        "2M token上下文窗口是任何生产模型中最大的",
+        "Deep Think推理模式面向每月250美元Ultra订阅者",
+        "预计定价约$15/百万输入token，$60/百万输出token",
+        "是目前唯一未受政府访问限制的前沿模型"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "加州与Anthropic签署首创协议，全州政府机构以五折使用Claude",
+      "source_name": "加州政府官网 / Politico / CBS Sacramento",
+      "url": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians",
+      "published_at": "2026-06-29",
+      "credibility": "A",
+      "key_facts": [
+        "加州州长Newsom宣布与Anthropic达成首创合作协议",
+        "州政府机构、城市和县政府可以五折获取Claude",
+        "包括免费劳动力培训和技术支持",
+        "DMV、医疗保健服务等部门已在使用Claude",
+        "通过加州技术部共享服务门户提供"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Meta限制工程师使用Claude Code和Codex，防止蒸馏风险",
+      "source_name": "The Information / The Decoder / TipRanks",
+      "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data",
+      "published_at": "2026-06-29",
+      "credibility": "B",
+      "key_facts": [
+        "Meta限制应用AI部门工程师使用Anthropic Claude Code和OpenAI Codex",
+        "担心竞争对手模型输出混入Meta训练数据",
+        "部分项目已暂停使用外部AI模型",
+        "Meta正在构建自研编程助手MetaCode",
+        "内部备忘录警告可能导致与合作伙伴公司的严重冲突",
+        "Meta今年内部AI使用预计花费数十亿美元"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic Fable 5下线17天后即将恢复，政府审查框架仍不明确",
+      "source_name": "Axios / TechTimes",
+      "url": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
+      "published_at": "2026-06-29",
+      "credibility": "B",
+      "key_facts": [
+        "Fable 5自6月12日被强制下线已17天",
+        "Axios报道特朗普政府接近解除限制，预计本周内恢复",
+        "五角大楼和NSA仍在审批中",
+        "Mythos 5已部分恢复给约100家美国关键基础设施组织",
+        "当前AI审查框架无正式标准、无上诉机制、无公开方法论"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

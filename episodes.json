@@ -420,6 +420,45 @@
           "title": "结尾总结"
         }
       ]
+    },
+    "20260701_Morning": {
+      "title": "Sonnet 5平价上线，智能体能力不再是高端专属",
+      "description": "本期要点：Anthropic发布Claude Sonnet 5性能接近Opus但价格更低；Google Gemini 3.5 Pro获批七月上线；加州与Anthropic签署五折协议；Meta限制工程师使用竞品AI工具防止蒸馏；Fable 5即将恢复访问。",
+      "keywords": "Anthropic,Claude Sonnet 5,Google,Gemini 3.5 Pro,加州,Meta,蒸馏,Fable 5,智能体,AI编程,AI安全",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场白"
+        },
+        {
+          "start": "00:00:25",
+          "title": "第一条：Anthropic发布Claude Sonnet 5"
+        },
+        {
+          "start": "00:01:40",
+          "title": "第二条：Google Gemini 3.5 Pro获批七月上线"
+        },
+        {
+          "start": "00:02:55",
+          "title": "第三条：加州与Anthropic签署五折协议"
+        },
+        {
+          "start": "00:04:10",
+          "title": "第四条：Meta限制工程师使用竞品AI工具"
+        },
+        {
+          "start": "00:05:25",
+          "title": "第五条：Fable 5即将恢复访问"
+        },
+        {
+          "start": "00:06:40",
+          "title": "深度探索：智能体能力平价化"
+        },
+        {
+          "start": "00:09:20",
+          "title": "总结收尾"
+        }
+      ]
     }
   }
 }
