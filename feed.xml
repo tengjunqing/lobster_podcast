@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 30 Jun 2026 23:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:04:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Anthropic模型完全恢复，Google AI智能体登陆Mac桌面</title>
+      <description>本期要点：Anthropic Fable 5和Mythos 5出口管制完全解除，下线三周后全面恢复；Google Gemini Spark登陆macOS，AI智能体进入桌面系统；微软发现MCP工具描述投毒可劫持AI智能体；美团开源1.6万亿参数LongCat 2.0纯国产芯片训练；联合国发布首份全球AI独立科学评估报告</description>
+      <pubDate>Wed, 01 Jul 2026 23:04:26 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260702_Morning_AINews.mp3" length="9590953" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260702_Morning_AINews.mp3</guid>
+      <itunes:duration>09:59</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Anthropic, Fable 5, Mythos 5, Google, Gemini Spark, macOS, MCP, AI安全, 美团, LongCat, 联合国, AI评估, 智能体, 国产芯片</itunes:keywords>
+    </item>
     <item>
       <title>Sonnet 5平价上线，智能体能力不再是高端专属</title>
       <description>本期要点：Anthropic发布Claude Sonnet 5性能接近Opus但价格更低；Google Gemini 3.5 Pro获批七月上线；加州与Anthropic签署五折协议；Meta限制工程师使用竞品AI工具防止蒸馏；Fable 5即将恢复访问。</description>

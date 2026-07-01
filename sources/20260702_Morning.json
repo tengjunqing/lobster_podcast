@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-02",
+  "episode": "20260702_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "美国商务部完全解除Anthropic Fable 5和Mythos 5出口管制",
+      "source_name": "CNBC / Reuters / Forbes",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+      "published_at": "2026-06-30",
+      "credibility": "A",
+      "key_facts": [
+        "美国商务部完全解除对Fable 5和Mythos 5的出口管制，不再需要出口许可证",
+        "商务部长卢特尼克致信Anthropic，要求主动检测安全风险并与政府合作制定协议",
+        "Anthropic于7月1日开始在全球范围内恢复访问，下线三周后全面恢复"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "Google Gemini Spark正式登陆macOS，AI智能体进入桌面系统",
+      "source_name": "TechCrunch / PCMag / AppleInsider",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac",
+      "published_at": "2026-07-01",
+      "credibility": "A",
+      "key_facts": [
+        "Gemini Spark可访问Mac本地文件，执行整理、归档、创建文档等多步骤任务",
+        "目前面向Google AI Ultra订阅用户开放，月费99美元",
+        "即将支持跨设备任务：手机发指令，Mac远程执行"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 3,
+      "title": "微软研究发现MCP工具描述投毒可劫持AI智能体窃取数据",
+      "source_name": "The Hacker News / Microsoft Security Research",
+      "url": "https://thehackernews.com/search?updated-max=2026-07-01T11%3A02%3A00%2B05%3A30&max-results=13&m=1",
+      "published_at": "2026-06-30",
+      "credibility": "A",
+      "key_facts": [
+        "攻击者可通过投毒MCP工具描述字段，让AI智能体执行未授权的数据外泄操作",
+        "攻击利用AI智能体信任工具描述这一架构特点，用户完全看不到攻击过程",
+        "AI安全从防提示词注入升级为防供应链投毒"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "美团开源LongCat-2.0：1.6万亿参数模型完全使用国产芯片训练",
+      "source_name": "The Information / TechCrunch / SiliconANGLE",
+      "url": "https://www.theinformation.com/briefings/meituan-releases-new-ai-model-trained-entirely-chinese-chips",
+      "published_at": "2026-07-01",
+      "credibility": "A",
+      "key_facts": [
+        "LongCat-2.0拥有1.6万亿参数，采用MIT许可证完全开源",
+        "在超过5万张国产AI芯片上用30万亿token数据从零训练",
+        "证明国产芯片训练世界级大模型已可行"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "联合国发布首份全球AI独立科学评估报告",
+      "source_name": "联合国新闻 / Al Jazeera",
+      "url": "https://news.un.org/zh/story/2026/07/1142415",
+      "published_at": "2026-07-01",
+      "credibility": "A",
+      "key_facts": [
+        "由图灵奖得主约书亚·本吉奥联合主席的独立科学小组撰写",
+        "全球前500台AI超算中美国占75%计算能力，中国占15%",
+        "AI阿谀奉承行为已证实与多起严重心理健康事件包括死亡案例有关"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
