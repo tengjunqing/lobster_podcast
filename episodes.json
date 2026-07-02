@@ -466,9 +466,45 @@
       "keywords": "Anthropic, Fable 5, Mythos 5, Google, Gemini Spark, macOS, MCP, AI安全, 美团, LongCat, 联合国, AI评估, 智能体, 国产芯片"
     },
     "20260703_Morning": {
-      "title": "微软砸25亿美元做AI部署，OpenAI提议政府持股5%",
-      "description": "本期要点：微软成立Microsoft Frontier Company投资25亿美元调配6000人专职企业AI部署；OpenAI提议向美国政府转让5%股权效仿阿拉斯加永久基金；Cloudflare设定9月15日最后期限要求AI公司区分爬虫用途；特斯拉限制员工AI工具支出每周200美元；Meta上线AI互动应用Pocket用提示词生成小游戏",
-      "keywords": "微软, Frontier Company, AI部署, OpenAI, 政府持股, Cloudflare, AI爬虫, 特斯拉, AI成本, Meta, Pocket, vibe-coding, 智能体"
+      "title": "OpenAI提议政府持股，AI公司用股权换安全",
+      "description": "本期要点：OpenAI提议向美国政府出让5%股权价值426亿美元；微软成立Frontier Company投入25亿美元6000人推动AI落地；Anthropic启动自研AI芯片与三星洽谈2纳米制程；Meta计划出售富余AI算力进军云市场；特斯拉限制员工AI支出每周最高200美元。",
+      "keywords": "OpenAI, 美国政府, 股权, 微软, Frontier Company, Anthropic, 自研芯片, 三星, Meta, 云计算, 特斯拉, AI成本",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场白"
+        },
+        {
+          "start": "00:00:20",
+          "title": "第一条：OpenAI提议向美国政府出让5%股权"
+        },
+        {
+          "start": "00:01:40",
+          "title": "第二条：微软成立Frontier Company"
+        },
+        {
+          "start": "00:02:50",
+          "title": "第三条：Anthropic启动自研AI芯片"
+        },
+        {
+          "start": "00:04:00",
+          "title": "第四条：Meta出售富余AI算力"
+        },
+        {
+          "start": "00:05:10",
+          "title": "第五条：特斯拉限制员工AI支出"
+        },
+        {
+          "start": "00:06:10",
+          "title": "深度探索：OpenAI提议政府持股"
+        },
+        {
+          "start": "00:08:30",
+          "title": "总结收尾"
+        }
+      ],
+      "audio": "audio/20260703_Morning_AINews.mp3",
+      "duration": "7:22"
     }
   }
 }

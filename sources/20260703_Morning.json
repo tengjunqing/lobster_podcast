@@ -4,76 +4,75 @@
   "items": [
     {
       "rank": 1,
-      "title": "微软成立Microsoft Frontier Company，投资25亿美元，调配6000人专职企业AI部署",
-      "source_name": "Reuters / TechCrunch / Microsoft Blog",
-      "url": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02",
+      "title": "OpenAI提议向美国政府出让5%股权",
+      "source_name": "CNBC / Financial Times",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
       "published_at": "2026-07-02",
       "credibility": "A",
       "key_facts": [
-        "微软成立新子公司Microsoft Frontier Company，专注企业AI部署",
-        "投资25亿美元，调配6000名工程师、顾问和销售人员",
-        "首批客户包括联合利华、诺和诺德、伦敦证券交易所集团",
-        "微软商业业务CEO Judson Althoff称这是行业最大规模的结果驱动工程组织"
+        "OpenAI提议向美国政府出让5%股权",
+        "按8520亿美元估值计算，价值约426亿美元",
+        "奥特曼设想Anthropic、Google、Meta等公司也通过主权基金出让相同比例股权",
+        "白宫和各家公司均未回应"
       ],
       "used_as_deep_dive": true
     },
     {
       "rank": 2,
-      "title": "OpenAI提议向美国政府转让5%股权，效仿阿拉斯加永久基金模式",
-      "source_name": "Financial Times / Reuters / CNBC / The Guardian",
-      "url": "https://www.reuters.com/business/openai-proposes-handing-trump-administration-5-stake-ft-reports-2026-07-02",
+      "title": "微软成立Microsoft Frontier Company，投入25亿美元和6000人",
+      "source_name": "GeekWire / Yahoo Finance",
+      "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers",
       "published_at": "2026-07-02",
-      "credibility": "B",
+      "credibility": "A",
       "key_facts": [
-        "OpenAI CEO Sam Altman提议将5%股权交给美国政府",
-        "建议每家大型AI公司都拿出5%注入类似阿拉斯加永久基金的投资工具",
-        "Altman已与特朗普总统讨论过此方案",
-        "目前处于早期讨论阶段，无正式协议"
+        "投入25亿美元，配备6000名工程师、顾问和销售人员",
+        "采用前置部署工程模式，派驻团队到客户企业内部",
+        "承诺客户数据不流入训练管线，支持任何AI模型"
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 3,
-      "title": "Cloudflare设定9月15日最后期限，要求AI公司区分爬虫用途否则将被屏蔽",
-      "source_name": "NBC News / Heise / Cloudflare Blog",
-      "url": "https://www.heise.de/en/news/Instead-of-a-total-block-Cloudflare-separates-AI-crawlers-by-purpose-11351950.html",
+      "title": "Anthropic启动自研AI芯片，与三星洽谈2纳米制程",
+      "source_name": "The Information",
+      "url": "https://x.com/wallstengine/status/2072680313600524719",
       "published_at": "2026-07-02",
-      "credibility": "A",
+      "credibility": "B",
       "key_facts": [
-        "AI公司必须将爬虫区分为搜索索引、AI训练、AI代理三种用途",
-        "9月15日起，混合用途爬虫在含广告页面将被默认屏蔽",
-        "Cloudflare为所有客户提供搜索、代理、训练三种爬虫管理选项",
-        "可能影响Googlebot等搜索引擎爬虫"
+        "Anthropic启动自研AI芯片早期开发",
+        "计划采用三星2纳米制程工艺和先进封装技术",
+        "已从OpenAI芯片团队挖来工程师克莱夫·陈",
+        "三星、SK海力士、美光今年五月参与Anthropic 650亿美元融资"
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 4,
-      "title": "特斯拉限制员工AI工具支出，每周上限200美元",
-      "source_name": "The Information / AI Weekly / Investing.com",
-      "url": "https://aiweekly.co/alerts/tesla-puts-a-200-per-week-cap-on-employee-ai-tool-spending",
+      "title": "Meta计划出售富余AI算力，进军云基础设施市场",
+      "source_name": "Bloomberg / CNBC",
+      "url": "https://www.straitstimes.com/business/companies-markets/meta-planning-cloud-business-to-sell-ai-computing-power-sources",
       "published_at": "2026-07-02",
-      "credibility": "B",
+      "credibility": "A",
       "key_facts": [
-        "特斯拉从7月6日起对员工AI工具支出设定每周200美元上限",
-        "此前内部推广AI使用，部分工程师每周消耗数千美元token",
-        "xAI测试版产品不受此限制",
-        "Uber和Meta也在收紧内部AI支出"
+        "Meta正在开发云基础设施业务，向外部客户出售AI算力和模型访问",
+        "方案类似AWS Bedrock，托管AI模型对外销售",
+        "Meta今年AI资本支出预算1250到1450亿美元",
+        "消息引发全球科技股普遍下跌"
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 5,
-      "title": "Meta悄然上线Pocket应用，用AI提示词生成互动小游戏",
-      "source_name": "TechCrunch / Business Insider",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket",
+      "title": "特斯拉限制员工AI工具支出，每周最高200美元",
+      "source_name": "The Information",
+      "url": "https://www.tipranks.com/news/tesla-tsla-moves-to-control-ai-costs-with-200-weekly-limit-for-staff",
       "published_at": "2026-07-02",
-      "credibility": "A",
+      "credibility": "B",
       "key_facts": [
-        "Meta上线新社交AI应用Pocket，用户可用提示词生成互动小游戏",
-        "基于今年收购的vibe-coding平台Gizmo团队开发",
-        "已在App Store和Google Play上线，部分地区可用",
-        "包含社交信息流，可发现和分享他人创建的内容"
+        "从7月6日起，每人每周AI工具支出上限200美元",
+        "此前有工程师每周消耗数千美元AI token",
+        "xAI产品测试版不受限制",
+        "Uber和Meta也在收紧内部AI支出"
       ],
       "used_as_deep_dive": false
     }
