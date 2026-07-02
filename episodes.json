@@ -464,6 +464,11 @@
       "title": "Anthropic模型完全恢复，Google AI智能体登陆Mac桌面",
       "description": "本期要点：Anthropic Fable 5和Mythos 5出口管制完全解除，下线三周后全面恢复；Google Gemini Spark登陆macOS，AI智能体进入桌面系统；微软发现MCP工具描述投毒可劫持AI智能体；美团开源1.6万亿参数LongCat 2.0纯国产芯片训练；联合国发布首份全球AI独立科学评估报告",
       "keywords": "Anthropic, Fable 5, Mythos 5, Google, Gemini Spark, macOS, MCP, AI安全, 美团, LongCat, 联合国, AI评估, 智能体, 国产芯片"
+    },
+    "20260703_Morning": {
+      "title": "微软砸25亿美元做AI部署，OpenAI提议政府持股5%",
+      "description": "本期要点：微软成立Microsoft Frontier Company投资25亿美元调配6000人专职企业AI部署；OpenAI提议向美国政府转让5%股权效仿阿拉斯加永久基金；Cloudflare设定9月15日最后期限要求AI公司区分爬虫用途；特斯拉限制员工AI工具支出每周200美元；Meta上线AI互动应用Pocket用提示词生成小游戏",
+      "keywords": "微软, Frontier Company, AI部署, OpenAI, 政府持股, Cloudflare, AI爬虫, 特斯拉, AI成本, Meta, Pocket, vibe-coding, 智能体"
     }
   }
 }
