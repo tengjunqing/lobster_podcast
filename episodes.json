@@ -505,6 +505,45 @@
       ],
       "audio": "audio/20260703_Morning_AINews.mp3",
       "duration": "7:22"
+    },
+    "20260704_Morning": {
+      "title": "Anthropic封堵中国公司访问Claude，AI地理围墙从政策变为现实",
+      "description": "本期要点：Anthropic加大力度封堵中国公司绕道访问Claude涉及蚂蚁集团；NVIDIA推出AI云收入分成新模式与新兴厂商合作部署数万GPU；Menlo Ventures融资30亿美元创纪录押注Anthropic；高通发布五年计划挑战NVIDIA数据中心芯片霸主地位；白宫推进自愿性AI模型标准八月一日前公布框架。",
+      "keywords": "Anthropic,Claude,NVIDIA,AI芯片,高通,Menlo Ventures,白宫,AI监管,地缘政治,收入分成,AI合规",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场白"
+        },
+        {
+          "start": "00:00:30",
+          "title": "第一条：Anthropic封堵中国公司绕道访问Claude"
+        },
+        {
+          "start": "00:01:45",
+          "title": "第二条：NVIDIA推出AI云收入分成新模式"
+        },
+        {
+          "start": "00:02:50",
+          "title": "第三条：Menlo Ventures融资30亿美元创纪录"
+        },
+        {
+          "start": "00:03:50",
+          "title": "第四条：高通五年计划挑战NVIDIA"
+        },
+        {
+          "start": "00:04:50",
+          "title": "第五条：白宫推进自愿性AI模型标准"
+        },
+        {
+          "start": "00:05:50",
+          "title": "深度探索：AI模型访问控制成为地缘政治新战场"
+        },
+        {
+          "start": "00:07:00",
+          "title": "总结收尾"
+        }
+      ]
     }
   }
 }

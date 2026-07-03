@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-04",
+  "episode": "20260704_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic封堵中国公司绕道访问Claude的漏洞，涉及蚂蚁集团等",
+      "source_name": "Financial Times",
+      "url": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60",
+      "published_at": "2026-07-03",
+      "credibility": "A",
+      "key_facts": [
+        "Anthropic正在封堵中国公司绕过其使用限制访问Claude大语言模型的漏洞",
+        "涉及的中国公司包括蚂蚁集团",
+        "背景是Fable 5出口管制事件后，Anthropic加强了访问控制"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA推出AI云收入分成新模式，与新兴AI云厂商合作部署大规模GPU",
+      "source_name": "CNBC / NVIDIA官方公告",
+      "url": "https://www.facebook.com/cnbc/posts/chipmaker-nvidia-says-it-is-entering-revenue-sharing-agreements-with-fast-growin/1414117640589625",
+      "published_at": "2026-07-03",
+      "credibility": "A",
+      "key_facts": [
+        "NVIDIA宣布与快速增长的AI创业公司建立收入分成合作关系",
+        "合作伙伴Sharon AI将部署多达40000个Grace Blackwell GB300 GPU",
+        "合作伙伴Firmus在印尼建设360兆瓦AI工厂园区，计划扩展至170000个NVIDIA GPU",
+        "NVIDIA在标准硬件销售之外，还从合作伙伴的云收入中分成"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Menlo Ventures融资30亿美元创纪录，重仓押注Anthropic",
+      "source_name": "CryptoRank / 多家媒体报道",
+      "url": "https://cryptorank.io/news/feed/a9201-menlo-ventures-raise-ai-startup-funding-across-stages-anthropic",
+      "published_at": "2026-07-02",
+      "credibility": "B",
+      "key_facts": [
+        "Menlo Ventures募集30亿美元新资本，为其50年历史上最大规模",
+        "分为两支基金：Menlo Ventures XVII和Menlo Inflection IV",
+        "早期投资Anthropic，后者估值接近9650亿美元",
+        "目标投资领域：企业AI、医疗健康和消费领域"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "高通发布五年计划，挑战NVIDIA数据中心AI芯片霸主地位",
+      "source_name": "Fortune Magazine",
+      "url": "https://fortune.com",
+      "published_at": "2026-07-03",
+      "credibility": "B",
+      "key_facts": [
+        "高通CEO克里斯蒂亚诺·阿蒙向投资者展示了五年计划",
+        "目标是挑战NVIDIA在数据中心AI芯片市场的长期主导地位",
+        "登上Fortune杂志2026年6/7月刊封面",
+        "高通此前以手机芯片闻名，正在向数据中心和汽车领域多元化"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "白宫与AI公司推进自愿性前沿模型标准，8月1日截止日期临近",
+      "source_name": "Financial Times / NDTV / 多家媒体报道",
+      "url": "https://www.ft.com",
+      "published_at": "2026-07-02",
+      "credibility": "B",
+      "key_facts": [
+        "白宫正与AI实验室就自愿性标准进行深入谈判",
+        "目标是在8月1日前公布框架",
+        "Google已在参与讨论",
+        "标准涉及安全测试、政府早期访问权限等"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

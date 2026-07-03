@@ -21,8 +21,29 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 02 Jul 2026 23:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 23:05:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Anthropic封堵中国公司访问Claude，AI地理围墙从政策变为现实</title>
+      <description>本期要点：Anthropic加大力度封堵中国公司绕道访问Claude涉及蚂蚁集团；NVIDIA推出AI云收入分成新模式与新兴厂商合作部署数万GPU；Menlo Ventures融资30亿美元创纪录押注Anthropic；高通发布五年计划挑战NVIDIA数据中心芯片霸主地位；白宫推进自愿性AI模型标准八月一日前公布框架。</description>
+      <pubDate>Fri, 03 Jul 2026 23:04:59 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260704_Morning_AINews.mp3" length="7043492" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260704_Morning_AINews.mp3</guid>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Anthropic,Claude,NVIDIA,AI芯片,高通,Menlo Ventures,白宫,AI监管,地缘政治,收入分成,AI合规</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场白"/>
+        <podcast:chapter start="00:00:30" title="第一条：Anthropic封堵中国公司绕道访问Claude"/>
+        <podcast:chapter start="00:01:45" title="第二条：NVIDIA推出AI云收入分成新模式"/>
+        <podcast:chapter start="00:02:50" title="第三条：Menlo Ventures融资30亿美元创纪录"/>
+        <podcast:chapter start="00:03:50" title="第四条：高通五年计划挑战NVIDIA"/>
+        <podcast:chapter start="00:04:50" title="第五条：白宫推进自愿性AI模型标准"/>
+        <podcast:chapter start="00:05:50" title="深度探索：AI模型访问控制成为地缘政治新战场"/>
+        <podcast:chapter start="00:07:00" title="总结收尾"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>OpenAI提议政府持股，AI公司用股权换安全</title>
       <description>本期要点：OpenAI提议向美国政府出让5%股权价值426亿美元；微软成立Frontier Company投入25亿美元6000人推动AI落地；Anthropic启动自研AI芯片与三星洽谈2纳米制程；Meta计划出售富余AI算力进军云市场；特斯拉限制员工AI支出每周最高200美元。</description>
