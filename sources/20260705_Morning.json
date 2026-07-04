@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-05",
+  "episode": "20260705_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic Claude Fable 5从7月7日起改为按用量计费，订阅用户权益缩减",
+      "source_name": "Anthropic官方公告 / AIbase",
+      "url": "https://www.aibase.com/news/29368",
+      "published_at": "2026-07-03",
+      "credibility": "A",
+      "key_facts": [
+        "Fable 5将于7月7日从Pro、Max、Team等订阅服务中移除",
+        "改为按实际使用量的积分计费模式",
+        "官方表示会在服务器容量允许时重新引入订阅模式",
+        "此前Fable 5因出口管制被强制下线三周后刚于7月1日恢复"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "微软AI PC专用系统Project Aion曝光，完全移除传统开始菜单",
+      "source_name": "AIbase / ithome",
+      "url": "https://www.aibase.com/news/29370",
+      "published_at": "2026-07-03",
+      "credibility": "B",
+      "key_facts": [
+        "内部代号Project Aion，纯Web架构",
+        "完全移除传统开始菜单和桌面图标",
+        "以AI智能助手为核心交互设计",
+        "是微软在AI时代操作系统新方向的探索"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "阿里达摩院联合中国人民大学推出全球首个超导材料发现AI智能体Elements Claw",
+      "source_name": "2026中关村论坛 / AIbase",
+      "url": "https://www.aibase.com/news/29373",
+      "published_at": "2026-07-03",
+      "credibility": "A",
+      "key_facts": [
+        "全球首个专注超导材料发现的AI智能体",
+        "在1.25亿分子和晶体结构数据库上训练",
+        "拥有100亿参数的原子基础模型Elements",
+        "可推广至固态电池电解质、催化剂等关键材料开发"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "字节跳动豆包AI手机项目生变，硬件负责人林曦离职",
+      "source_name": "AIbase / 多家媒体报道",
+      "url": "https://www.aibase.com/news/29376",
+      "published_at": "2026-07-04",
+      "credibility": "B",
+      "key_facts": [
+        "字节跳动AI硬件团队Ocean核心成员林曦离职",
+        "林曦是抖音手机硬件产品负责人",
+        "项目进入调整期",
+        "字节跳动AI硬件战略面临重新评估"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "AI自动化已攻克16.1%远程工作项目，自由职业者面临冲击",
+      "source_name": "AI安全中心 / AIbase",
+      "url": "https://www.aibase.com/news/29365",
+      "published_at": "2026-07-04",
+      "credibility": "B",
+      "key_facts": [
+        "AI安全中心发布最新远程工作指数",
+        "AI已能自动化处理16.1%的远程项目",
+        "平面设计等创意类工作受影响最大",
+        "设计行业正在经历变革"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

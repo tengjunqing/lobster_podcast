@@ -21,8 +21,29 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 03 Jul 2026 23:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:07:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Anthropic告别订阅制，AI模型进入按用量计费时代</title>
+      <description>本期要点：Anthropic Claude Fable 5从7月7日起告别订阅制改为按用量计费；微软AI操作系统Project Aion曝光完全移除传统开始菜单；阿里达摩院推出全球首个超导材料发现AI智能体Elements Claw；字节跳动豆包AI手机项目核心人员离职；AI自动化已攻克16.1%远程工作项目自由职业者面临冲击。</description>
+      <pubDate>Sat, 04 Jul 2026 23:07:35 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260705_Morning_AINews.mp3" length="8462045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260705_Morning_AINews.mp3</guid>
+      <itunes:duration>08:48</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Anthropic,Fable5,按用量计费,微软,Project Aion,AI操作系统,阿里达摩院,Elements Claw,超导材料,字节跳动,豆包AI手机,AI自动化,远程工作</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场白"/>
+        <podcast:chapter start="00:00:30" title="第一条：Anthropic Fable 5告别订阅制"/>
+        <podcast:chapter start="00:01:40" title="第二条：微软Project Aion曝光"/>
+        <podcast:chapter start="00:02:50" title="第三条：阿里达摩院超导材料AI智能体"/>
+        <podcast:chapter start="00:04:00" title="第四条：字节跳动豆包AI手机生变"/>
+        <podcast:chapter start="00:05:00" title="第五条：AI自动化远程工作项目"/>
+        <podcast:chapter start="00:05:50" title="深度探索：AI模型告别自助餐时代"/>
+        <podcast:chapter start="00:08:30" title="总结收尾"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>Anthropic封堵中国公司访问Claude，AI地理围墙从政策变为现实</title>
       <description>本期要点：Anthropic加大力度封堵中国公司绕道访问Claude涉及蚂蚁集团；NVIDIA推出AI云收入分成新模式与新兴厂商合作部署数万GPU；Menlo Ventures融资30亿美元创纪录押注Anthropic；高通发布五年计划挑战NVIDIA数据中心芯片霸主地位；白宫推进自愿性AI模型标准八月一日前公布框架。</description>
