@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-06",
+  "episode": "20260706_Morning",
+  "items": [
+    {
+      "title": "联合国全球AI治理对话会在日内瓦召开",
+      "sources": [
+        {"name": "UN News", "url": "https://news.un.org/en/story/2026/07/1167862", "credibility": "A"},
+        {"name": "UN Independent International Scientific Panel on AI", "url": "https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-07/zh_preliminary_report.pdf", "credibility": "A"}
+      ],
+      "summary": "联合国AI治理全球对话会7月6-7日在日内瓦召开，科学专家组报告指出AI欺骗能力快速提升，88%专家认为三年内AI将对网络安全构成重大威胁"
+    },
+    {
+      "title": "豆包、千问智能体功能因新规7月15日集体下线",
+      "sources": [
+        {"name": "163.com/大厂日爆", "url": "https://www.163.com/dy/article/L130MO7B05566ZHB.html", "credibility": "B"}
+      ],
+      "summary": "《人工智能拟人化互动服务管理暂行办法》7月15日施行，字节豆包和阿里千问同步宣布下线智能体功能"
+    },
+    {
+      "title": "阿里内部禁用Claude Code",
+      "sources": [
+        {"name": "163.com/大厂日爆", "url": "https://www.163.com/dy/article/L130MO7B05566ZHB.html", "credibility": "B"}
+      ],
+      "summary": "因Claude Code被曝存在后门安全风险，阿里自7月10日起全面禁用，推荐自研Qoder替代"
+    },
+    {
+      "title": "蚂蚁集团AI版支付宝阿宝全面公测",
+      "sources": [
+        {"name": "FX168财经", "url": "https://news.fx168news.com/cooperate/2607/7469911.shtml", "credibility": "B"}
+      ],
+      "summary": "支付宝近20年来最大改版，阿宝首推72项智能办事技能，覆盖生活服务全场景"
+    },
+    {
+      "title": "可灵AI完成30亿美元融资，估值180亿美元",
+      "sources": [
+        {"name": "FX168财经", "url": "https://news.fx168news.com/cooperate/2607/7469911.shtml", "credibility": "B"}
+      ],
+      "summary": "快手旗下可灵AI完成全球最大视频大模型融资，CPE源峰/腾讯/阿里云/百度等参投"
+    },
+    {
+      "title": "AI竞争进入工程化时代",
+      "sources": [
+        {"name": "人民网", "url": "http://world.people.com.cn/n1/2026/0705/c1002-40753657.html", "credibility": "A"}
+      ],
+      "summary": "旧金山AI工程技术大会观察：竞争从模型能力转向工程化落地，中国开源生态成国际关注焦点"
+    }
+  ]
+}
