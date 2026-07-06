@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-07",
+  "episode": "20260707_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Crunchbase: 2026上半年全球AI投资破纪录达5100亿美元",
+      "source_name": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026",
+      "published_at": "2026-07-06",
+      "credibility": "A",
+      "key_facts": [
+        "2026年上半年全球风投达5100亿美元，超过2025年全年4400亿美元",
+        "OpenAI和Anthropic合计2170亿美元，占全球AI投资的43%",
+        "Q2为有记录以来第二大季度"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "SK Hynix计划赴美上市，募资280亿美元",
+      "source_name": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW793819012026RP1",
+      "published_at": "2026-07-06",
+      "credibility": "A",
+      "key_facts": [
+        "SK Hynix计划在美国上市，募资约280亿美元",
+        "公司市值已突破1万亿美元",
+        "AI对高带宽内存需求激增推动业绩增长"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic与Google、Broadcom达成多吉瓦级TPU算力合作",
+      "source_name": "Anthropic",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published_at": "2026-07-06",
+      "credibility": "A",
+      "key_facts": [
+        "签署多吉瓦级下一代TPU算力协议，预计2027年开始上线",
+        "绝大部分新算力将部署在美国",
+        "是2025年11月承诺投资500亿美元加强美国计算基础设施的延续"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI与Anthropic酝酿AI模型价格战",
+      "source_name": "The Wall Street Journal / Sherwood News",
+      "url": "https://sherwood.news/tech/openai-anthropic-google-price-wars-where-no-one-is-making-money",
+      "published_at": "2026-07-06",
+      "credibility": "A",
+      "key_facts": [
+        "OpenAI考虑大幅削减token定价以争夺企业客户",
+        "Anthropic年化收入从年初约10亿增至4月300亿美元",
+        "Claude Code年化收入超25亿美元",
+        "OpenAI预计2030年才实现正向现金流"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 5,
+      "title": "2026世界人工智能大会定档7月17-20日上海",
+      "source_name": "WAIC官方/新华社",
+      "url": "https://www.worldaic.com.cn/portal/index.html",
+      "published_at": "2026-06-17",
+      "credibility": "A",
+      "key_facts": [
+        "7月17-20日在上海举办",
+        "计划举办超140场主题论坛，汇聚超1400位国际嘉宾",
+        "总展览面积超10万平方米",
+        "同期举办人工智能全球治理高级别会议"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

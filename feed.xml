@@ -21,8 +21,29 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 06 Jul 2026 00:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 23:07:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI价格战全面打响，上半年全球投资破5100亿美元</title>
+      <description>本期要点：Crunchbase数据显示2026上半年全球AI投资破纪录达5100亿美元；SK海力士计划赴美上市募资280亿美元；Anthropic与Google和Broadcom达成多吉瓦级TPU算力合作；OpenAI与Anthropic酝酿AI模型大幅降价引发价格战；2026世界人工智能大会定档7月17至20日上海举办。</description>
+      <pubDate>Mon, 06 Jul 2026 23:05:48 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260707_Morning_AINews.mp3" length="7517039" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260707_Morning_AINews.mp3</guid>
+      <itunes:duration>07:49</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>AI投资,价格战,OpenAI,Anthropic,SK海力士,TPU算力,Google,Broadcom,WAIC,世界人工智能大会,token定价,Crunchbase,企业客户,商品化</itunes:keywords>
+      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        <podcast:chapter start="00:00:00" title="开场白"/>
+        <podcast:chapter start="00:00:22" title="第一条：全球AI投资上半年破5100亿美元"/>
+        <podcast:chapter start="00:01:40" title="第二条：SK海力士计划赴美上市募资280亿美元"/>
+        <podcast:chapter start="00:02:50" title="第三条：Anthropic与Google和Broadcom达成多吉瓦级算力合作"/>
+        <podcast:chapter start="00:03:55" title="第四条：OpenAI与Anthropic酝酿AI价格战"/>
+        <podcast:chapter start="00:05:10" title="第五条：世界人工智能大会定档上海"/>
+        <podcast:chapter start="00:06:00" title="深度探索：AI价格战与模型商品化"/>
+        <podcast:chapter start="00:07:40" title="总结收尾"/>
+      </podcast:chapters>
+    </item>
     <item>
       <title>全球AI治理对话会召开，国内AI平台迎来合规地震</title>
       <description>本期要点：联合国全球AI治理对话会在日内瓦召开讨论AI安全框架；国内AI平台智能体功能因新规7月15日集体下线涉及豆包千问；阿里内部禁用Claude Code因后门安全风险推荐Qoder替代；蚂蚁集团AI版支付宝阿宝全面公测首推72项智能办事技能；可灵AI完成30亿美元融资估值180亿美元创视频大模型融资纪录。</description>
