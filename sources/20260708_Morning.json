@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-08",
+  "episode": "20260708_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "SpaceXAI与Cursor计划最早周三发布首个联合AI模型",
+      "source_name": "Reuters / The Information",
+      "url": "https://www.reuters.com/business/media-telecom/spacexai-plans-launch-new-model-with-cursor-soon-wednesday-information-reports-2026-07-07",
+      "published_at": "2026-07-07",
+      "credibility": "B",
+      "key_facts": [
+        "SpaceXAI与Cursor计划最早周三发布首个联合开发的AI模型",
+        "该模型在部分方面可与Anthropic Opus 4.8和OpenAI GPT 5.5竞争",
+        "这是SpaceX以600亿美元全股票收购Cursor后的首个重大里程碑",
+        "该模型不是Grok的微调版本，而是从零训练的全新架构"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "DeepSeek正在自研AI推理芯片，减少对英伟达和华为的依赖",
+      "source_name": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-ai-chip-plans-233807992.html",
+      "published_at": "2026-07-07",
+      "credibility": "B",
+      "key_facts": [
+        "据路透社援引三位知情人士报道，DeepSeek正在开发定制AI推理芯片",
+        "目标是减少对英伟达和华为芯片的依赖",
+        "项目已进行约一年，已与芯片设计公司和制造商进行了讨论",
+        "同期智谱AI也在探索为GLM模型系列定制ASIC芯片"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "欧盟发布AI网络安全行动计划，拟建立前沿模型上市前评估机制",
+      "source_name": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "published_at": "2026-07-07",
+      "credibility": "A",
+      "key_facts": [
+        "欧盟委员会7月7日正式通过AI网络安全行动计划",
+        "计划包括建立欧盟评估能力，在前沿模型上市前进行安全评估",
+        "将与ENISA合作制定先进AI能力的结构化访问蓝图",
+        "将创建安全平台测试AI网络安全应用，包括模拟环境"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "三星Q2营业利润暴增19倍至584亿美元，但股价反跌7%",
+      "source_name": "Quartz / Samsung",
+      "url": "https://qz.com/samsung-record-quarterly-profit-stock-sinks-ai-spending-070726",
+      "published_at": "2026-07-08",
+      "credibility": "A",
+      "key_facts": [
+        "三星电子Q2营业利润达89.4万亿韩元（约584亿美元），同比增长约19倍",
+        "营收171万亿韩元，同比翻倍以上",
+        "但股价当日下跌约7%，因AI投资可持续性存疑",
+        "全球半导体股普遍回调，投资者担忧AI基建支出回报"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "亚马逊发行250亿美元债券，全力押注AI基础设施",
+      "source_name": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html",
+      "published_at": "2026-07-07",
+      "credibility": "A",
+      "key_facts": [
+        "亚马逊计划通过八部分债券发行筹集至少250亿美元",
+        "公司表示2026年不会再发行更多债券",
+        "今年已在美欧发行约540亿美元债券，6月在加拿大发行100亿美元",
+        "2026年资本支出预算2000亿美元，主要用于数据中心和芯片"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

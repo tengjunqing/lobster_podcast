@@ -663,6 +663,45 @@
           "title": "总结收尾"
         }
       ]
+    },
+    "20260708_Morning": {
+      "title": "SpaceXAI与Cursor联合模型亮相，中国AI公司集体自研芯片",
+      "description": "本期要点：SpaceXAI与Cursor计划发布首个联合AI模型对标Opus 4.8和GPT 5.5；DeepSeek自研AI推理芯片减少对外依赖；欧盟发布AI网络安全行动计划拟建立模型上市前评估；三星Q2利润暴增19倍至584亿美元但股价反跌7%；亚马逊发行250亿美元债券全力押注AI基建",
+      "keywords": "SpaceXAI, Cursor, DeepSeek, 自研芯片, 欧盟, AI网络安全, 三星, 亚马逊, AI基建, AI编程, 出口管制",
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "title": "开场白"
+        },
+        {
+          "start": "00:00:30",
+          "title": "第一条：SpaceXAI与Cursor联合模型即将发布"
+        },
+        {
+          "start": "00:02:00",
+          "title": "第二条：DeepSeek自研AI推理芯片"
+        },
+        {
+          "start": "00:03:20",
+          "title": "第三条：欧盟AI网络安全行动计划"
+        },
+        {
+          "start": "00:04:30",
+          "title": "第四条：三星创纪录利润遭股价抛售"
+        },
+        {
+          "start": "00:05:40",
+          "title": "第五条：亚马逊250亿美元债券押注AI"
+        },
+        {
+          "start": "00:06:40",
+          "title": "深度探索：AI编程进入巨头整合时代"
+        },
+        {
+          "start": "00:08:30",
+          "title": "总结收尾"
+        }
+      ]
     }
   }
 }
