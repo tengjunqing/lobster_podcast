@@ -1,5 +1,10 @@
 {
   "episodes": {
+    "20260709_Morning": {
+      "title": "GPT-5.6全面开放，中国拟限制AI模型海外访问",
+      "description": "本期要点：OpenAI正式公开发布GPT-5.6三个版本Sol、Terra、Luna；全球半导体股本周暴跌蒸发1.3万亿美元；中国商务部与阿里字节智谱讨论限制AI模型海外访问；OpenAI发布新一代语音模型GPT-Live实现全双工自然对话；苹果与博通达成超300亿美元芯片合作协议",
+      "keywords": "OpenAI,GPT-5.6,半导体,芯片,中国AI,地缘政治,GPT-Live,语音模型,苹果,博通,AI模型,出口管制"
+    },
     "20260612_Morning": {
       "title": "AI IPO大战，国产芯片训练万亿模型突破",
       "description": "本期要点：OpenAI与Anthropic同时冲刺IPO争夺AI第一股；国产昇腾芯片首次完成万亿参数大模型全参数训练；人形机器人加速进厂融资超300亿；AI技术深度赋能2026世界杯"

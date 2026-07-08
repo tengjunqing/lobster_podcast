@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-09",
+  "episode": "20260709_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI正式公开发布GPT-5.6系列：Sol、Terra、Luna三版本今起全球可用",
+      "source_name": "Engadget",
+      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9",
+      "published_at": "2026-07-09",
+      "credibility": "A",
+      "key_facts": [
+        "GPT-5.6系列三个版本7月9日全球公开发布",
+        "Sol定价：输入5美元/百万token，输出30美元/百万token",
+        "Terra定价：输入2.5美元/百万token，输出15美元/百万token",
+        "Luna定价：输入1美元/百万token，输出6美元/百万token",
+        "此前因特朗普政府要求仅限政府审批合作方使用，6月26日限量预览",
+        "美国商务部AI标准与创新中心完成额外测试后批准广泛发布"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "全球半导体股暴跌：1.3万亿美元市值蒸发，Intel跌21%",
+      "source_name": "Forbes",
+      "url": "https://www.forbes.com/sites/petercohan/2026/07/08/intel-stock-down-21-inside-the-july-2026-semiconductor-selloff",
+      "published_at": "2026-07-08",
+      "credibility": "A",
+      "key_facts": [
+        "费城半导体指数SOX本周下跌10.8%",
+        "全球半导体股约1.3万亿美元市值被蒸发",
+        "Intel 7天跌21%，Micron跌22%，AMD跌8%",
+        "原因：AI基建投资回报担忧、估值泡沫风险、美联储鹰派立场",
+        "美银策略师Hartnett的泡沫风险指标达0.91，为2000年6月以来最高",
+        "华尔街仍维持看涨目标：Nvidia +56%，Micron +66%"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "中国考虑限制最先进AI模型海外访问，商务部与阿里字节智谱会谈",
+      "source_name": "Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-curbs-would-trigger-cascading-costs-2026-07-08",
+      "published_at": "2026-07-08",
+      "credibility": "A",
+      "key_facts": [
+        "中国商务部过去一个月与阿里巴巴、字节跳动、智谱AI举行会谈",
+        "讨论限制海外访问中国最前沿AI模型，包括闭源和开源模型",
+        "最高人民法院刊物提出三层分级管控框架",
+        "阿里巴巴股价因此消息大涨",
+        "被视为对美国6月限制Anthropic模型海外访问的对等回应",
+        "中国开源模型全球下载量达数百万次，限制将影响全球开发者"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI发布GPT-Live语音模型：全双工架构实现自然对话",
+      "source_name": "OpenAI官方博客",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "published_at": "2026-07-08",
+      "credibility": "A",
+      "key_facts": [
+        "GPT-Live采用全双工架构，可同时听和说",
+        "支持委托机制：对话进行中可后台调用GPT-5.5进行深度推理和搜索",
+        "每周超过1.5亿人使用ChatGPT语音功能",
+        "GPT-Live-1成为Go/Plus/Pro用户默认语音模型",
+        "GPT-Live-1 mini成为免费用户默认语音模型",
+        "即将推出API支持"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "苹果与博通达成超300亿美元芯片合作协议",
+      "source_name": "Schwab Network",
+      "url": "https://www.facebook.com/schwabnetwork/posts/july-8-2026-apple-aapl-announced-it-has-entered-into-a-chip-deal-valued-at-more-/1614742087319814",
+      "published_at": "2026-07-08",
+      "credibility": "B",
+      "key_facts": [
+        "苹果与博通签署价值超300亿美元的芯片合作协议",
+        "博通将为苹果产品设计并生产定制芯片及其他组件",
+        "这是苹果加强美国制造计划的一部分",
+        "交易发生在全球半导体股暴跌的背景下",
+        "表明苹果在AI时代加速自研芯片战略布局"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
