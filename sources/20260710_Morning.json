@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-10",
+  "episode": "20260710_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "据报中国计划允许顶级AI公司限量购买Nvidia H200芯片",
+      "source_name": "The Information / TipRanks / NST Online",
+      "url": "https://www.tipranks.com/news/nvidia-nvda-stock-jumps-as-h200-chips-could-re-enter-china-under-strict-limits",
+      "published_at": "2026-07-09",
+      "credibility": "B",
+      "key_facts": [
+        "据The Information报道，中国正准备允许顶级AI公司购买有限数量的Nvidia H200芯片",
+        "企业需向官员说明所需芯片数量及用途才能获得批准",
+        "芯片将主要用于模型训练和处理公共数据，不用于推理",
+        "推理任务将要求企业使用国产处理器",
+        "H200不是Nvidia最先进的芯片，但仍足以支撑大规模AI训练"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "微软裁员4800人，Xbox启动史上最大规模重组",
+      "source_name": "Reuters / BBC / NBC News / The Verge",
+      "url": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06",
+      "published_at": "2026-07-07",
+      "credibility": "A",
+      "key_facts": [
+        "微软裁员约4800人，占全球员工总数约2.1%",
+        "约1600个Xbox岗位立即裁减，预计最终Xbox将裁减约3200人（约20%）",
+        "微软同时出售4个Xbox游戏工作室",
+        "Xbox CEO Asha Sharma称这是Xbox历史上最大规模的重组",
+        "微软2026年资本支出预算1900亿美元，主要用于AI基础设施",
+        "微软股价2026上半年下跌约23%，为2022年以来最差表现"
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 3,
+      "title": "法国Mistral发布首个机器人模型Robostral Navigate，进军物理AI",
+      "source_name": "Reuters / The News International / Silicon Republic",
+      "url": "https://www.siliconrepublic.com/machines/mistral-expands-physical-ai-first-robotics-launch",
+      "published_at": "2026-07-09",
+      "credibility": "A",
+      "key_facts": [
+        "Mistral AI发布首个机器人模型Robostral Navigate，8B参数",
+        "专注于工业自动化和自主导航，目标场景包括工厂、仓库、物流和酒店业",
+        "单摄像头即可工作，无需激光雷达或多摄像头设置",
+        "可兼容不同供应商的机器人",
+        "此前Mistral于5月收购了奥地利的Emmi AI",
+        "这是欧洲领先AI公司向物理AI的重大战略转型"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "伊利诺伊州签署全美最强AI安全法案，首创第三方审计要求",
+      "source_name": "Transparency Coalition / NBC Chicago / McDonald Hopkins",
+      "url": "https://www.transparencycoalition.ai/news/illinois-gov-pritzker-signs-landmark-ai-safety-measures-act-into-law",
+      "published_at": "2026-07-06",
+      "credibility": "A",
+      "key_facts": [
+        "7月6日，伊利诺伊州州长Pritzker签署SB 315《人工智能安全措施法案》",
+        "全美首个要求对大型前沿AI模型进行第三方审计的州级法律",
+        "要求公司公开披露安全实践并报告安全事件",
+        "包含吹哨人保护条款",
+        "违规罚款初始100万美元，后续每次最高300万美元",
+        "法案2027年1月1日生效，透明报告和审计义务2028年1月1日开始",
+        "OpenAI和Anthropic均支持该法案"
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic将Claude Cowork扩展到移动端和Web，使用数据显示多数用户不在编程",
+      "source_name": "TechCrunch / VentureBeat / 9to5Mac",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork",
+      "published_at": "2026-07-07",
+      "credibility": "A",
+      "key_facts": [
+        "Claude Cowork从桌面应用扩展到手机和网页，Max订阅用户率先使用",
+        "用户可以在桌面开始任务，在手机查看进度，稍后继续处理",
+        "Anthropic发布120万个匿名会话的使用数据（5月11-31日，60万+组织）",
+        "数据显示绝大多数用户使用Cowork不是在做编程，而是一般知识工作",
+        "Claude Code在开发者中仍然占主导地位",
+        "Anthropic将Cowork使用额度翻倍延长至8月5日"
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

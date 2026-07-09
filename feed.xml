@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 08 Jul 2026 23:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 23:06:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>中国限量放开英伟达芯片，微软启动Xbox史上最大重组</title>
+      <description>本期要点：据报中国计划允许顶级AI公司限量购买英伟达H200芯片，用于训练而非推理；微软裁员4800人，Xbox裁减20%员工并出售4个工作室；法国Mistral发布首个机器人模型Robostral Navigate，80亿参数，单摄像头导航；伊利诺伊州签署全美首个要求AI模型第三方审计的安全法案；Anthropic将Claude Cowork扩展到移动端和Web，使用数据显示多数用户不在编程。</description>
+      <pubDate>Thu, 09 Jul 2026 23:05:37 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260710_Morning_AINews.mp3" length="8827759" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260710_Morning_AINews.mp3</guid>
+      <itunes:duration>09:11</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>英伟达,H200,芯片,微软,Xbox,裁员,Mistral,机器人,物理AI,伊利诺伊州,AI安全,Claude Cowork,Anthropic</itunes:keywords>
+    </item>
     <item>
       <title>GPT-5.6全面开放，中国拟限制AI模型海外访问</title>
       <description>本期要点：OpenAI正式公开发布GPT-5.6三个版本Sol、Terra、Luna；全球半导体股本周暴跌蒸发1.3万亿美元；中国商务部与阿里字节智谱讨论限制AI模型海外访问；OpenAI发布新一代语音模型GPT-Live实现全双工自然对话；苹果与博通达成超300亿美元芯片合作协议</description>

@@ -707,6 +707,11 @@
           "title": "总结收尾"
         }
       ]
+    },
+    "20260710_Morning": {
+      "title": "中国限量放开英伟达芯片，微软启动Xbox史上最大重组",
+      "description": "本期要点：据报中国计划允许顶级AI公司限量购买英伟达H200芯片，用于训练而非推理；微软裁员4800人，Xbox裁减20%员工并出售4个工作室；法国Mistral发布首个机器人模型Robostral Navigate，80亿参数，单摄像头导航；伊利诺伊州签署全美首个要求AI模型第三方审计的安全法案；Anthropic将Claude Cowork扩展到移动端和Web，使用数据显示多数用户不在编程。",
+      "keywords": "英伟达,H200,芯片,微软,Xbox,裁员,Mistral,机器人,物理AI,伊利诺伊州,AI安全,Claude Cowork,Anthropic"
     }
   }
 }
