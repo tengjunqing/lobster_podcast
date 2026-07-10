@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 09 Jul 2026 23:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 23:11:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>GPT-5.6全面开放背后：AI能力狂飙与安全承诺集体后退</title>
+      <description>OpenAI GPT-5.6全系列正式公开发布，此前因网络安全能力过强被政府限制。Meta发布Muse Image引发隐私争议。美光追加投资至2500亿美元。AI安全指数显示头部公司集体弱化安全承诺。</description>
+      <pubDate>Fri, 10 Jul 2026 23:09:40 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260711_Morning_AINews.mp3" length="6613412" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260711_Morning_AINews.mp3</guid>
+      <itunes:duration>06:53</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>GPT-5.6,OpenAI,Meta,Muse Image,美光,Micron,AI安全,FLI,GPT-Live,语音AI,半导体,AI治理</itunes:keywords>
+    </item>
     <item>
       <title>中国限量放开英伟达芯片，微软启动Xbox史上最大重组</title>
       <description>本期要点：据报中国计划允许顶级AI公司限量购买英伟达H200芯片，用于训练而非推理；微软裁员4800人，Xbox裁减20%员工并出售4个工作室；法国Mistral发布首个机器人模型Robostral Navigate，80亿参数，单摄像头导航；伊利诺伊州签署全美首个要求AI模型第三方审计的安全法案；Anthropic将Claude Cowork扩展到移动端和Web，使用数据显示多数用户不在编程。</description>

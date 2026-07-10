@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-11",
+  "episode": "20260711_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI正式发布GPT-5.6全系列模型，此前因网络安全能力过强被政府限制发布",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI Official Blog",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/openai-gets-us-approval-broad-gpt-56-rollout-axios-reports-2026-07-08",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-11"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "GPT-5.6包含三个版本：Sol（旗舰）、Terra（平衡）、Luna（低价）",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Sol API定价为每百万输入token 5美元、输出30美元",
+          "source_refs": [0]
+        },
+        {
+          "claim": "6月26日首次限量预览，因网络安全能力过强被美国政府要求限制发布",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "7月9日获得政府批准后面向公众全面开放",
+          "source_refs": [1]
+        },
+        {
+          "claim": "同步发布GPT-Live-1语音模型，支持同时听和说",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Meta发布Muse Image图像生成模型，因默认抓取公开Instagram照片引发隐私争议",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Meta AI Blog",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-and-muse-video",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-11"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Muse Image是Meta Superintelligence Labs发布的首个图像生成模型",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "已上线Instagram、WhatsApp和Meta AI应用",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "默认允许通过@提及公开Instagram账户抓取照片生成AI图像，无需用户明确同意",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "同时预览了Muse Video视频生成模型，将在未来数月推出",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "美光宣布将美国投资提升至2500亿美元，纽约工厂浇筑第一罐混凝土",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Micron Investor Relations",
+          "url": "https://investors.micron.com/news-releases/news-release-details/micron-accelerates-us-investments-pours-first-concrete-new-york",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/micron-boosts-us-spending-to-250-billion-amid-memory-demand",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-11"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美光将美国投资计划从2000亿美元提升至2500亿美元，持续到2035年",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "纽约Clay工厂浇筑第一罐混凝土，将成为美国最大半导体制造基地",
+          "source_refs": [0]
+        },
+        {
+          "claim": "目标是到2035年在美国生产40%的DRAM芯片",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "消息公布后美光股价上涨7%",
+          "source_refs": [2]
+        },
+        {
+          "claim": "另宣布30亿美元供应链投资，包括向GlobalWafers德州工厂投资5亿美元",
+          "source_refs": [0, 2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Future of Life Institute发布AI安全指数：头部公司集体弱化安全承诺，最高仅C+",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Future of Life Institute",
+          "url": "https://futureoflife.org/ai-safety-index-summer-2026",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/07/report-ai-safety-pledges",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-11"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic排名第一但仅获C+，OpenAI和Google DeepMind获C",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "xAI、DeepSeek和Mistral不及格",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic、OpenAI、Google DeepMind和Meta均已弱化或取消了接近危险阈值时单方面暂停开发的承诺",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "生存性安全是全行业最弱领域，没有公司超过D",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI推出GPT-Live-1语音模型，实现AI同时听和说的自然对话",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI Help Center Release Notes",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-11"
+        },
+        {
+          "name": "Releasebot OpenAI Updates",
+          "url": "https://releasebot.io/updates/openai",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-11"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "GPT-Live-1取代Advanced Voice Mode，支持同时聆听和说话",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "需要深度推理时会后台调用GPT-5.5，同时保持对话不中断",
+          "source_refs": [1]
+        },
+        {
+          "claim": "向所有消费者计划开放，包括免费用户",
+          "source_refs": [0]
+        },
+        {
+          "claim": "暂不支持视频或屏幕共享",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
