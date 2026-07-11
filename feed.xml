@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 10 Jul 2026 23:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 23:10:41 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>苹果起诉OpenAI窃取商业机密，AI硬件竞赛升级</title>
+      <description>今日播客内容</description>
+      <pubDate>Sat, 11 Jul 2026 23:09:59 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260712_Morning_AINews.mp3" length="7271279" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260712_Morning_AINews.mp3</guid>
+      <itunes:duration>07:34</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>AI,科技,播客</itunes:keywords>
+    </item>
     <item>
       <title>GPT-5.6全面开放背后：AI能力狂飙与安全承诺集体后退</title>
       <description>OpenAI GPT-5.6全系列正式公开发布，此前因网络安全能力过强被政府限制。Meta发布Muse Image引发隐私争议。美光追加投资至2500亿美元。AI安全指数显示头部公司集体弱化安全承诺。</description>
