@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 11 Jul 2026 23:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:08:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI从比拼模型转向比拼落地，搜索央行芯片全线变局</title>
+      <description>Google搜索全面切换AI生成结果，美联储让风投家指导AI政策，OpenAI冲刺7300亿美元IPO，Meta自研芯片9月投产，SambaNova拿下10亿美元。AI竞争的主战场正在从模型转向部署。</description>
+      <pubDate>Sun, 12 Jul 2026 23:08:01 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260713_Morning_AINews.mp3" length="6419061" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260713_Morning_AINews.mp3</guid>
+      <itunes:duration>06:41</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Google搜索,Gemini 3.5 Flash,美联储,Marc Andreessen,OpenAI,IPO,Meta,Iris芯片,SambaNova,AI部署,推理芯片</itunes:keywords>
+    </item>
     <item>
       <title>苹果起诉OpenAI窃取商业机密，AI硬件竞赛升级</title>
       <description>今日播客内容</description>

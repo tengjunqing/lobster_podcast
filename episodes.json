@@ -722,6 +722,11 @@
       "title": "苹果起诉OpenAI窃取商业机密，AI硬件竞赛升级",
       "description": "今日播客内容",
       "keywords": "AI,科技,播客"
+    },
+    "20260713_Morning": {
+      "title": "AI从比拼模型转向比拼落地，搜索央行芯片全线变局",
+      "description": "Google搜索全面切换AI生成结果，美联储让风投家指导AI政策，OpenAI冲刺7300亿美元IPO，Meta自研芯片9月投产，SambaNova拿下10亿美元。AI竞争的主战场正在从模型转向部署。",
+      "keywords": "Google搜索,Gemini 3.5 Flash,美联储,Marc Andreessen,OpenAI,IPO,Meta,Iris芯片,SambaNova,AI部署,推理芯片"
     }
   }
 }

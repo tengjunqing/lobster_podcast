@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-13",
+  "episode": "20260713_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google搜索全面切换Gemini 3.5 Flash生成式结果",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google Blog - A new era for AI Search",
+          "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+          "published_at": "2026-05-19",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        },
+        {
+          "name": "Build Fast with AI - AI News July 12 2026",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026",
+          "published_at": "2026-07-11",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "截至7月10日，Google搜索结果全面由Gemini 3.5 Flash生成的摘要驱动，取代传统十个蓝色链接格式",
+          "source_refs": [1]
+        },
+        {
+          "claim": "来源链接嵌入AI生成页面内部，不再单独列出",
+          "source_refs": [1]
+        },
+        {
+          "claim": "Gemini 3.5 Flash定价为每百万输入token 1.50美元、输出9美元，上下文窗口100万token",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "美联储任命a16z联合创始人Marc Andreessen联合领导AI任务组",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Washington Post - Federal Reserve enlists Marc Andreessen",
+          "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        },
+        {
+          "name": "Crypto Briefing - US Federal Reserve appoints Marc Andreessen",
+          "url": "https://cryptobriefing.com/fed-andreessen-ai-task-force-2",
+          "published_at": "2026-07-11",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美联储主席Kevin Warsh于7月9日宣布成立五个外部咨询任务组",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Marc Andreessen联合领导'生产力与就业'任务组，研究AI对劳动市场和生产率的影响",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Andreessen是a16z联合创始人，也是特朗普科技顾问委员会成员",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI秘密提交IPO申请，估值目标7300亿美元",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Build Fast with AI - AI News July 12 2026",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026",
+          "published_at": "2026-07-11",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        },
+        {
+          "name": "TechCrunch - OpenAI IPO preparations",
+          "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI正与高盛和摩根士丹利准备秘密IPO申请，目标最早2026年9月上市",
+          "source_refs": [0]
+        },
+        {
+          "claim": "私募市场估值约7300亿美元，若实现将成为史上最大科技IPO",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic年化收入约470亿美元，超过OpenAI预估的250-330亿美元",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Meta自研AI芯片Iris将于9月投产，与Broadcom和TSMC合作",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Reuters - Meta to put AI chip into production in September",
+          "url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        },
+        {
+          "name": "Yahoo Finance - Meta to start production of Iris AI chip",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Meta计划9月开始制造代号Iris的定制AI处理器",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Iris由Broadcom协助设计、TSMC制造，用于推荐排序和推理等内部工作负载",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Meta同时计划将总算力容量在2027年翻倍至14吉瓦，并在加拿大阿尔伯塔投资100亿美元建设1GW数据中心",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "SambaNova完成10亿美元F轮融资，估值110亿美元",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "General Atlantic - SambaNova Completes First Close",
+          "url": "https://www.generalatlantic.com/media-article/sambanova-completes-first-close-of-1-billion-financing-at-11-billion-valuation",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        },
+        {
+          "name": "Reuters - AI chip startup SambaNova valued at $11 billion",
+          "url": "https://www.reuters.com/business/finance/ai-chip-startup-sambanova-valued-11-billion-1-billion-funding-round-2026-07-08",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-13T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "SambaNova完成F轮首关10亿美元融资，投后估值110亿美元，由General Atlantic领投",
+          "source_refs": [0]
+        },
+        {
+          "claim": "JPMorganChase选择SambaNova作为推理基础设施合作伙伴，部署SN40和SN50系统",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Vista Equity Partners和Cambium Capital承诺通过VC2数据中心提供35亿美元算力采购",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
