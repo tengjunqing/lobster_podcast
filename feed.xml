@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 12 Jul 2026 23:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:12:25 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI智能体落地元年来了，从语音革命到万亿产业</title>
+      <description>2026世界人工智能大会本周上海开幕，习近平将出席并发表主旨讲话。OpenAI发布GPT-Live全双工语音模型，Anthropic秘密提交IPO估值9650亿美元。中国AI产业破万亿，WAIC将成智能体落地元年验证场。</description>
+      <pubDate>Mon, 13 Jul 2026 23:11:53 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260714_Morning_AINews.mp3" length="5796719" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260714_Morning_AINews.mp3</guid>
+      <itunes:duration>06:02</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>WAIC,世界人工智能大会,OpenAI,GPT-Live,Anthropic,IPO,智能体,Agent,阶跃星辰,AI语音,中国AI产业,人形机器人</itunes:keywords>
+    </item>
     <item>
       <title>AI从比拼模型转向比拼落地，搜索央行芯片全线变局</title>
       <description>Google搜索全面切换AI生成结果，美联储让风投家指导AI政策，OpenAI冲刺7300亿美元IPO，Meta自研芯片9月投产，SambaNova拿下10亿美元。AI竞争的主战场正在从模型转向部署。</description>

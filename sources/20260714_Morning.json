@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-14",
+  "episode": "20260714_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "2026世界人工智能大会本周上海开幕，习近平将出席并发表主旨讲话",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/20260713/661fcca692b245ae93120e83dd14e867/c.html",
+          "published_at": "2026-07-13T15:38:56+08:00",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "人民日报",
+          "url": "http://paper.people.com.cn/rmrb/pc/content/202607/14/content_30168596.html",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "光明网",
+          "url": "https://news.gmw.cn/2026-07/14/content_38883754.htm",
+          "published_at": "2026-07-14T04:30:00+08:00",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行",
+          "source_refs": [0]
+        },
+        {
+          "claim": "国家主席习近平将出席大会开幕式并发表主旨讲话",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "展览总面积首次突破10万平方米，1100余家企业参展，超300款产品将实现全球首发",
+          "source_refs": [2]
+        },
+        {
+          "claim": "大会策划140余场论坛，联动12个国家部委，集聚1400余位中外嘉宾",
+          "source_refs": [2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI发布GPT-Live全双工语音模型，AI对话进入实时交互时代",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI Help Center",
+          "url": "https://techjacksolutions.com/ai-brief/gpt-live-1-chatgpt-voice-full-duplex-launch",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/08/openai-gpt-live-voice",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI于7月8日发布GPT-Live-1和GPT-Live-1 mini语音模型",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "GPT-Live支持全双工对话，可以同时听和说，替代之前的Advanced Voice Mode",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "付费用户使用GPT-Live-1，免费用户使用GPT-Live-1 mini",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "GPT-Live使用GPT-5.5作为后端推理模型，支持网页搜索和深度推理",
+          "source_refs": [2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic秘密提交IPO文件，估值9650亿美元挑战OpenAI",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anthropic官方公告",
+          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "published_at": "2026-06-01",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+          "published_at": "2026-06-01",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public",
+          "published_at": "2026-06-01",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/anthropic-ai-claude-ipo-572bb6cc12053c7aa95f775285cf4b73",
+          "published_at": "2026-06-01",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic于6月1日向SEC秘密提交S-1注册声明草案",
+          "source_refs": [0, 1, 2, 3]
+        },
+        {
+          "claim": "此前Anthropic完成650亿美元H轮融资，估值9650亿美元，超过OpenAI成为估值最高的AI公司",
+          "source_refs": [1, 3]
+        },
+        {
+          "claim": "Anthropic年化收入约470亿美元，Claude Code年化收入超25亿美元",
+          "source_refs": [3]
+        },
+        {
+          "claim": "OpenAI也在准备自己的IPO，Anthropic抢先一步提交文件",
+          "source_refs": [1, 2]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 4,
+      "title": "中国AI产业规模破万亿，AI终端出货量将首超非AI产品",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "中新社/腾讯新闻转载",
+          "url": "https://news.qq.com/rain/a/20260707A0A7BH00",
+          "published_at": "2026-07-07T20:23:00+08:00",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "新华网",
+          "url": "https://www.xinhuanet.com/politics/20260714/d8880606cfde49ae88811f327dbb4cec/c.html",
+          "published_at": "2026-07-14T01:05:44+08:00",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "每日经济新闻/东方财富网",
+          "url": "https://wap.eastmoney.com/a/202607073796890927.html",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "2025年我国人工智能相关产业规模超万亿元",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "2026年AI相关产业增速预计在30%以上",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "2025年AI手机、AI电脑等智能终端年出货量超1亿台，2026年销量有望首次超过非AI产品",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "重点行业人工智能整体渗透率突破80%",
+          "source_refs": [2]
+        },
+        {
+          "claim": "人形机器人全年整机产量有望突破10万台",
+          "source_refs": [0, 2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "WAIC 2026将成智能体落地元年验证场，阶跃Agent OS等300余款新品全球首发",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "上海市经信委发布会/新浪财经",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihaawh8033943.shtml",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "每日经济新闻/东方财富网",
+          "url": "https://wap.eastmoney.com/a/202607073796890927.html",
+          "published_at": "2026-07-07",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        },
+        {
+          "name": "网易新闻/智通财经",
+          "url": "https://www.163.com/dy/article/L1MVI6JK05198UNI.html",
+          "published_at": "2026-07-13",
+          "retrieved_at": "2026-07-14T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "阶跃Agent操作系统将在WAIC 2026全球首秀",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "华为Atlas 950超节点真机、MiniMax M3多模态大模型、全球首款AI智能体手机等将在大会展出",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "阶跃星辰从纯模型研发转向模型+应用双轮，主攻智能终端Agent和垂类Agent落地",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "智算、具身两大赛道各汇聚超200家企业",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
