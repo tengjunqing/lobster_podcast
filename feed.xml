@@ -21,12 +21,12 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 13 Jul 2026 23:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:36:14 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>AI智能体落地元年来了，从语音革命到万亿产业</title>
-      <description>2026世界人工智能大会本周上海开幕，习近平将出席并发表主旨讲话。OpenAI发布GPT-Live全双工语音模型，Anthropic秘密提交IPO估值9650亿美元。中国AI产业破万亿，WAIC将成智能体落地元年验证场。</description>
-      <pubDate>Mon, 13 Jul 2026 23:11:53 GMT</pubDate>
+      <description>2026世界人工智能大会本周上海开幕，展览面积首破10万平方米。OpenAI发布GPT-Live全双工语音模型，Anthropic秘密提交IPO估值9650亿美元。中国AI产业破万亿，WAIC将成智能体落地元年验证场。</description>
+      <pubDate>Tue, 14 Jul 2026 02:36:14 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260714_Morning_AINews.mp3" length="5796719" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260714_Morning_AINews.mp3</guid>
       <itunes:duration>06:02</itunes:duration>
