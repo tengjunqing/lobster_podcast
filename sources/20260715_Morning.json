@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-15",
+  "episode": "20260715_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "台积电Q2营收396亿美元创历史新高，AI芯片需求打破季节性规律",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/tsmc-seen-riding-ai-boom-fifth-straight-quarter-record-profit-2026-07-14",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        },
+        {
+          "name": "faq.com.tw (TSMC detailed analysis)",
+          "url": "https://faq.com.tw/en/hardware/2026-07-14-tsmc-q2-2026-record-revenue-ai-chips-en",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "台积电2026年Q2营收396.2亿美元，同比增长36%，创历史新高",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "6月单月营收同比增长67.9%，打破过去四年Q2环比下降的季节性规律",
+          "source_refs": [1]
+        },
+        {
+          "claim": "摩根士丹利估计AI相关营收已占台积电晶圆营收的55%以上，2025年初为38%",
+          "source_refs": [1]
+        },
+        {
+          "claim": "2026年资本支出预计在高端520-560亿美元区间",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI向美国政府提议出让5%股权，价值426亿美元",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "CNBC (via buildfastwithai.com引用)",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI提议向美国政府出让5%股权，按8520亿美元估值计算约值426亿美元",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Sam Altman向特朗普总统、商务部长Howard Lutnick和财政部长Scott Bessent直接推介了这一方案",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该方案 modeled on Alaska Permanent Fund，建议所有头部AI公司各出让5%股权给公共基金",
+          "source_refs": [0]
+        },
+        {
+          "claim": "民调显示69%的美国工人支持要求AI公司将50%股权转入公共主权财富基金",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 3,
+      "title": "Google算力不足限制Meta使用Gemini，算力成为AI最大瓶颈",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "buildfastwithai.com (引述多家媒体)",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google在Meta请求超过其能提供的算力后，限制了Meta对Gemini模型的访问",
+          "source_refs": [0]
+        },
+        {
+          "claim": "这一限制延迟了Meta部分内部AI项目",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google拥有自己的模型、云和TPU，当产能紧张时自有项目优先，外部客户排队",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "16位诺贝尔奖得主和200余位经济学家联名警告AI变革速度超工业革命",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "YouTube (AI News in a Minute)",
+          "url": "https://www.youtube.com/watch?v=HyiQ_89DLHY",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        },
+        {
+          "name": "YouTube (DX Today AI Daily Brief)",
+          "url": "https://www.youtube.com/watch?v=ofwzZAIx4Bc",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "16位诺贝尔奖得主和超过200位经济学家签署联名信，警告AI可能以超过工业革命的速度颠覆全球经济",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "联名信指出大多数政府尚未准备好应对这一变革",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic与三星洽谈定制AI芯片，同步准备10月IPO",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch (via buildfastwithai.com引用)",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-15T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic正在与三星洽谈建造针对Claude模型优化的定制AI芯片",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic reportedly准备最早2026年10月提交S-1进行IPO",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic年化收入约470亿美元，2026年已实现盈利",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
