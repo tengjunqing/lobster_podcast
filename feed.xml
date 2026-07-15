@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 14 Jul 2026 23:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:12:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>芯片产能加速数据中心停摆，AI基础设施遭遇物理与政治双重天花板</title>
+      <description>中国批准Apple Intelligence等7款端侧AI服务。ASML光刻机生产提速三成仍供不应求。纽约签署全美首个数据中心暂停令。Nvidia H200开始向中国限量发货。Grok 4.5编程模型发布。</description>
+      <pubDate>Wed, 15 Jul 2026 23:11:07 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260716_Morning_AINews.mp3" length="7304716" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260716_Morning_AINews.mp3</guid>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Apple Intelligence,ASML,数据中心,纽约,暂停令,Nvidia,H200,中国芯片,Grok 4.5,SpaceXAI,Cursor,AI基础设施</itunes:keywords>
+    </item>
     <item>
       <title>台积电创纪录营收背后：AI的真正瓶颈不是模型，是算力</title>
       <description>台积电Q2营收396亿美元创历史新高，AI芯片需求打破季节性规律。OpenAI向美国政府提议出让426亿美元股权。Google算力不足限制Meta使用Gemini。16位诺贝尔奖得主警告AI变革速度超工业革命。Anthropic与三星洽谈定制芯片。</description>

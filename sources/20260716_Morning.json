@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-16",
+  "episode": "20260716_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "中国批准Apple Intelligence等7款端侧AI服务上线",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "China Daily",
+          "url": "https://global.chinadaily.com.cn/a/202607/15/WS6a574b6fa310986e2b4656ab.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/apple-clears-key-hurdle-for-iphone-ai-launch-in-china-201839774.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "国家网信办完成7款移动端生成式AI服务备案",
+          "source_refs": [0]
+        },
+        {
+          "claim": "获批服务包括Apple Intelligence、Samsung Galaxy AI、华为小艺、vivo蓝心、OPPO AndesGPT、小米澎湃AI、努比亚豆包",
+          "source_refs": [0]
+        },
+        {
+          "claim": "阿里巴巴通义千问模型被批准作为Apple Intelligence的中国本地后端",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "ASML将EUV光刻机生产周期缩短30%，上调全年营收指引至450亿欧元",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "The Next Web",
+          "url": "https://thenextweb.com/news/asml-euv-cycle-time-cut-capacity-ai-demand",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/asml-raises-2026-forecast-expands-091838488.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "ASML将EUV光刻机生产周期从22周缩短至15-16周，降幅约30%",
+          "source_refs": [0]
+        },
+        {
+          "claim": "2027年EUV机器几乎被完全预订，2028年也有大量订单",
+          "source_refs": [0]
+        },
+        {
+          "claim": "全年营收指引上调至430亿-450亿欧元",
+          "source_refs": [0]
+        },
+        {
+          "claim": "计划2027年产能提升30%，正研究2028年再提升30%",
+          "source_refs": [0]
+        },
+        {
+          "claim": "CFO Roger Dassen确认上述信息",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "纽约州签署全美首个大型数据中心暂停令",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "纽约州长办公室行政令No.62",
+          "url": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "纽约州成为全美第一个对大型数据中心实施全州暂停令的州",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "暂停令适用于峰值功耗50兆瓦以上的数据中心",
+          "source_refs": [0]
+        },
+        {
+          "claim": "近12吉瓦数据中心负载请求在NYISO排队，超8吉瓦2025年进入",
+          "source_refs": [2]
+        },
+        {
+          "claim": "暂停期间将制定通用环境影响声明(GEIS)",
+          "source_refs": [0]
+        },
+        {
+          "claim": "14个州提出过类似法案，纽约是第一个签署成法的",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 4,
+      "title": "美国官员确认Nvidia H200芯片已开始向中国发货",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-official-says-shipments-h200-chips-china-have-begun-2026-07-14",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/nvidia-h200-chips-china-shipments",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美国商务部官员确认Nvidia H200芯片已开始向中国发货",
+          "source_refs": [0]
+        },
+        {
+          "claim": "约10家中国企业获得出口许可，包括阿里巴巴和字节跳动",
+          "source_refs": [1]
+        },
+        {
+          "claim": "总量限制在20万片以下，不到企业申请量的一半",
+          "source_refs": [1]
+        },
+        {
+          "claim": "附加25%附加税和强制检查要求",
+          "source_refs": [1]
+        },
+        {
+          "claim": "中国企业对采购H200态度谨慎，北京推动自主芯片生产",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "SpaceXAI发布Grok 4.5编程模型，与Cursor联合训练",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence",
+          "published_at": "2026-07-08",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "Quartz",
+          "url": "https://qz.com/spacexai-grok-45-coding-model-launch-070926",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        },
+        {
+          "name": "AI Business",
+          "url": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
+          "published_at": "2026-07-09",
+          "retrieved_at": "2026-07-16T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Grok 4.5于7月8日发布，是SpaceXAI收购Cursor后首个重要模型",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "与Cursor联合训练，使用数万片Nvidia GB300 GPU",
+          "source_refs": [1]
+        },
+        {
+          "claim": "定价：输入2美元/百万token，输出6美元/百万token",
+          "source_refs": [1]
+        },
+        {
+          "claim": "Elon Musk称性能与Opus 4.7相当但更快更便宜",
+          "source_refs": [2]
+        },
+        {
+          "claim": "测试显示幻觉率54%",
+          "source_refs": [2]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
