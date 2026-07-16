@@ -21,18 +21,17 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 16 Jul 2026 23:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:48:24 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>习近平首次出席WAIC，Anthropic冲刺万亿美元IPO</title>
-      <description>2026世界人工智能大会今日上海开幕，习近平首次出席发表主旨演讲，WAICO全球AI合作组织正式成立。Anthropic安排投资者会议目标10月上市，估值9650亿美元将抢先OpenAI。Google旗舰模型Gemini 3.5 Pro第三次跳票，成为唯一没有2026旗舰的头部实验室。韩国芯片股暴跌触发第37次熔断，纳德拉警告企业被AI实验室收割两次。</description>
+      <title>20260717 Morning AINews</title>
+      <description>AI 生成于 2026-07-17 07:06</description>
       <pubDate>Thu, 16 Jul 2026 23:06:35 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260717_Morning_AINews.mp3" length="7655384" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260717_Morning_AINews.mp3</guid>
       <itunes:duration>07:58</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>WAIC,世界人工智能大会,习近平,WAICO,AI治理,Anthropic,IPO,Gemini 3.5 Pro,Google,韩国芯片,KOSPI,纳德拉,微软,AI安全</itunes:keywords>
     </item>
     <item>
       <title>芯片产能加速数据中心停摆，AI基础设施遭遇物理与政治双重天花板</title>
