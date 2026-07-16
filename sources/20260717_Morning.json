@@ -1,0 +1,260 @@
+{
+  "date": "2026-07-17",
+  "episode": "20260717_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "WAIC 2026今日上海开幕，习近平首次出席发表主旨演讲，WAICO全球AI合作组织成立",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "外交部发言人林建例行记者会",
+          "url": "https://un.china-mission.gov.cn/eng/fyrth/202607/t20260716_11984210.htm",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "TechTimes: Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body",
+          "url": "https://www.techtimes.com/articles/320680/20260716/xi-jinping-steps-onstage-china-pushes-rival-ai-governance-body-global-south.htm",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "NDTV/AFP: Xi Jinping To Present China's AI Dream At Major Conference Today",
+          "url": "https://www.ndtv.com/world-news/xi-jinping-to-present-chinas-ai-dream-at-major-conference-today-11781947",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "Asiae.co.kr: Xi Jinping to Deliver Keynote at World AI Conference",
+          "url": "https://www.asiae.co.kr/en/article/2026071610214952969",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "Science and Technology Daily via PRNewswire: Steering AI for an Inclusive Future",
+          "url": "https://finance.yahoo.com/technology/ai/articles/steering-ai-inclusive-beneficial-future-132900592.html",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "中国驻尼泊尔大使馆社交媒体（新华社转引确认）",
+          "url": "https://x.com/AmbCaiRun/status/2077772940595056863",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "2026世界人工智能大会暨全球AI治理高级别会议于7月17日至20日在上海举行",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "习近平首次亲自出席WAIC并发表主旨演讲，将系统阐述中国关于AI发展和治理的政策主张",
+          "source_refs": [0, 2, 3]
+        },
+        {
+          "claim": "展览面积首次突破10万平方米，1100余家企业参展，300余款产品全球首发",
+          "source_refs": [1, 4]
+        },
+        {
+          "claim": "联合国秘书长古特雷斯、哈萨克斯坦总统托卡耶夫、泰国总理等多国领导人出席",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "WAICO（世界人工智能合作组织）举行签署仪式，中国推动建立全球南方AI治理平台",
+          "source_refs": [1, 3]
+        },
+        {
+          "claim": "斯坦福2026 AI指数报告显示中美AI模型性能差距已缩小至2.7个百分点",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic安排投资者会议，目标10月纳斯达克IPO，估值9650亿美元",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg: Anthropic Is Said to Plan IPO Investor Meetings as Listing Nears",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-plan-ipo-investor-152850812.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "CNBC: Anthropic moves closer to IPO as bankers line up investor meetings",
+          "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "Investing.com: Anthropic's 2026 IPO: credit lines, investor meetings and an October target",
+          "url": "https://www.investing.com/news/stock-market-news/anthropics-2026-ipo-credit-lines-investor-meetings-and-an-october-target-93CH-4795782",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic正在安排投资者会议，目标最早2026年10月在纳斯达克上市",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "高盛、摩根士丹利和摩根大通三大投行牵头此次IPO",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "Anthropic最新估值9650亿美元，年化收入约470亿美元",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Anthropic于6月1日向SEC秘密提交S-1注册声明",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "OpenAI已将IPO目标从2026年秋季推迟至2027年",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "2026年全球IPO融资额已达2275亿美元，为2021年以来最高水平",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Gemini 3.5 Pro第三次跳票：Google废弃原架构从零重建，旗舰模型仍未发布",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechTimes: Rebuilt Gemini 3.5 Pro Misses Third Deadline",
+          "url": "https://www.techtimes.com/articles/320736/20260716/rebuilt-gemini-35-pro-misses-third-deadline-google-eyes-stopgap-release.htm",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "Firstpost: Google delays Gemini 3.5 Pro as it struggles to meet internal performance targets",
+          "url": "https://www.firstpost.com/tech/google-delays-gemini-3-5-pro-as-it-struggles-to-meet-internal-performance-targets-report-14031954.html",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "AI Tools Recap: Gemini 3.5 Pro Was Rebuilt From Scratch",
+          "url": "https://aitoolsrecap.com/Blog/ai-news-july-16-2026",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google废弃了Gemini 3.5 Pro原始基础模型，从零开始重新预训练",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "重建原因：递归工具调用不稳定、SVG生成失败、数学推理薄弱三个架构缺陷",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "Sundar Pichai在I/O 2026（5月19日）承诺一个月内交付，但连续三次延期（6月、7月17日、7月24日）",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "预测市场显示7月31日前发布的概率为81%，8月7日前为73%",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google成为2026年唯一没有旗舰模型投入生产的头部AI实验室",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "新模型预计具备200万token上下文窗口和Deep Think推理层",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "韩国芯片股暴跌触发今年第37次熔断，监管层暂停单股杠杆ETF新品上市",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "BeInCrypto: SK Hynix Drops Near 11% as KOSPI Hits 37th Sidecar of 2026",
+          "url": "https://beincrypto.com/sk-hynix-drops-near-11-percent-kospi-37th-sidecar-2026",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "The Edge Singapore: South Korea to halt new listings of single stock leveraged ETFs",
+          "url": "https://www.theedgesingapore.com/news/markets/south-korea-halt-new-listings-single-stock-leveraged-etfs",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        },
+        {
+          "name": "Ad-hoc-news/boerse-global.de: SK Hynix's Sharpest Drop in Months Fueled by Seoul ETF Ban",
+          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/sk-hynix-sharpest-drop-in-months-fueled-by-seoul-etf-ban-and-broader-chip-rout/69780274",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "SK海力士股价暴跌11.5%，三星电子下跌7.33%",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "KOSPI指数跌4.45%至6960点，触发2026年第37次熔断机制",
+          "source_refs": [0]
+        },
+        {
+          "claim": "韩国金融稳定委员会立即暂停单股杠杆ETF新品上市，8月5日起将最低保证金从1000万韩元提高至3000万韩元",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "韩国央行同日加息25个基点至2.75%",
+          "source_refs": [2]
+        },
+        {
+          "claim": "尽管暴跌，基本面依然强劲：DRAM供应商目前仅能满足75%至80%的需求",
+          "source_refs": [2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "微软CEO纳德拉警告：企业使用AI模型实际上在被收割两次",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Fortune: Big Tech's top executives warn enterprises are giving away too much to AI labs",
+          "url": "https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-17T07:00:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "纳德拉发表博文警告企业在使用AI模型时'付两次费'：一次是API费用，一次是无形中泄露企业知识",
+          "source_refs": [0]
+        },
+        {
+          "claim": "模型从'exhaust'中学习——包括用户写的提示词、使用的工具，尤其是纠错反馈",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic支持各州AI安全立法，OpenAI则推动联邦层面的优先权以取代州级监管",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic CEO Dario Amodei向推动AI监管的PAC捐款100万美元",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
