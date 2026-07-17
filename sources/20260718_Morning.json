@@ -1,0 +1,242 @@
+{
+  "date": "2026-07-18",
+  "episode": "20260718_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Moonshot发布Kimi K3：2.8万亿参数全球最大开源模型，挑战美国前沿AI",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cy9w4q8pgp0o",
+          "published_at": "2026-07-17T16:53:04Z",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "Wall Street Journal",
+          "url": "https://www.wsj.com/tech/ai/chinas-moonshot-ai-releases-model-to-challenge-top-u-s-systems-d84fe6e9",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com",
+          "published_at": "2026-07-17T08:38:30Z",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Moonshot AI于7月16日发布Kimi K3，总参数量2.8万亿，是全球最大的开源AI模型",
+          "source_refs": [0, 1, 3, 4]
+        },
+        {
+          "claim": "K3采用MoE架构，896个专家中每个token仅激活16个，上下文窗口100万token",
+          "source_refs": [3, 4]
+        },
+        {
+          "claim": "API定价为每百万输入token 3美元、输出token 15美元，与Claude Sonnet持平，远高于前代K2.6的0.95/4美元",
+          "source_refs": [3, 4]
+        },
+        {
+          "claim": "Arena.ai盲测中K3前端代码排名第一，超越Claude Fable 5；但整体性能仍落后于Fable 5和GPT-5.6 Sol",
+          "source_refs": [0, 3, 4]
+        },
+        {
+          "claim": "完整权重将于7月27日开源，届时将成为首个3T级开源模型",
+          "source_refs": [0, 1, 4]
+        },
+        {
+          "claim": "Anthropic曾在2月指控Moonshot使用340万条Claude对话数据进行蒸馏训练",
+          "source_refs": [3]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "习近平出席WAIC 2026主旨演讲，宣布成立世界人工智能合作组织",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "央视网",
+          "url": "https://news.cctv.com/2026/07/17/ARTISggfKpymc0SrNJMOww8c260717.shtml",
+          "published_at": "2026-07-17T19:18:00+08:00",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "中国政府网",
+          "url": "https://english.www.gov.cn/news/202607/17/content_WS6a59bb10c6d00ca5f9a0c43d.html",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "Reuters (AP)",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "NPR/AP",
+          "url": "https://www.kosu.org/news/2026-07-17/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+          "published_at": "2026-07-17T02:17:00-05:00",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "7月17日，习近平在上海世界会客厅出席WAIC 2026开幕式并发表主旨讲话，这是他首次出席该会议",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "宣布世界人工智能合作组织在上海正式成立，哈萨克斯坦、柬埔寨、泰国领导人及联合国秘书长出席",
+          "source_refs": [0, 3]
+        },
+        {
+          "claim": "未来5年中国将面向发展中国家提供5000个人工智能专题研修培训名额",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "推动气象智能预警方案\"妈祖\"在30个国家落地应用",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "中国AI智能经济核心产业规模已超过万亿元人民币",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Databricks估值达1880亿美元，Coatue领投30亿美元新一轮融资",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Wall Street Journal",
+          "url": "https://www.wsj.com/articles/databricks-set-to-hit-188-billion-valuation-with-new-investment-from-coatue",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/databricks-valued-188-billion-after-coatue-led-investment-wsj-reports-2026-07-17",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/bankruptcy-law/coatue-leads-databricks-funding-round-at-188-billion-valuation",
+          "published_at": "2026-07-17T04:19:00Z",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/private-markets/26/07/60531614/databricks-targets-188-billion-valuation-with-new-coatue-investment",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Coatue Management领投Databricks新一轮30亿美元融资，估值达1880亿美元",
+          "source_refs": [1, 2]
+        },
+        {
+          "claim": "估值较2025年12月的1340亿美元增长40%",
+          "source_refs": [1, 2, 3]
+        },
+        {
+          "claim": "Databricks年化收入已达69亿美元，同比增长超过80%",
+          "source_refs": [3]
+        },
+        {
+          "claim": "CEO Ali Ghodsi表示今年不计划上市，可能等到2027年",
+          "source_refs": [3]
+        },
+        {
+          "claim": "Databricks SQL年化收入达15亿美元，同比增长超过100%",
+          "source_refs": [3]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "全球AI创新指数报告发布：中美差距持续缩小，中国算力效率领先",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "科技日报",
+          "url": "https://www.stdaily.com/web/gdxw/2026-07/17/content_549097.html",
+          "published_at": "2026-07-17T18:11:07+08:00",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美国以78.44分排名第一，中国60.49分排名第二，领先第三名20.5分",
+          "source_refs": [0]
+        },
+        {
+          "claim": "中美总分差距从2023年的22.02分缩小到2025年的17.95分",
+          "source_refs": [0]
+        },
+        {
+          "claim": "中国代表性大模型算力效率比美国领先大模型平均高30.4%，头部模型Token均价约为美国同类产品的四分之一",
+          "source_refs": [0]
+        },
+        {
+          "claim": "2025年中国人形机器人出货量占全球88.7%",
+          "source_refs": [0]
+        },
+        {
+          "claim": "2025年人工智能驱动的网络攻击事件同比激增89%",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "52%美国人支持限制AI数据中心扩张，全美抗议日定于7月18日",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "ActiVote民调",
+          "url": "https://www.activote.net/americans-favors-limits-on-ai-data-center-expansion",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T06:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "ActiVote于7月13日至17日对481名注册选民进行民调，52%受访者认为AI数据中心扩张应受到严格限制",
+          "source_refs": [0]
+        },
+        {
+          "claim": "7月18日全美计划举行针对数据中心扩张的抗议日活动",
+          "source_refs": [0]
+        },
+        {
+          "claim": "民调误差范围为4.5%",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

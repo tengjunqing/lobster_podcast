@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 17 Jul 2026 01:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:12:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>全球最大开源模型发布，AI权力格局正在重构</title>
+      <description>Moonshot发布2.8万亿参数Kimi K3，前端代码评测超越Claude Fable 5。习近平在WAIC宣布成立世界人工智能合作组织。Databricks估值飙升至1880亿美元。中美AI创新差距持续收窄，但AI基础设施扩张正面临社区阻力。</description>
+      <pubDate>Fri, 17 Jul 2026 23:11:56 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3" length="5789196" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3</guid>
+      <itunes:duration>06:01</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Kimi K3,Moonshot AI,开源模型,WAIC 2026,世界人工智能合作组织,Databricks,AI融资,AI创新指数,数据中心,AI基础设施,中美AI竞争</itunes:keywords>
+    </item>
     <item>
       <title>AI公司扎堆上市，Google旗舰模型为何三度跳票</title>
       <description>Anthropic估值逼近万亿美元冲刺IPO，Google Gemini 3.5 Pro因架构缺陷第三次延期，微软CEO警告企业被AI模型提供商收割两次。本期从技术视角拆解AI行业进入现实检验期的三个信号。</description>
