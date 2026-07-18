@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 18 Jul 2026 03:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:09:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI治理走向制度化，芯片股为何跌入熊市</title>
+      <description>29国签署协定成立世界人工智能合作组织，总部设于上海。费城半导体指数较6月高点下跌超20%正式进入熊市，全球芯片股蒸发3.3万亿美元。SpaceX跌破IPO价格，Meta向Anthropic出租算力。全球AI同时进入规则建立期和估值回归期。</description>
+      <pubDate>Sat, 18 Jul 2026 23:08:35 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260719_Morning_AINews.mp3" length="7673356" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260719_Morning_AINews.mp3</guid>
+      <itunes:duration>07:59</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>WAICO,世界人工智能合作组织,芯片股,熊市,费城半导体指数,SpaceX,IPO,Meta,Anthropic,算力,特朗普,AI行政命令,AI治理</itunes:keywords>
+    </item>
     <item>
       <title>最大开源模型遇上最强算力节点，AI基础设施全面提速</title>
       <description>Moonshot发布2.8万亿参数Kimi K3，前端代码评测超越Claude Fable 5。华为Atlas 950超节点真机首秀，万卡级集群算力刷新纪录。Databricks估值飙升至1880亿美元。国产超节点集中亮相，AI算力从堆芯片迈向提效率。</description>
