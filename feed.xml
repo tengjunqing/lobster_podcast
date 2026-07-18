@@ -21,18 +21,18 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 17 Jul 2026 23:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:08:44 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>全球最大开源模型发布，AI权力格局正在重构</title>
-      <description>Moonshot发布2.8万亿参数Kimi K3，前端代码评测超越Claude Fable 5。习近平在WAIC宣布成立世界人工智能合作组织。Databricks估值飙升至1880亿美元。中美AI创新差距持续收窄，但AI基础设施扩张正面临社区阻力。</description>
-      <pubDate>Fri, 17 Jul 2026 23:11:56 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3" length="5789196" type="audio/mpeg"/>
+      <title>最大开源模型遇上最强算力节点，AI基础设施全面提速</title>
+      <description>Moonshot发布2.8万亿参数Kimi K3，前端代码评测超越Claude Fable 5。华为Atlas 950超节点真机首秀，万卡级集群算力刷新纪录。Databricks估值飙升至1880亿美元。国产超节点集中亮相，AI算力从堆芯片迈向提效率。</description>
+      <pubDate>Sat, 18 Jul 2026 03:08:01 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3" length="6193781" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3</guid>
-      <itunes:duration>06:01</itunes:duration>
+      <itunes:duration>06:27</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Kimi K3,Moonshot AI,开源模型,WAIC 2026,世界人工智能合作组织,Databricks,AI融资,AI创新指数,数据中心,AI基础设施,中美AI竞争</itunes:keywords>
+      <itunes:keywords>Kimi K3,Moonshot AI,开源模型,华为Atlas 950,超节点,Databricks,AI融资,算力基础设施,WAIC 2026,AI芯片</itunes:keywords>
     </item>
     <item>
       <title>AI公司扎堆上市，Google旗舰模型为何三度跳票</title>

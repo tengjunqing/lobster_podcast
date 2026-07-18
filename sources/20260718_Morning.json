@@ -20,12 +20,6 @@
           "retrieved_at": "2026-07-18T06:30:00+08:00"
         },
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com",
-          "published_at": "2026-07-17T08:38:30Z",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
-        },
-        {
           "name": "Tom's Hardware",
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
           "published_at": "2026-07-17",
@@ -41,81 +35,115 @@
       "key_facts": [
         {
           "claim": "Moonshot AI于7月16日发布Kimi K3，总参数量2.8万亿，是全球最大的开源AI模型",
-          "source_refs": [0, 1, 3, 4]
+          "source_refs": [
+            0,
+            1,
+            2,
+            3
+          ]
         },
         {
           "claim": "K3采用MoE架构，896个专家中每个token仅激活16个，上下文窗口100万token",
-          "source_refs": [3, 4]
+          "source_refs": [
+            2,
+            3
+          ]
         },
         {
-          "claim": "API定价为每百万输入token 3美元、输出token 15美元，与Claude Sonnet持平，远高于前代K2.6的0.95/4美元",
-          "source_refs": [3, 4]
+          "claim": "API定价为每百万输入token 3美元、输出token 15美元，与Claude Sonnet持平",
+          "source_refs": [
+            2,
+            3
+          ]
         },
         {
           "claim": "Arena.ai盲测中K3前端代码排名第一，超越Claude Fable 5；但整体性能仍落后于Fable 5和GPT-5.6 Sol",
-          "source_refs": [0, 3, 4]
+          "source_refs": [
+            0,
+            2,
+            3
+          ]
         },
         {
           "claim": "完整权重将于7月27日开源，届时将成为首个3T级开源模型",
-          "source_refs": [0, 1, 4]
+          "source_refs": [
+            0,
+            1,
+            3
+          ]
         },
         {
           "claim": "Anthropic曾在2月指控Moonshot使用340万条Claude对话数据进行蒸馏训练",
-          "source_refs": [3]
+          "source_refs": [
+            2
+          ]
         }
       ],
       "used_as_deep_dive": true
     },
     {
       "rank": 2,
-      "title": "习近平出席WAIC 2026主旨演讲，宣布成立世界人工智能合作组织",
+      "title": "华为昇腾Atlas 950 SuperPoD真机首秀：1024卡超节点，万卡级集群刷新纪录",
       "credibility": "A",
       "sources": [
         {
-          "name": "央视网",
-          "url": "https://news.cctv.com/2026/07/17/ARTISggfKpymc0SrNJMOww8c260717.shtml",
-          "published_at": "2026-07-17T19:18:00+08:00",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
-        },
-        {
-          "name": "中国政府网",
-          "url": "https://english.www.gov.cn/news/202607/17/content_WS6a59bb10c6d00ca5f9a0c43d.html",
+          "name": "搜狐科技",
+          "url": "https://m.sohu.com/a/1051456277_115831",
           "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
+          "retrieved_at": "2026-07-18T10:55:00+08:00"
         },
         {
-          "name": "Reuters (AP)",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
+          "name": "快科技",
+          "url": "https://finance.sina.com.cn/tech/discovery/2026-07-14/doc-inihsita5691388.shtml",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-18T10:55:00+08:00"
         },
         {
-          "name": "NPR/AP",
-          "url": "https://www.kosu.org/news/2026-07-17/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-          "published_at": "2026-07-17T02:17:00-05:00",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
+          "name": "第一财经",
+          "url": "https://wap.eastmoney.com/a/202607143806046941.html",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-18T10:55:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "7月17日，习近平在上海世界会客厅出席WAIC 2026开幕式并发表主旨讲话，这是他首次出席该会议",
-          "source_refs": [0, 2]
+          "claim": "华为在WAIC 2026首次公开展示Atlas 950 SuperPoD真机，搭载1024张昇腾卡",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "宣布世界人工智能合作组织在上海正式成立，哈萨克斯坦、柬埔寨、泰国领导人及联合国秘书长出席",
-          "source_refs": [0, 3]
+          "claim": "最大可扩展至8192张昇腾卡高速互联，卡规模是上一代Atlas 900的20多倍",
+          "source_refs": [
+            1
+          ]
         },
         {
-          "claim": "未来5年中国将面向发展中国家提供5000个人工智能专题研修培训名额",
-          "source_refs": [0, 1]
+          "claim": "自研灵衢2.0高速互联协议，通信带宽提升15倍，单跳时延从2微秒降至200纳秒",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "推动气象智能预警方案\"妈祖\"在30个国家落地应用",
-          "source_refs": [0, 1]
+          "claim": "业界最大256TB内存统一编址，全液冷散热PUE低至1.15",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "中国AI智能经济核心产业规模已超过万亿元人民币",
-          "source_refs": [0, 1]
+          "claim": "基于超节点发布Atlas 950 SuperCluster集群，算力规模超过50万卡",
+          "source_refs": [
+            1
+          ]
+        },
+        {
+          "claim": "有望2026年Q4批量上市，字节跳动、阿里巴巴等或将成为首批客户",
+          "source_refs": [
+            0
+          ]
         }
       ],
       "used_as_deep_dive": false
@@ -142,70 +170,88 @@
           "url": "https://news.bloomberglaw.com/bankruptcy-law/coatue-leads-databricks-funding-round-at-188-billion-valuation",
           "published_at": "2026-07-17T04:19:00Z",
           "retrieved_at": "2026-07-18T06:30:00+08:00"
-        },
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/private-markets/26/07/60531614/databricks-targets-188-billion-valuation-with-new-coatue-investment",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
         }
       ],
       "key_facts": [
         {
           "claim": "Coatue Management领投Databricks新一轮30亿美元融资，估值达1880亿美元",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "估值较2025年12月的1340亿美元增长40%",
-          "source_refs": [1, 2, 3]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "Databricks年化收入已达69亿美元，同比增长超过80%",
-          "source_refs": [3]
+          "source_refs": [
+            2
+          ]
         },
         {
           "claim": "CEO Ali Ghodsi表示今年不计划上市，可能等到2027年",
-          "source_refs": [3]
-        },
-        {
-          "claim": "Databricks SQL年化收入达15亿美元，同比增长超过100%",
-          "source_refs": [3]
+          "source_refs": [
+            2
+          ]
         }
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 4,
-      "title": "全球AI创新指数报告发布：中美差距持续缩小，中国算力效率领先",
+      "title": "国产超节点集中亮相WAIC 2026，AI算力进入系统时代",
       "credibility": "A",
       "sources": [
         {
-          "name": "科技日报",
-          "url": "https://www.stdaily.com/web/gdxw/2026-07/17/content_549097.html",
-          "published_at": "2026-07-17T18:11:07+08:00",
-          "retrieved_at": "2026-07-18T06:30:00+08:00"
+          "name": "第一财经",
+          "url": "https://wap.eastmoney.com/a/202607143806046941.html",
+          "published_at": "2026-07-14",
+          "retrieved_at": "2026-07-18T10:55:00+08:00"
+        },
+        {
+          "name": "搜狐科技",
+          "url": "https://www.sohu.com/a/1051345482_120988533",
+          "published_at": "2026-07-17",
+          "retrieved_at": "2026-07-18T10:55:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "美国以78.44分排名第一，中国60.49分排名第二，领先第三名20.5分",
-          "source_refs": [0]
+          "claim": "中科曙光发布全国产十万卡AI超集群曙光8000，采用超智融合技术路线",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "中美总分差距从2023年的22.02分缩小到2025年的17.95分",
-          "source_refs": [0]
+          "claim": "壁仞科技推出BR20x系列GPU，单个超节点可扩展至1024卡",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "中国代表性大模型算力效率比美国领先大模型平均高30.4%，头部模型Token均价约为美国同类产品的四分之一",
-          "source_refs": [0]
+          "claim": "沐曦股份首发曦景S系列超节点，中兴通讯联合多家厂商打造Matrix超节点",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "2025年中国人形机器人出货量占全球88.7%",
-          "source_refs": [0]
+          "claim": "华泰证券称2026年为国产超节点元年，2028年市场空间有望达3414亿元",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "2025年人工智能驱动的网络攻击事件同比激增89%",
-          "source_refs": [0]
+          "claim": "AI竞争正从单芯片性能转向系统能力，超节点成为AI时代核心计算单元",
+          "source_refs": [
+            0
+          ]
         }
       ],
       "used_as_deep_dive": false
@@ -225,15 +271,21 @@
       "key_facts": [
         {
           "claim": "ActiVote于7月13日至17日对481名注册选民进行民调，52%受访者认为AI数据中心扩张应受到严格限制",
-          "source_refs": [0]
+          "source_refs": [
+            0
+          ]
         },
         {
           "claim": "7月18日全美计划举行针对数据中心扩张的抗议日活动",
-          "source_refs": [0]
+          "source_refs": [
+            0
+          ]
         },
         {
           "claim": "民调误差范围为4.5%",
-          "source_refs": [0]
+          "source_refs": [
+            0
+          ]
         }
       ],
       "used_as_deep_dive": false
