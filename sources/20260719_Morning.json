@@ -4,236 +4,234 @@
   "items": [
     {
       "rank": 1,
-      "title": "29国签署协定成立世界人工智能合作组织，总部设于上海",
+      "title": "费城半导体指数正式进入技术性熊市，全球芯片股蒸发3.3万亿美元",
       "credibility": "A",
       "sources": [
         {
-          "name": "Yahoo Finance (转引新华社)",
-          "url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E7%AD%8929%E5%9C%8B%E7%B0%BD%E7%B4%84%E6%88%90%E7%AB%8B%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%B5%84%E7%B9%94-%E7%B8%BD%E9%83%A8%E8%A8%AD%E4%B8%8A%E6%B5%B7-010917832.html",
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com",
           "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         },
         {
           "name": "新浪财经",
-          "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniifhua1583394.shtml",
+          "url": "https://finance.sina.com.cn/roll/2026-07-18/doc-iniiewei8356328.shtml",
           "published_at": "2026-07-18",
-          "retrieved_at": "2026-07-19"
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         },
         {
-          "name": "中国驻美大使馆 (转引新华社)",
-          "url": "https://us.china-embassy.gov.cn/zgyw/202607/t20260717_11984702.htm",
+          "name": "中央社",
+          "url": "https://www.wenxuecity.com/news/2026/07/17/126712045.html",
           "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "7月16日，29个国家在上海签署协定成立世界人工智能合作组织（WAICO），总部设于上海",
-          "source_refs": [0, 1]
+          "claim": "费城半导体指数较6月22日历史高点累计下跌超过20%，正式进入技术性熊市",
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
-          "claim": "创始成员国包括中国、哈萨克斯坦、老挝、巴基斯坦、俄罗斯、印尼等29个国家",
-          "source_refs": [0]
+          "claim": "自6月22日以来全球芯片股蒸发约3.3万亿美元市值",
+          "source_refs": [
+            1
+          ]
         },
         {
-          "claim": "中共中央政治局委员、外长王毅代表中国政府签署协定",
-          "source_refs": [0]
+          "claim": "美光较峰值暴跌30%，西部数据和闪迪跌超35%，三星7月初遭遇暴跌",
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
-          "claim": "习近平在WAIC开幕式上宣布未来5年面向发展中国家提供5000个人工智能专题研修培训名额",
-          "source_refs": [2]
+          "claim": "英伟达早盘跌超4%，市值跌落全球最高宝座，苹果重新登顶",
+          "source_refs": [
+            2
+          ]
         },
         {
-          "claim": "中国将推动气象智能预警方案'妈祖'在30个国家落地应用",
-          "source_refs": [2]
+          "claim": "Kimi K3的发布加剧了市场对硅谷过度支出的担忧，华尔街创造Kimi时刻一词",
+          "source_refs": [
+            1
+          ]
         }
       ],
       "used_as_deep_dive": true
     },
     {
       "rank": 2,
-      "title": "费城半导体指数正式进入技术性熊市，全球芯片股蒸发3.3万亿美元",
+      "title": "SpaceX股价首次跌破135美元IPO发行价，做空者大举押注",
       "credibility": "A",
       "sources": [
         {
-          "name": "BloomingBit",
-          "url": "https://en.bloomingbit.io/feed/news/116500",
-          "published_at": "2026-07-18",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/the-33-trillion-chip-sell-off-is-nearing-a-bear-market-chart-of-the-day-100000286.html",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         },
         {
           "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
+          "url": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+          "published_at": "2026-07-15",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16",
+          "published_at": "2026-07-16",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "7月17日，费城半导体指数（SOX）下跌1.6%，较6月22日创下的历史高点累计下跌20.2%，正式进入技术性熊市",
-          "source_refs": [0, 1]
+          "claim": "SpaceX股价盘中跌至132.75美元，首次跌破135美元IPO发行价",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "自6月22日以来，全球芯片股蒸发约3.3万亿美元市值",
-          "source_refs": [2]
+          "claim": "SpaceX于6月12日上市融资860亿美元为史上最大IPO，股价一度冲高到225美元",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "美光、三星、SK海力士等存储芯片股已率先进入熊市",
-          "source_refs": [2]
+          "claim": "较历史高点跌超30%，约1.85亿股被做空占公开流通股29%",
+          "source_refs": [
+            2
+          ]
         },
         {
-          "claim": "尽管近期下跌，SOX指数年内仍上涨超过60%",
-          "source_refs": [0]
-        },
-        {
-          "claim": "美银分析师Vivek Arya认为这是'夏季重置，而非基本面逆转'，预计AI支出到2030年将翻倍至1.7万亿美元",
-          "source_refs": [1]
+          "claim": "做空者已获得约87亿美元账面利润",
+          "source_refs": [
+            2
+          ]
         }
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 3,
-      "title": "SpaceX股价跌破135美元IPO发行价，市值蒸发超8000亿美元",
+      "title": "Patreon与Cloudflare联手封禁AI训练爬虫，保护创作者内容",
       "credibility": "A",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/legal/transactional/spacex-shares-slide-below-ipo-price-blistering-rally-unravels-2026-07-15",
-          "published_at": "2026-07-15",
-          "retrieved_at": "2026-07-19"
+          "name": "IT之家",
+          "url": "https://www.ithome.com",
+          "published_at": "2026-07-18",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         },
         {
-          "name": "Wall Street Journal",
-          "url": "https://www.wsj.com/finance/stocks/spacex-shares-fall-below-ipo-price-for-the-first-time-d71dff7f",
-          "published_at": "2026-07-15",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/amp/2026/07/15/spacex-spcx-stock-ipo-price.html",
-          "published_at": "2026-07-15",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/science/2026/jul/15/spacex-shares-ipo-price",
-          "published_at": "2026-07-15",
-          "retrieved_at": "2026-07-19"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default",
+          "published_at": "2026-07-02",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "7月15日，SpaceX股价盘中跌至132.15美元，首次跌破135美元IPO发行价",
-          "source_refs": [0, 1, 2]
+          "claim": "Patreon与Cloudflare合作完全禁止AI训练爬虫访问平台",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "SpaceX于6月12日上市，融资860亿美元，为史上最大IPO，曾使马斯克成为全球首位万亿富翁",
-          "source_refs": [0, 2, 3]
+          "claim": "早期测试显示AI训练爬虫每周访问次数从数千次骤降至零",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "股价从历史高点225.64美元跌至132美元区间，市值从2.6万亿美元跌至约1.78万亿美元，蒸发超8000亿美元",
-          "source_refs": [0]
+          "claim": "Cloudflare从7月1日起默认屏蔽AI爬虫为行业首家",
+          "source_refs": [
+            1
+          ]
         },
         {
-          "claim": "上市首月SpaceX曾短暂超越微软和亚马逊市值",
-          "source_refs": [0, 1]
+          "claim": "Cloudflare推出Pay Per Crawl机制让出版商可向AI公司收费",
+          "source_refs": [
+            1
+          ]
         }
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 4,
-      "title": "Meta与Anthropic洽谈出租AI算力，潜在交易价值达100亿美元",
+      "title": "图灵奖得主萨顿：AI正从人类数据时代迈入经验时代",
       "credibility": "A",
       "sources": [
         {
-          "name": "New York Times",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/technology/meta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "Quartz",
-          "url": "https://qz.com/anthropic-meta-computing-power-lease-deal-071726",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-19"
+          "name": "硅星人",
+          "url": "https://www.sohu.com/a/1051857746_123753",
+          "published_at": "2026-07-18",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "Meta正在与Anthropic洽谈出租AI数据中心算力，交易可能在两年内价值高达100亿美元",
-          "source_refs": [0, 1, 2]
+          "claim": "2024年图灵奖得主萨顿在WAIC 2026主论坛称AI的进步被夸大了",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "这是Anthropic数周内第二笔类似交易，此前已与SpaceX的Colossus 1数据中心达成450亿美元三年期算力协议",
-          "source_refs": [3]
+          "claim": "萨顿指出大语言模型只是使用人类已有知识而非自己发现新知识",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "Meta今年资本支出可能高达1450亿美元，已聘请前AWS高管负责基础设施业务",
-          "source_refs": [0]
-        },
-        {
-          "claim": "扎克伯格5月表示公司正在考虑进入云计算领域",
-          "source_refs": [0]
+          "claim": "萨顿宣告人类数据时代即将走到尽头AI正迈入经验时代",
+          "source_refs": [
+            0
+          ]
         }
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 5,
-      "title": "特朗普签署AI行政命令，要求前沿模型发布前30天提交政府审查",
+      "title": "WAIC 2026具身智能爆发，300多台机器人集中亮相",
       "credibility": "A",
       "sources": [
         {
-          "name": "The White House",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security",
-          "published_at": "2026-06",
-          "retrieved_at": "2026-07-19"
-        },
-        {
-          "name": "Crescendo AI (综合报道)",
-          "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-          "published_at": "2026-06",
-          "retrieved_at": "2026-07-19"
+          "name": "钛媒体",
+          "url": "https://www.tmtpost.com/8069767.html",
+          "published_at": "2026-07-18",
+          "retrieved_at": "2026-07-19T07:15:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "特朗普总统签署行政命令，要求AI公司在公开发布前沿模型前30天向联邦政府提供模型进行网络安全基准测试",
-          "source_refs": [0, 1]
+          "claim": "本届WAIC首次把具身智能列为与算力并列的核心赛道汇聚200多家企业",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "该行政命令标题为'促进先进人工智能创新与安全'",
-          "source_refs": [0]
+          "claim": "现场约300多台机器人涵盖工业制造生活服务文体娱乐等领域",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "这是美国联邦政府首次要求AI公司提前向政府提交前沿模型进行安全审查",
-          "source_refs": [0, 1]
+          "claim": "智元发布远征A3 Ultra宣称已量产1.5万台",
+          "source_refs": [
+            0
+          ]
+        },
+        {
+          "claim": "优必选采用全流程无人化模式每天可生产50台人形机器人合格率达99.5%",
+          "source_refs": [
+            0
+          ]
         }
       ],
       "used_as_deep_dive": false
