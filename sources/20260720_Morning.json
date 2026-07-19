@@ -29,23 +29,37 @@
       "key_facts": [
         {
           "claim": "欧盟委员会7月16日依据DMA发布具有约束力的规范措施",
-          "source_refs": [0, 1]
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
           "claim": "Google须开放11个Android功能组给竞争对手AI助手",
-          "source_refs": [0, 2]
+          "source_refs": [
+            0,
+            2
+          ]
         },
         {
           "claim": "搜索数据共享从2027年1月开始，Android互操作性从2027年7月开始",
-          "source_refs": [0, 1]
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
           "claim": "不合规罚款可达全球营收10%",
-          "source_refs": [2]
+          "source_refs": [
+            2
+          ]
         },
         {
           "claim": "Google全球事务总裁Kent Walker称措施危及隐私和安全",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         }
       ],
       "used_as_deep_dive": true
@@ -77,19 +91,31 @@
       "key_facts": [
         {
           "claim": "Fable 5免费访问在太平洋时间7月19日23:59:59终止",
-          "source_refs": [0, 1]
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
           "claim": "7月20日起使用积分计费：输入每百万token 10美元，输出每百万token 50美元",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "免费期已从7月7日延期两次至7月12日再到7月19日",
-          "source_refs": [0, 2]
+          "source_refs": [
+            0,
+            2
+          ]
         },
         {
           "claim": "适用于Pro、Max、Team和高级Enterprise订阅用户，可使用周限额的50%",
-          "source_refs": [0, 1]
+          "source_refs": [
+            0,
+            1
+          ]
         }
       ],
       "used_as_deep_dive": false
@@ -121,23 +147,36 @@
       "key_facts": [
         {
           "claim": "SAP于7月17日完成对Prior Labs的收购",
-          "source_refs": [0]
+          "source_refs": [
+            0
+          ]
         },
         {
           "claim": "SAP承诺四年投资超10亿欧元",
-          "source_refs": [0, 1]
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
           "claim": "Prior Labs是表格基础模型先驱，TabPFN系列发表于Nature",
-          "source_refs": [0, 2]
+          "source_refs": [
+            0,
+            2
+          ]
         },
         {
           "claim": "Prior Labs成立仅18个月，开源模型下载超300万次",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "图灵奖得主Yann LeCun担任科学顾问",
-          "source_refs": [2]
+          "source_refs": [
+            2
+          ]
         }
       ],
       "used_as_deep_dive": false
@@ -169,71 +208,78 @@
       "key_facts": [
         {
           "claim": "Apple于7月10日在加州北区联邦法院提交41页诉状",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "指控OpenAI通过系统性招聘获取超400名前Apple员工的商业秘密",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "被告包括前Apple副总裁Tang Tan（现OpenAI首席硬件官）和高级工程师Chang Liu",
-          "source_refs": [1, 2]
+          "source_refs": [
+            1,
+            2
+          ]
         },
         {
           "claim": "Apple已向约40名前员工发送保全函",
-          "source_refs": [0]
+          "source_refs": [
+            0
+          ]
         },
         {
           "claim": "OpenAI去年以65亿美元收购Jony Ive的io Products",
-          "source_refs": [2]
+          "source_refs": [
+            2
+          ]
         }
       ],
       "used_as_deep_dive": false
     },
     {
       "rank": 5,
-      "title": "世界人工智能大会闭幕，世界人工智能合作组织WAICO正式成立",
+      "title": "Oracle计划裁减约三万个岗位，资金转向五百亿美元Stargate项目",
       "credibility": "A",
       "sources": [
         {
-          "name": "Build Fast with AI",
-          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-20-2026-16-biggest-stories",
+          "name": "Financial Times",
+          "url": "https://www.ft.com",
           "published_at": "2026-07-19",
-          "retrieved_at": "2026-07-20T07:00:00+08:00"
+          "retrieved_at": "2026-07-20T07:15:00+08:00"
         },
         {
-          "name": "SCO Official (eng.sectsco.org)",
-          "url": "https://eng.sectsco.org/20260719/2462053.html",
+          "name": "Reuters",
+          "url": "https://www.reuters.com",
           "published_at": "2026-07-19",
-          "retrieved_at": "2026-07-20T07:00:00+08:00"
-        },
-        {
-          "name": "AP via ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/chinas-xi-calls-step-global-effort-ai-us-134839574",
-          "published_at": "2026-07-17",
-          "retrieved_at": "2026-07-20T07:00:00+08:00"
+          "retrieved_at": "2026-07-20T07:15:00+08:00"
         }
       ],
       "key_facts": [
         {
-          "claim": "WAIC 2026于7月17-20日在上海举行",
-          "source_refs": [1, 2]
+          "claim": "Oracle计划裁减约三万个岗位约占全球员工总数百分之十以上",
+          "source_refs": [
+            0,
+            1
+          ]
         },
         {
-          "claim": "世界人工智能合作组织WAICO成立，29个创始成员国",
-          "source_refs": [0, 1]
+          "claim": "裁员主要原因是需要将大量资金转向与OpenAI合作的Stargate项目",
+          "source_refs": [
+            0
+          ]
         },
         {
-          "claim": "超过1100家企业参展，140多场论坛",
-          "source_refs": [0]
-        },
-        {
-          "claim": "中国今年人形机器人年产量预计超10万台",
-          "source_refs": [1]
-        },
-        {
-          "claim": "习主席首次在世界人工智能大会发表主旨演讲，呼吁AI发展不应由任何单一国家主导",
-          "source_refs": [2]
+          "claim": "Stargate项目价值五千亿美元用于美国本土AI基础设施建设",
+          "source_refs": [
+            0,
+            1
+          ]
         }
       ],
       "used_as_deep_dive": false

@@ -1,6 +1,6 @@
 TITLE: 欧盟撬开Google护城河，AI定价模式正在被重新定义
-DESCRIPTION: 欧盟依据DMA强制Google开放Android和搜索数据给AI竞争对手。Claude Fable 5免费期昨天正式终止，按量计费时代来临。SAP十亿欧元押注表格AI。Apple诉OpenAI商业秘密案升级。WAIC闭幕，WAICO正式成立。
-KEYWORDS: 欧盟,Google,DMA,Android,搜索数据,Claude,Fable 5,Anthropic,SAP,Prior Labs,Apple,OpenAI,WAIC,WAICO,AI定价
+DESCRIPTION: 欧盟依据DMA强制Google开放Android和搜索数据给AI竞争对手。Claude Fable 5免费期昨天正式终止，按量计费时代来临。SAP十亿欧元押注表格AI。Apple诉OpenAI商业秘密案升级。Oracle裁员三万人转向Stargate建设。
+KEYWORDS: 欧盟,Google,DMA,Android,搜索数据,Claude,Fable 5,Anthropic,SAP,Prior Labs,Apple,OpenAI,Oracle,Stargate,裁员,AI基础设施,AI定价
 
 ---
 
@@ -8,7 +8,7 @@ KEYWORDS: 欧盟,Google,DMA,Android,搜索数据,Claude,Fable 5,Anthropic,SAP,Pr
 
 昨天，Claude Fable 5的免费期正式结束了。同一天，欧盟对Google下达了一份可能改变整个AI竞争格局的命令。一个在说，免费时代到此为止。另一个在说，护城河必须打开。这两件事指向同一个趋势：AI行业的规则正在被重新书写。
 
-大家好，欢迎收听虾聊AI，我是小王。今天是2026年7月20日，星期一。今天5条资讯：欧盟强制Google开放Android和搜索数据、Claude Fable 5免费期终止、SAP十亿欧元收购Prior Labs、Apple诉OpenAI案升级、世界人工智能大会闭幕。
+大家好，欢迎收听虾聊AI，我是小王。今天是2026年7月20日，星期一。今天5条资讯：欧盟强制Google开放Android和搜索数据、Claude Fable 5免费期终止、SAP十亿欧元收购Prior Labs、Apple诉OpenAI案升级、Oracle裁员三万人。
 
 【资讯速递】
 
@@ -28,9 +28,9 @@ Anthropic的旗舰模型Claude Fable 5，在经历了从7月7日到7月12日、�
 
 Apple于7月10日在加州北区联邦法院提交了一份41页的诉状，指控OpenAI通过系统性招聘获取了超过四百名前Apple员工的商业秘密。被告包括前Apple设计副总裁Tang Tan，他现在担任OpenAI首席硬件官，以及高级工程师Chang Liu。诉状称OpenAI指导离职员工规避Apple的安全流程，并鼓励他们在面试中携带未发布产品的机密材料。据Financial Times报道，Apple已向约四十名前员工发送了证据保全函。OpenAI去年以六十五亿美元收购了Jony Ive的io Products，这笔交易正在成为AI人才争夺战中最大的法律风险之一。对科技从业者来说，这个案件重新定义了跳槽的边界。
 
-第五条，世界人工智能大会闭幕，世界人工智能合作组织WAICO正式成立。
+第五条，Oracle计划裁减约三万个岗位，资金转向五百亿美元Stargate项目。
 
-为期四天的2026世界人工智能大会昨天在上海闭幕。大会期间，世界人工智能合作组织WAICO正式成立，拥有29个创始成员国，包括巴基斯坦、俄罗斯和哈萨克斯坦。超过1100家企业参展，举办了140多场论坛。中国今年人形机器人年产量预计超过十万台。习主席在大会上表示，AI发展不应由任何单一国家主导，呼吁加强全球合作。Google DeepMind CEO Demis Hassabis同期呼吁建立国际监督机构。一个有趣的事实是，当西方还在讨论是否需要建立AI治理机构时，中国已经把它落地了。
+据Financial Times和Reuters报道，企业软件巨头Oracle正在计划裁减约三万个岗位，约占其全球员工总数的百分之十以上。裁员的主要原因是公司需要将大量资金转向与OpenAI合作的Stargate项目——一个价值五千亿美元的美国本土AI基础设施建设计划。Oracle今年的资本支出预计将大幅增加，用于建设数据中心和采购AI芯片。这反映了当前科技行业的一个普遍趋势：传统业务部门让位于AI投资，人力成本被压缩以释放资本。对于科技从业者来说，这意味着AI不仅在改变产品，也在重塑公司的组织结构和人才需求。
 
 【深度探索】
 
