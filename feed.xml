@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 18 Jul 2026 23:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 23:07:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>欧盟撬开Google护城河，AI定价模式正在被重新定义</title>
+      <description>欧盟依据DMA强制Google开放Android和搜索数据给AI竞争对手。Claude Fable 5免费期昨天正式终止，按量计费时代来临。SAP十亿欧元押注表格AI。Apple诉OpenAI商业秘密案升级。WAIC闭幕，WAICO正式成立。</description>
+      <pubDate>Sun, 19 Jul 2026 23:07:24 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3" length="7043492" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3</guid>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>欧盟,Google,DMA,Android,搜索数据,Claude,Fable 5,Anthropic,SAP,Prior Labs,Apple,OpenAI,WAIC,WAICO,AI定价</itunes:keywords>
+    </item>
     <item>
       <title>芯片股跌入熊市，SpaceX跌破发行价，AI估值遭遇现实检验</title>
       <description>费城半导体指数较历史高点跌超20%正式进入熊市，全球芯片股蒸发3.3万亿美元。SpaceX股价首次跌破135美元IPO发行价。Patreon与Cloudflare联手封禁AI训练爬虫。图灵奖得主萨顿称AI正迈入经验时代。</description>
