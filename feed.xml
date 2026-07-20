@@ -21,15 +21,26 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 19 Jul 2026 23:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:13:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI Agent自主入侵Hugging Face，全球AI监管同时提速</title>
+      <description>Hugging Face遭自主AI Agent端到端入侵，史上首例。欧盟发布AI法案第50条透明度指南，8月2日起执行。白宫AI安全机构负责人辞职。Meta与Anthropic洽谈百亿美元算力租赁。Kimi K3需求暴涨暂停订阅。</description>
+      <pubDate>Mon, 20 Jul 2026 23:12:59 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260721_Morning_AINews.mp3" length="6908073" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260721_Morning_AINews.mp3</guid>
+      <itunes:duration>07:11</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Hugging Face,AI安全,AI Agent入侵,欧盟,AI法案,透明度,白宫,CAISI,Meta,Anthropic,算力租赁,Kimi K3,月之暗面,AI监管,网络安全</itunes:keywords>
+    </item>
     <item>
       <title>欧盟撬开Google护城河，AI定价模式正在被重新定义</title>
       <description>欧盟依据DMA强制Google开放Android和搜索数据给AI竞争对手。Claude Fable 5免费期昨天正式终止，按量计费时代来临。SAP十亿欧元押注表格AI。Apple诉OpenAI商业秘密案升级。Oracle裁员三万人转向Stargate建设。</description>
-      <pubDate>Sun, 19 Jul 2026 23:19:56 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3" length="9142901" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3" length="9360239" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3</guid>
-      <itunes:duration>09:31</itunes:duration>
+      <itunes:duration>09:45</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:keywords>欧盟,Google,DMA,Android,搜索数据,Claude,Fable 5,Anthropic,SAP,Prior Labs,Apple,OpenAI,Oracle,Stargate,裁员,AI基础设施,AI定价</itunes:keywords>
@@ -37,7 +48,7 @@
     <item>
       <title>芯片股跌入熊市，SpaceX跌破发行价，AI估值遭遇现实检验</title>
       <description>费城半导体指数较历史高点跌超20%正式进入熊市，全球芯片股蒸发3.3万亿美元。SpaceX股价首次跌破135美元IPO发行价。Patreon与Cloudflare联手封禁AI训练爬虫。图灵奖得主萨顿称AI正迈入经验时代。</description>
-      <pubDate>Sat, 18 Jul 2026 23:23:46 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260719_Morning_AINews.mp3" length="8845732" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260719_Morning_AINews.mp3</guid>
       <itunes:duration>09:12</itunes:duration>
@@ -48,7 +59,7 @@
     <item>
       <title>最大开源模型遇上最强算力节点，AI基础设施全面提速</title>
       <description>Moonshot发布2.8万亿参数Kimi K3，前端代码评测超越Claude Fable 5。华为Atlas 950超节点真机首秀，万卡级集群算力刷新纪录。Databricks估值飙升至1880亿美元。国产超节点集中亮相，AI算力从堆芯片迈向提效率。</description>
-      <pubDate>Sat, 18 Jul 2026 03:08:01 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3" length="6193781" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260718_Morning_AINews.mp3</guid>
       <itunes:duration>06:27</itunes:duration>
@@ -59,7 +70,7 @@
     <item>
       <title>AI公司扎堆上市，Google旗舰模型为何三度跳票</title>
       <description>Anthropic估值逼近万亿美元冲刺IPO，Google Gemini 3.5 Pro因架构缺陷第三次延期，微软CEO警告企业被AI模型提供商收割两次。本期从技术视角拆解AI行业进入现实检验期的三个信号。</description>
-      <pubDate>Fri, 17 Jul 2026 01:21:40 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260717_Morning_AINews.mp3" length="4921513" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260717_Morning_AINews.mp3</guid>
       <itunes:duration>05:07</itunes:duration>
@@ -69,7 +80,7 @@
     <item>
       <title>芯片产能加速数据中心停摆，AI基础设施遭遇物理与政治双重天花板</title>
       <description>中国批准Apple Intelligence等7款端侧AI服务。ASML光刻机生产提速三成仍供不应求。纽约签署全美首个数据中心暂停令。Nvidia H200开始向中国限量发货。Grok 4.5编程模型发布。</description>
-      <pubDate>Wed, 15 Jul 2026 23:11:07 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260716_Morning_AINews.mp3" length="7304716" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260716_Morning_AINews.mp3</guid>
       <itunes:duration>07:36</itunes:duration>
@@ -80,7 +91,7 @@
     <item>
       <title>台积电创纪录营收背后：AI的真正瓶颈不是模型，是算力</title>
       <description>台积电Q2营收396亿美元创历史新高，AI芯片需求打破季节性规律。OpenAI向美国政府提议出让426亿美元股权。Google算力不足限制Meta使用Gemini。16位诺贝尔奖得主警告AI变革速度超工业革命。Anthropic与三星洽谈定制芯片。</description>
-      <pubDate>Tue, 14 Jul 2026 23:06:27 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260715_Morning_AINews.mp3" length="7184344" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260715_Morning_AINews.mp3</guid>
       <itunes:duration>07:29</itunes:duration>
@@ -91,571 +102,13 @@
     <item>
       <title>AI智能体落地元年来了，从语音革命到万亿产业</title>
       <description>2026世界人工智能大会本周上海开幕，展览面积首破10万平方米。OpenAI发布GPT-Live全双工语音模型，Anthropic秘密提交IPO估值9650亿美元。中国AI产业破万亿，WAIC将成智能体落地元年验证场。</description>
-      <pubDate>Mon, 13 Jul 2026 23:11:53 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260714_Morning_AINews.mp3" length="5796719" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260714_Morning_AINews.mp3</guid>
       <itunes:duration>06:02</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:keywords>WAIC,世界人工智能大会,OpenAI,GPT-Live,Anthropic,IPO,智能体,Agent,阶跃星辰,AI语音,中国AI产业,人形机器人</itunes:keywords>
-    </item>
-    <item>
-      <title>AI从比拼模型转向比拼落地，搜索央行芯片全线变局</title>
-      <description>Google搜索全面切换AI生成结果，美联储让风投家指导AI政策，OpenAI冲刺7300亿美元IPO，Meta自研芯片9月投产，SambaNova拿下10亿美元。AI竞争的主战场正在从模型转向部署。</description>
-      <pubDate>Sun, 12 Jul 2026 23:08:01 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260713_Morning_AINews.mp3" length="6419061" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260713_Morning_AINews.mp3</guid>
-      <itunes:duration>06:41</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Google搜索,Gemini 3.5 Flash,美联储,Marc Andreessen,OpenAI,IPO,Meta,Iris芯片,SambaNova,AI部署,推理芯片</itunes:keywords>
-    </item>
-    <item>
-      <title>苹果起诉OpenAI窃取商业机密，AI硬件竞赛升级</title>
-      <description>今日播客内容</description>
-      <pubDate>Sat, 11 Jul 2026 23:09:59 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260712_Morning_AINews.mp3" length="7271279" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260712_Morning_AINews.mp3</guid>
-      <itunes:duration>07:34</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>AI,科技,播客</itunes:keywords>
-    </item>
-    <item>
-      <title>GPT-5.6全面开放背后：AI能力狂飙与安全承诺集体后退</title>
-      <description>OpenAI GPT-5.6全系列正式公开发布，此前因网络安全能力过强被政府限制。Meta发布Muse Image引发隐私争议。美光追加投资至2500亿美元。AI安全指数显示头部公司集体弱化安全承诺。</description>
-      <pubDate>Fri, 10 Jul 2026 23:09:40 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260711_Morning_AINews.mp3" length="6613412" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260711_Morning_AINews.mp3</guid>
-      <itunes:duration>06:53</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>GPT-5.6,OpenAI,Meta,Muse Image,美光,Micron,AI安全,FLI,GPT-Live,语音AI,半导体,AI治理</itunes:keywords>
-    </item>
-    <item>
-      <title>中国限量放开英伟达芯片，微软启动Xbox史上最大重组</title>
-      <description>本期要点：据报中国计划允许顶级AI公司限量购买英伟达H200芯片，用于训练而非推理；微软裁员4800人，Xbox裁减20%员工并出售4个工作室；法国Mistral发布首个机器人模型Robostral Navigate，80亿参数，单摄像头导航；伊利诺伊州签署全美首个要求AI模型第三方审计的安全法案；Anthropic将Claude Cowork扩展到移动端和Web，使用数据显示多数用户不在编程。</description>
-      <pubDate>Thu, 09 Jul 2026 23:05:37 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260710_Morning_AINews.mp3" length="8827759" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260710_Morning_AINews.mp3</guid>
-      <itunes:duration>09:11</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>英伟达,H200,芯片,微软,Xbox,裁员,Mistral,机器人,物理AI,伊利诺伊州,AI安全,Claude Cowork,Anthropic</itunes:keywords>
-    </item>
-    <item>
-      <title>GPT-5.6全面开放，中国拟限制AI模型海外访问</title>
-      <description>本期要点：OpenAI正式公开发布GPT-5.6三个版本Sol、Terra、Luna；全球半导体股本周暴跌蒸发1.3万亿美元；中国商务部与阿里字节智谱讨论限制AI模型海外访问；OpenAI发布新一代语音模型GPT-Live实现全双工自然对话；苹果与博通达成超300亿美元芯片合作协议</description>
-      <pubDate>Wed, 08 Jul 2026 23:05:45 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260709_Morning_AINews.mp3" length="9544559" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260709_Morning_AINews.mp3</guid>
-      <itunes:duration>09:56</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>OpenAI,GPT-5.6,半导体,芯片,中国AI,地缘政治,GPT-Live,语音模型,苹果,博通,AI模型,出口管制</itunes:keywords>
-    </item>
-    <item>
-      <title>SpaceXAI与Cursor联合模型亮相，中国AI公司集体自研芯片</title>
-      <description>本期要点：SpaceXAI与Cursor计划发布首个联合AI模型对标Opus 4.8和GPT 5.5；DeepSeek自研AI推理芯片减少对外依赖；欧盟发布AI网络安全行动计划拟建立模型上市前评估；三星Q2利润暴增19倍至584亿美元但股价反跌7%；亚马逊发行250亿美元债券全力押注AI基建</description>
-      <pubDate>Wed, 08 Jul 2026 11:35:08 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260708_Morning_AINews.mp3" length="8564445" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260708_Morning_AINews.mp3</guid>
-      <itunes:duration>08:55</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>SpaceXAI, Cursor, DeepSeek, 自研芯片, 欧盟, AI网络安全, 三星, 亚马逊, AI基建, AI编程, 出口管制</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:30" title="第一条：SpaceXAI与Cursor联合模型即将发布"/>
-        <podcast:chapter start="00:02:00" title="第二条：DeepSeek自研AI推理芯片"/>
-        <podcast:chapter start="00:03:20" title="第三条：欧盟AI网络安全行动计划"/>
-        <podcast:chapter start="00:04:30" title="第四条：三星创纪录利润遭股价抛售"/>
-        <podcast:chapter start="00:05:40" title="第五条：亚马逊250亿美元债券押注AI"/>
-        <podcast:chapter start="00:06:40" title="深度探索：AI编程进入巨头整合时代"/>
-        <podcast:chapter start="00:08:30" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>AI价格战全面打响，上半年全球投资破5100亿美元</title>
-      <description>本期要点：Crunchbase数据显示2026上半年全球AI投资破纪录达5100亿美元；SK海力士计划赴美上市募资280亿美元；Anthropic与Google和Broadcom达成多吉瓦级TPU算力合作；OpenAI与Anthropic酝酿AI模型大幅降价引发价格战；2026世界人工智能大会定档7月17至20日上海举办。</description>
-      <pubDate>Mon, 06 Jul 2026 23:05:48 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260707_Morning_AINews.mp3" length="7517039" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260707_Morning_AINews.mp3</guid>
-      <itunes:duration>07:49</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>AI投资,价格战,OpenAI,Anthropic,SK海力士,TPU算力,Google,Broadcom,WAIC,世界人工智能大会,token定价,Crunchbase,企业客户,商品化</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:22" title="第一条：全球AI投资上半年破5100亿美元"/>
-        <podcast:chapter start="00:01:40" title="第二条：SK海力士计划赴美上市募资280亿美元"/>
-        <podcast:chapter start="00:02:50" title="第三条：Anthropic与Google和Broadcom达成多吉瓦级算力合作"/>
-        <podcast:chapter start="00:03:55" title="第四条：OpenAI与Anthropic酝酿AI价格战"/>
-        <podcast:chapter start="00:05:10" title="第五条：世界人工智能大会定档上海"/>
-        <podcast:chapter start="00:06:00" title="深度探索：AI价格战与模型商品化"/>
-        <podcast:chapter start="00:07:40" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>全球AI治理对话会召开，国内AI平台迎来合规地震</title>
-      <description>本期要点：联合国全球AI治理对话会在日内瓦召开讨论AI安全框架；国内AI平台智能体功能因新规7月15日集体下线涉及豆包千问；阿里内部禁用Claude Code因后门安全风险推荐Qoder替代；蚂蚁集团AI版支付宝阿宝全面公测首推72项智能办事技能；可灵AI完成30亿美元融资估值180亿美元创视频大模型融资纪录。</description>
-      <pubDate>Mon, 06 Jul 2026 00:41:15 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260706_Morning_AINews.mp3" length="6498473" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260706_Morning_AINews.mp3</guid>
-      <itunes:duration>06:46</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>联合国,AI治理,智能体,豆包,千问,Claude Code,阿里,蚂蚁集团,阿宝,支付宝,可灵AI,快手,融资,合规</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:22" title="第一条：联合国全球AI治理对话会召开"/>
-        <podcast:chapter start="00:01:45" title="第二条：国内AI平台智能体功能集体下线"/>
-        <podcast:chapter start="00:03:00" title="第三条：阿里内部禁用Claude Code"/>
-        <podcast:chapter start="00:04:15" title="第四条：蚂蚁阿宝全面公测"/>
-        <podcast:chapter start="00:05:30" title="第五条：可灵AI完成30亿美元融资"/>
-        <podcast:chapter start="00:06:45" title="深度探索：AI竞争进入工程化时代"/>
-        <podcast:chapter start="00:08:30" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>Anthropic告别订阅制，AI模型进入按用量计费时代</title>
-      <description>本期要点：Anthropic Claude Fable 5从7月7日起告别订阅制改为按用量计费；微软AI操作系统Project Aion曝光完全移除传统开始菜单；阿里达摩院推出全球首个超导材料发现AI智能体Elements Claw；字节跳动豆包AI手机项目核心人员离职；AI自动化已攻克16.1%远程工作项目自由职业者面临冲击。</description>
-      <pubDate>Sat, 04 Jul 2026 23:07:35 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260705_Morning_AINews.mp3" length="8462045" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260705_Morning_AINews.mp3</guid>
-      <itunes:duration>08:48</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Anthropic,Fable5,按用量计费,微软,Project Aion,AI操作系统,阿里达摩院,Elements Claw,超导材料,字节跳动,豆包AI手机,AI自动化,远程工作</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:30" title="第一条：Anthropic Fable 5告别订阅制"/>
-        <podcast:chapter start="00:01:40" title="第二条：微软Project Aion曝光"/>
-        <podcast:chapter start="00:02:50" title="第三条：阿里达摩院超导材料AI智能体"/>
-        <podcast:chapter start="00:04:00" title="第四条：字节跳动豆包AI手机生变"/>
-        <podcast:chapter start="00:05:00" title="第五条：AI自动化远程工作项目"/>
-        <podcast:chapter start="00:05:50" title="深度探索：AI模型告别自助餐时代"/>
-        <podcast:chapter start="00:08:30" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>Anthropic封堵中国公司访问Claude，AI地理围墙从政策变为现实</title>
-      <description>本期要点：Anthropic加大力度封堵中国公司绕道访问Claude涉及蚂蚁集团；NVIDIA推出AI云收入分成新模式与新兴厂商合作部署数万GPU；Menlo Ventures融资30亿美元创纪录押注Anthropic；高通发布五年计划挑战NVIDIA数据中心芯片霸主地位；白宫推进自愿性AI模型标准八月一日前公布框架。</description>
-      <pubDate>Fri, 03 Jul 2026 23:04:59 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260704_Morning_AINews.mp3" length="7043492" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260704_Morning_AINews.mp3</guid>
-      <itunes:duration>07:20</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Anthropic,Claude,NVIDIA,AI芯片,高通,Menlo Ventures,白宫,AI监管,地缘政治,收入分成,AI合规</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:30" title="第一条：Anthropic封堵中国公司绕道访问Claude"/>
-        <podcast:chapter start="00:01:45" title="第二条：NVIDIA推出AI云收入分成新模式"/>
-        <podcast:chapter start="00:02:50" title="第三条：Menlo Ventures融资30亿美元创纪录"/>
-        <podcast:chapter start="00:03:50" title="第四条：高通五年计划挑战NVIDIA"/>
-        <podcast:chapter start="00:04:50" title="第五条：白宫推进自愿性AI模型标准"/>
-        <podcast:chapter start="00:05:50" title="深度探索：AI模型访问控制成为地缘政治新战场"/>
-        <podcast:chapter start="00:07:00" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>OpenAI提议政府持股，AI公司用股权换安全</title>
-      <description>本期要点：OpenAI提议向美国政府出让5%股权价值426亿美元；微软成立Frontier Company投入25亿美元6000人推动AI落地；Anthropic启动自研AI芯片与三星洽谈2纳米制程；Meta计划出售富余AI算力进军云市场；特斯拉限制员工AI支出每周最高200美元。</description>
-      <pubDate>Thu, 02 Jul 2026 23:28:40 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260703_Morning_AINews.mp3" length="7069405" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260703_Morning_AINews.mp3</guid>
-      <itunes:duration>07:21</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>OpenAI, 美国政府, 股权, 微软, Frontier Company, Anthropic, 自研芯片, 三星, Meta, 云计算, 特斯拉, AI成本</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:20" title="第一条：OpenAI提议向美国政府出让5%股权"/>
-        <podcast:chapter start="00:01:40" title="第二条：微软成立Frontier Company"/>
-        <podcast:chapter start="00:02:50" title="第三条：Anthropic启动自研AI芯片"/>
-        <podcast:chapter start="00:04:00" title="第四条：Meta出售富余AI算力"/>
-        <podcast:chapter start="00:05:10" title="第五条：特斯拉限制员工AI支出"/>
-        <podcast:chapter start="00:06:10" title="深度探索：OpenAI提议政府持股"/>
-        <podcast:chapter start="00:08:30" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>Anthropic模型完全恢复，Google AI智能体登陆Mac桌面</title>
-      <description>本期要点：Anthropic Fable 5和Mythos 5出口管制完全解除，下线三周后全面恢复；Google Gemini Spark登陆macOS，AI智能体进入桌面系统；微软发现MCP工具描述投毒可劫持AI智能体；美团开源1.6万亿参数LongCat 2.0纯国产芯片训练；联合国发布首份全球AI独立科学评估报告</description>
-      <pubDate>Wed, 01 Jul 2026 23:04:26 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260702_Morning_AINews.mp3" length="9590953" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260702_Morning_AINews.mp3</guid>
-      <itunes:duration>09:59</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Anthropic, Fable 5, Mythos 5, Google, Gemini Spark, macOS, MCP, AI安全, 美团, LongCat, 联合国, AI评估, 智能体, 国产芯片</itunes:keywords>
-    </item>
-    <item>
-      <title>Sonnet 5平价上线，智能体能力不再是高端专属</title>
-      <description>本期要点：Anthropic发布Claude Sonnet 5性能接近Opus但价格更低；Google Gemini 3.5 Pro获批七月上线；加州与Anthropic签署五折协议；Meta限制工程师使用竞品AI工具防止蒸馏；Fable 5即将恢复访问。</description>
-      <pubDate>Tue, 30 Jun 2026 23:04:44 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260701_Morning_AINews.mp3" length="7092393" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260701_Morning_AINews.mp3</guid>
-      <itunes:duration>07:23</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Anthropic,Claude Sonnet 5,Google,Gemini 3.5 Pro,加州,Meta,蒸馏,Fable 5,智能体,AI编程,AI安全</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:25" title="第一条：Anthropic发布Claude Sonnet 5"/>
-        <podcast:chapter start="00:01:40" title="第二条：Google Gemini 3.5 Pro获批七月上线"/>
-        <podcast:chapter start="00:02:55" title="第三条：加州与Anthropic签署五折协议"/>
-        <podcast:chapter start="00:04:10" title="第四条：Meta限制工程师使用竞品AI工具"/>
-        <podcast:chapter start="00:05:25" title="第五条：Fable 5即将恢复访问"/>
-        <podcast:chapter start="00:06:40" title="深度探索：智能体能力平价化"/>
-        <podcast:chapter start="00:09:20" title="总结收尾"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>GitHub账单暴涨50倍！AI编程自助餐时代终结，Alphabet 847亿融资创纪录</title>
-      <description>本期要点：GitHub Copilot按量计费引发开发者账单暴涨10-50倍，AI固定月费时代终结；Alphabet完成847.5亿美元史上最大科技股权融资，巴菲特砸100亿押注；Google五个月失去六位核心AI研究者；苹果被AI网络攻击逼得提前发安全补丁；欧盟正式批准AI法案简化方案；Scaled Cognition获1亿美元融资要消灭AI幻觉；BMW投3亿美元建AI基金</description>
-      <pubDate>Mon, 29 Jun 2026 23:03:55 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260630_Morning_AINews.mp3" length="6098904" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260630_Morning_AINews.mp3</guid>
-      <itunes:duration>06:21</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>GitHub Copilot, Alphabet融资, 巴菲特, AI编程, Google人才流失, 苹果安全, 欧盟AI法案, AI幻觉</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:04:30" title="深度探索：GitHub Copilot按量计费与AI行业分水岭"/>
-        <podcast:chapter start="00:06:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>Google限供！Meta算力被卡脖子，AI芯片虹吸效应席卷全球</title>
-      <description>本期要点：Google限制Meta使用Gemini算力，Meta内部项目被延迟；生成式AI经济年销售额突破1100亿美元；微软Xbox因AI芯片荒三年内第三次涨价；Anthropic Mythos 5获准向100+美国机构开放；OpenAI与韩国签署AI安全评估协议；华尔街日报揭示芯片商以牺牲其他行业为代价获利</description>
-      <pubDate>Mon, 29 Jun 2026 01:17:24 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260629_Morning_AINews.mp3" length="9780288" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260629_Morning_AINews.mp3</guid>
-      <itunes:duration>10:11</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Google, Meta, Gemini, AI算力, 生成式AI, Xbox涨价, Anthropic, Mythos</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:28" title="资讯速递"/>
-        <podcast:chapter start="00:04:50" title="深度探索：AI算力从商品变稀缺资源"/>
-        <podcast:chapter start="00:08:50" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>石破天惊！中国超算时隔九年重夺全球第一，纯CPU方案打破GPU霸权</title>
-      <description>本期要点：中国LineShine超算2.198 exaflops登顶TOP500，纯CPU方案颠覆GPU至上共识；Fox 220亿美元收购Roku改写流媒体版图；RAISE US获5亿美元资助助AI时代工人转型；英伟达Rubin世代100%液冷零水消耗方案发布；中国科技IPO创2023年以来最强浪潮</description>
-      <pubDate>Sat, 27 Jun 2026 23:04:13 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260628_Morning_AINews.mp3" length="8136455" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260628_Morning_AINews.mp3</guid>
-      <itunes:duration>08:28</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>中国超算, LineShine, TOP500, Fox收购Roku, RAISE US, 英伟达液冷, 中国科技IPO, 机器人投资</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:25" title="资讯速递"/>
-        <podcast:chapter start="00:05:30" title="深度探索：中国超算LineShine登顶的战略意义"/>
-        <podcast:chapter start="00:07:50" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>王炸三连！GPT-5.6被政府看管，IPO万亿估值梦碎，苹果全线涨价</title>
-      <description>本期要点：OpenAI发布GPT-5.6三款模型但仅向20家政府审批合作伙伴开放；OpenAI考虑推迟IPO至2027年坚持万亿美元估值；苹果全线涨价MacBook Pro涨至2999美元因DRAM暴涨98%；中国开源模型GLM-5.2编程超越GPT-5.5可在单台Mac运行；加州多项AI法案加速推进；全球科技股集体下跌</description>
-      <pubDate>Fri, 26 Jun 2026 23:04:06 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260627_Morning_AINews.mp3" length="7040984" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260627_Morning_AINews.mp3</guid>
-      <itunes:duration>07:20</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>GPT-5.6, OpenAI IPO, 苹果涨价, GLM-5.2, 开源模型, AI政府审批, RAMageddon, 科技股</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:04:30" title="深度探索：GPT-5.6的政府审批发布"/>
-        <podcast:chapter start="00:06:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>硬核扎堆！OpenAI造芯片，美光营收暴涨346%</title>
-      <description>本期要点：OpenAI联合Broadcom发布首颗自研推理芯片Jalapeño；SK海力士计划融资294亿美元纳斯达克上市；美光Q3营收414.6亿美元同比暴涨346%；Anthropic推出Claude Tag入驻Slack；Qualcomm 39亿美元收购Modular；Grammarly旗下Superhuman收购AI检测平台GPTZero</description>
-      <pubDate>Thu, 25 Jun 2026 23:04:55 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260626_Morning_AINews.mp3" length="11228935" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260626_Morning_AINews.mp3</guid>
-      <itunes:duration>11:41</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>OpenAI芯片, Jalapeño, SK海力士IPO, 美光财报, Claude Tag, Qualcomm收购, GPTZero, AI硬件</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:25" title="资讯速递"/>
-        <podcast:chapter start="00:04:40" title="深度探索：AI硬件军备竞赛"/>
-        <podcast:chapter start="00:07:00" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>Google被掏空了！六天四位核心AI研究员集体出逃，Anthropic疯狂挖人</title>
-      <description>本期要点：Google六天内失去四位高级AI研究员，三位去Anthropic一位去OpenAI；OpenAI发布GPT-5.5-Cyber网安专用模型，CyberGym得分创历史纪录；特朗普施压Meta提交AI模型审查，成为唯一拒绝配合的开发商；SpaceX与Reflection AI签下63亿美元算力合约；OpenAI收购Ona补齐Codex短板；Gemini 3.5 Pro六月发布承诺即将落空</description>
-      <pubDate>Wed, 24 Jun 2026 23:04:16 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260625_Morning_AINews.mp3" length="7286744" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260625_Morning_AINews.mp3</guid>
-      <itunes:duration>07:35</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Google AI人才流失, Anthropic, OpenAI, GPT-5.5-Cyber, Meta AI审查, SpaceX算力, Gemini 3.5 Pro, Patch the Planet</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:04:45" title="深度探索：Google AI人才大逃亡"/>
-        <podcast:chapter start="00:06:45" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>破防了！韩国股市暴跌10%触发熔断，AI泡沫第一块多米诺骨牌倒了？</title>
-      <description>本期要点：韩国KOSPI暴跌10%触发熔断，三星SK海力士双双崩盘；Meta推出自有品牌AI眼镜299美元起，首次脱离Ray-Ban独立出击；Oracle承认AI裁员21000人，遣散费18.4亿美元；2026年科技行业AI裁员超12万人；WEF十大新兴技术报告指出技术重心转向物理系统；Amazon撤掉4000万美元Sam Altman传记电影</description>
-      <pubDate>Tue, 23 Jun 2026 23:03:55 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260624_Morning_AINews.mp3" length="6856664" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260624_Morning_AINews.mp3</guid>
-      <itunes:duration>07:08</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>韩国股市崩盘, Meta AI眼镜, Oracle裁员, AI泡沫, KOSPI熔断, SK海力士, AI裁员潮, 新兴技术</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:25" title="资讯速递"/>
-        <podcast:chapter start="00:04:10" title="深度探索：韩国股市暴跌与AI泡沫之争"/>
-        <podcast:chapter start="00:06:10" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>五眼联盟罕见发警告！AI颠覆网络安全倒计时以月计，4300万美元砸进中期选举</title>
-      <description>本期要点：五眼联盟发史上最强AI安全警告；OpenAI和Anthropic豪掷4300万美元介入美国中期选举；特朗普签量子计算行政令；Fable 5免费窗口关闭正式收费；三星全面部署ChatGPT Enterprise；英国AI律所全球首胜；数据中心反对运动升级</description>
-      <pubDate>Mon, 22 Jun 2026 23:04:15 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260623_Morning_AINews.mp3" length="8041996" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260623_Morning_AINews.mp3</guid>
-      <itunes:duration>08:22</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>五眼联盟, AI安全, 中期选举, 量子计算, Fable 5, Garfield AI, 数据中心, 三星</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:05:30" title="深度探索：五眼联盟AI安全警告深度解读"/>
-        <podcast:chapter start="00:07:45" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>特朗普改口！Fable 5回归在即，诺奖得主投奔Anthropic</title>
-      <description>本期要点：特朗普改口称Anthropic不构成安全威胁，Fable 5回归在即；诺奖得主Jumper和Karpathy齐聚Anthropic，AI人才战升至顶峰；OpenRouter三个便宜模型组合碾压单个旗舰；欧盟发布技术主权方案；国内金融监管出台AI安全治理指导意见</description>
-      <pubDate>Sun, 21 Jun 2026 23:03:03 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260622_Morning_AINews.mp3" length="6684883" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260622_Morning_AINews.mp3</guid>
-      <itunes:duration>06:57</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>特朗普,Anthropic,Fable 5,OpenRouter,AI人才,欧盟技术主权,摩尔线程,AI治理</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:05:00" title="深度探索：Fable 5的命运与AI治理博弈"/>
-        <podcast:chapter start="00:06:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>暗度陈仓！GPT-5.6偷偷上线，Agentjacking席卷全球</title>
-      <description>本期要点：GPT-5.6疑似在ChatGPT Pro悄悄上线，开发者实测速度翻倍；Agentjacking新型AI安全攻击席卷2388家企业，成功率高达85%；Anthropic签下超1吉瓦数据中心租约，同步推进万亿级IPO；《经济学人》封面定性美国AI管控为地缘政治行为；AI编程工具采用率97%但治理框架严重滞后</description>
-      <pubDate>Sat, 20 Jun 2026 23:04:30 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260621_Morning_AINews.mp3" length="10724876" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260621_Morning_AINews.mp3</guid>
-      <itunes:duration>11:10</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>GPT-5.6,Agentjacking,Anthropic,AI安全,AI编程,经济学人,数据中心,IPO</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:05:30" title="深度探索：Agentjacking安全威胁"/>
-        <podcast:chapter start="00:07:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>马斯克要把数据中心送上太空！SpaceX轨道AI卫星正式公布，Google AI灵魂人物跳槽OpenAI</title>
-      <description>本期要点：SpaceX公布AI1轨道数据中心卫星设计，目标百万颗卫星组成太空算力星座；Transformer论文联合作者Noam Shazeer从Google跳槽到OpenAI；Pew调查显示半数美国人使用AI但仅16%看好AI前景；OpenAI发布部署模拟安全方法；SoftBank与OpenAI联手推出AI网络安全服务；Odyssey融资3.1亿美元打造世界模型</description>
-      <pubDate>Fri, 19 Jun 2026 23:04:21 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260620_Morning_AINews.mp3" length="9012079" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260620_Morning_AINews.mp3</guid>
-      <itunes:duration>09:23</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>SpaceX,AI1,轨道数据中心,Noam Shazeer,OpenAI,Pew调查,AI信任危机,部署模拟,世界模型,SoftBank</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:05:40" title="深度探索：AI太空竞赛"/>
-        <podcast:chapter start="00:08:50" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>桑德斯突袭！AI公司一半股份归全民，每年发1000美元AI红利</title>
-      <description>本期要点：桑德斯提出AI主权财富基金法案，要求公众持有AI公司50%股份；马斯克预测中国AI明年一季度追上Fable级别；印度Sarvam AI成为新独角兽，主权AI赛道升温；ChatGPT接入银行账户引发隐私争议；日本银行业警告或因AI威胁暂停ATM服务；Snapchat发布全套AI广告工具；Cloudflare数据显示机器人流量首超人类</description>
-      <pubDate>Thu, 18 Jun 2026 23:04:13 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260619_Morning_AINews.mp3" length="8963596" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260619_Morning_AINews.mp3</guid>
-      <itunes:duration>09:20</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>桑德斯, AI主权财富基金, 马斯克, 智谱, Sarvam AI, ChatGPT银行账户, 日本银行AI安全, Snapchat AI广告, Cloudflare机器人流量</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:28" title="资讯速递"/>
-        <podcast:chapter start="00:05:30" title="深度探索：桑德斯AI主权财富基金法案"/>
-        <podcast:chapter start="00:08:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>变天了！G7峰会AI巨头定规则，OpenAI巨亏390亿曝光</title>
-      <description>本期要点：G7峰会Altman、Hassabis、Amodei与特朗普讨论全球AI标准协调；OpenAI 2025年巨亏390亿美元，IPO成续命关键；SpaceX上市一周后首跌6%；智谱GLM-5.2开源登顶全球评测；ChatGPT全球份额跌破50%；支付宝推出AI助手阿宝</description>
-      <pubDate>Thu, 18 Jun 2026 13:53:02 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_final.mp3" length="8500915" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_final.mp3</guid>
-      <itunes:duration>08:51</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>G7峰会,AI标准,OpenAI亏损,SpaceX,智谱GLM-5.2,ChatGPT,支付宝AI,硅基流动</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:04:30" title="深度探索：G7峰会与全球AI标准"/>
-        <podcast:chapter start="00:06:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>变天了！G7峰会AI巨头定规则，OpenAI巨亏390亿曝光</title>
-      <description>本期要点：G7峰会Altman、Hassabis、Amodei与特朗普讨论全球AI标准协调；OpenAI 2025年巨亏390亿美元，IPO成续命关键；SpaceX上市一周后首跌6%；智谱GLM-5.2开源登顶全球评测；ChatGPT全球份额跌破50%；支付宝推出AI助手阿宝</description>
-      <pubDate>Wed, 17 Jun 2026 23:33:45 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_AINews.mp3" length="7914518" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260618_Morning_AINews.mp3</guid>
-      <itunes:duration>08:14</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>G7峰会,AI标准,OpenAI亏损,SpaceX,智谱GLM-5.2,ChatGPT,支付宝AI,硅基流动</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场预告"/>
-        <podcast:chapter start="00:00:30" title="资讯速递"/>
-        <podcast:chapter start="00:04:30" title="深度探索：G7峰会与全球AI标准"/>
-        <podcast:chapter start="00:06:30" title="结尾总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>王炸！DeepSeek 500亿融资落地，SpaceX三天超亚马逊</title>
-      <description>本期要点：DeepSeek完成500亿创纪录融资，梁文锋独特架构掌控控制权；SpaceX上市三天超越亚马逊市值，收购Cursor布局AI编程；日经指数在AI半导体推动下首破7万点；NVIDIA和AMD在MLPerf上同时刷新纪录；国内算力网进入万亿投资周期</description>
-      <pubDate>Tue, 16 Jun 2026 23:36:16 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260617_Morning_AINews.mp3" length="10342619" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260617_Morning_AINews.mp3</guid>
-      <itunes:duration>10:46</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>DeepSeek, 融资, SpaceX, Cursor, 日经指数, NVIDIA, AMD, MLPerf, 算力网, AI安全</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:30" title="第一条：DeepSeek完成500亿融资"/>
-        <podcast:chapter start="00:02:00" title="第二条：SpaceX超越亚马逊市值"/>
-        <podcast:chapter start="00:03:00" title="第三条：日经指数首破7万点"/>
-        <podcast:chapter start="00:03:40" title="第四条：NVIDIA和AMD刷新MLPerf纪录"/>
-        <podcast:chapter start="00:04:20" title="第五条：算力网万亿投资与AI+通信政策"/>
-        <podcast:chapter start="00:05:00" title="第六条：OpenAI薪酬44亿超营收"/>
-        <podcast:chapter start="00:05:40" title="第七条：智能体安全治理研讨会"/>
-        <podcast:chapter start="00:06:10" title="第八条：医疗AI切实创造价值"/>
-        <podcast:chapter start="00:06:40" title="深度分析：DeepSeek融资范式"/>
-        <podcast:chapter start="00:07:40" title="总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>引爆AI圈！Fable 5上线3天遭政府封杀，SpaceX史上最大IPO马斯克成万亿富翁</title>
-      <description>本期要点：Anthropic Fable 5因越狱漏洞被美国政府强制下线，上线仅3天全球断供；SpaceX创史上最大IPO融资750亿美元，马斯克成全球首位万亿富翁；谷歌Gemini 3.5 Flash全面铺开，搜索AI月活破10亿；DiffusionGemma开源本地推理提速4倍；小米MiMo Code、快手Keye-VL-2.0密集开源；斯坦福报告AI Agent成功率飙升至66%</description>
-      <pubDate>Mon, 15 Jun 2026 23:33:08 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260616_Morning_AINews.mp3" length="8233205" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260616_Morning_AINews.mp3</guid>
-      <itunes:duration>08:34</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:keywords>Anthropic, Fable5, SpaceX IPO, 马斯克, Gemini 3.5, DiffusionGemma, AI安全, 智能体</itunes:keywords>
-      <podcast:chapters xmlns:podcast="https://podcastindex.org/namespace/1.0">
-        <podcast:chapter start="00:00:00" title="开场白"/>
-        <podcast:chapter start="00:00:30" title="第一条：Anthropic Fable 5被美国政府封杀"/>
-        <podcast:chapter start="00:02:00" title="第二条：SpaceX史上最大IPO马斯克成万亿富翁"/>
-        <podcast:chapter start="00:03:20" title="第三条：谷歌Gemini 3.5 Flash全面铺开"/>
-        <podcast:chapter start="00:04:20" title="第四条：DiffusionGemma开源本地推理提速4倍"/>
-        <podcast:chapter start="00:05:10" title="第五条：小米MiMo Code开源"/>
-        <podcast:chapter start="00:05:40" title="第六条：快手Keye-VL-2.0多模态大模型"/>
-        <podcast:chapter start="00:06:20" title="第七条：斯坦福2026 AI指数报告"/>
-        <podcast:chapter start="00:06:50" title="深度分析：Fable 5封杀的三个先例"/>
-        <podcast:chapter start="00:08:30" title="总结"/>
-      </podcast:chapters>
-    </item>
-    <item>
-      <title>Databricks峰会开幕，Fable 5越狱震动AI圈</title>
-      <description>本期要点：Databricks Data+AI Summit 2026今日旧金山开幕聚焦智能体落地；Fable 5越狱事件暴露12万字符系统提示安全漏洞；Anthropic发布全球AI暂停提案引发行业激辩；Gemini 3.5 Pro即将发布200万token超长上下文；MolmoAct 2机器人AI在斯坦福投入基因编辑实验</description>
-      <pubDate>Sun, 14 Jun 2026 23:32:59 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260615_Morning_AINews.mp3" length="7130924" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260615_Morning_AINews.mp3</guid>
-      <itunes:duration>07:25</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Anthropic最强模型遭美政府全球下线</title>
-      <description>本期要点：美国政府以国家安全为由要求Anthropic全球下线Fable 5和Mythos 5；智源大会图灵奖得主预言AI将在2050年前深度主导社会；科大讯飞发布唯一纯国产算力训练的主流大模型X2-VL；北京AI产业规模超4500亿大模型241款全国第一；Token成本危机来袭六个月暴涨40%</description>
-      <pubDate>Sat, 13 Jun 2026 23:32:40 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260614_Morning_AINews.mp3" length="7734956" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260614_Morning_AINews.mp3</guid>
-      <itunes:duration>08:03</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>SpaceX史上最大IPO，MANGOS取代FAANG</title>
-      <description>本期要点：SpaceX完成史上最大IPO估值近2万亿美元；Anthropic与OpenAI紧随其后提交上市文件；MANGOS新缩写取代FAANG成科技投资新叙事；Google NotebookLM进化为研究Agent；NVIDIA发布Nemotron 3 Ultra开源模型</description>
-      <pubDate>Sat, 13 Jun 2026 14:31:11 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260613_Morning_AINews.mp3" length="6460076" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260613_Morning_AINews.mp3</guid>
-      <itunes:duration>06:43</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AI IPO大战，国产芯片训练万亿模型突破</title>
-      <description>本期要点：OpenAI与Anthropic同时冲刺IPO争夺AI第一股；国产昇腾芯片首次完成万亿参数大模型全参数训练；人形机器人加速进厂融资超300亿；AI技术深度赋能2026世界杯</description>
-      <pubDate>Sat, 13 Jun 2026 14:31:11 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260612_Morning_AINews.mp3" length="6900524" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260612_Morning_AINews.mp3</guid>
-      <itunes:duration>07:11</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Claude Fable 5发布，谷歌月砸10亿美元租SpaceX算力</title>
-      <description>本期要点：Anthropic发布最强公开模型Claude Fable 5；谷歌与SpaceX天价云计算协议AI军备竞赛进入太空时代；中国日均词元调用量突破140万亿；Anthropic紧急呼吁AI正在学会自我进化；SpaceX上市估值1.77万亿美元。</description>
-      <pubDate>Sat, 13 Jun 2026 14:31:11 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260611_Morning_AINews.mp3" length="7125932" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260611_Morning_AINews.mp3</guid>
-      <itunes:duration>07:25</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>具身智能融资热潮，算力工厂争夺战</title>
-      <description>本期要点：10个月融资10亿具身智能成资本最热赛道；日均140万亿Token中国各地疯抢算力工厂；对AI说谢谢每年浪费90吉瓦时电；谷歌月砸10亿美元租SpaceX算力；Anthropic呼吁AI自我进化控制问题。</description>
-      <pubDate>Sat, 13 Jun 2026 14:31:11 GMT</pubDate>
-      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260610_Morning_AINews.mp3" length="4486316" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260610_Morning_AINews.mp3</guid>
-      <itunes:duration>04:40</itunes:duration>
-      <itunes:author>小王</itunes:author>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
