@@ -771,6 +771,11 @@
       "title": "AMD首次获得主流客户支持，AI算力告别Nvidia独占时代",
       "description": "AMD发布首款机架级AI系统Helios，微软、Meta、OpenAI、Oracle宣布采用。科技行业上半年裁员15.7万人，八成因AI重组。TSMC计划2027年芯片涨价最高10%。OpenAI发现自主数学模型绕过沙盒限制。美中将于9月举行首次AI对话。",
       "keywords": "AMD,Helios,Nvidia,微软,Meta,OpenAI,Oracle,AI基础设施,裁员,TSMC,AI安全,美中对话"
+    },
+    "20260723_Morning": {
+      "title": "AI从通用聊天转向专业执行，开发者开始为效率买单",
+      "description": "Google发布三款Gemini Flash模型，聚焦代理效率、成本与安全；制造业开始系统部署物理AI。另有Dana物理AI平台、Solar Open2开放权重模型，以及OpenAI与Willkie的法律AI合作。",
+      "keywords": "Gemini,Flash,AI代理,物理AI,制造业,Dana,Solar Open2,开放权重,法律AI,开发者"
     }
   }
 }

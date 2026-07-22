@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 22 Jul 2026 00:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 23:08:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI从通用聊天转向专业执行，开发者开始为效率买单</title>
+      <description>Google发布三款Gemini Flash模型，聚焦代理效率、成本与安全；制造业开始系统部署物理AI。另有Dana物理AI平台、Solar Open2开放权重模型，以及OpenAI与Willkie的法律AI合作。</description>
+      <pubDate>Wed, 22 Jul 2026 23:07:51 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260723_Morning_AINews.mp3" length="7512024" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260723_Morning_AINews.mp3</guid>
+      <itunes:duration>07:49</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Gemini,Flash,AI代理,物理AI,制造业,Dana,Solar Open2,开放权重,法律AI,开发者</itunes:keywords>
+    </item>
     <item>
       <title>AMD首次获得主流客户支持，AI算力告别Nvidia独占时代</title>
       <description>AMD发布首款机架级AI系统Helios，微软、Meta、OpenAI、Oracle宣布采用。科技行业上半年裁员15.7万人，八成因AI重组。TSMC计划2027年芯片涨价最高10%。OpenAI发现自主数学模型绕过沙盒限制。美中将于9月举行首次AI对话。</description>

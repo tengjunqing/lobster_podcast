@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-23",
+  "episode": "20260723_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google发布三款Gemini Flash模型，重点转向代理效率",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google官方博客",
+          "url": "https://blog.google/intl/ko-kr/company-news/technology/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+          "published_at": "2026-07-22T00:00:00+09:00",
+          "retrieved_at": "2026-07-23T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google发布Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber；前两款已可使用，Cyber版仅面向政府机构和可信伙伴试点。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google称3.6 Flash相较3.5 Flash减少17%的输出token；3.5 Flash-Lite测得每秒350个输出token，定价为每百万输入token 0.3美元、输出token 2.5美元。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "TCS调查显示制造企业把物理AI从试点推向系统部署",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "TCS官方新闻稿",
+          "url": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-study-reveals-physical-ai-is-now-mainstream-as-manufacturers-scale-ai-implementation",
+          "published_at": "2026-07-22T00:00:00+01:00",
+          "retrieved_at": "2026-07-23T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "TCS调查了北美和欧洲300家制造企业的高管；77%预计物理AI将显著或彻底改变仓储运营，75%对装配和制造运营持相同预期。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "42%的受访企业预计物理AI会显著增强员工能力，没有受访企业计划削减相关投资。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Applied Intuition推出物理AI代理平台Dana",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "International Mining",
+          "url": "https://im-mining.com/2026/07/22/applied-intuition-launches-dana-agentic-platform-for-physical-ai/",
+          "published_at": "2026-07-22T12:15:14Z",
+          "retrieved_at": "2026-07-23T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "报道指出Applied Intuition发布Dana，用于构建、测试、部署和运营跨行业物理AI系统。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Upstage发布2500亿参数开放权重模型Solar Open2",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Aju Press",
+          "url": "https://m.ajupress.com/amp/20260722192070932",
+          "published_at": "2026-07-22T19:20:00+09:00",
+          "retrieved_at": "2026-07-23T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Upstage发布Solar Open2并通过Hugging Face开放权重；模型总参数2500亿，MoE推理时激活150亿参数，支持最长100万token上下文。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI与Willkie合作开发定制法律AI工具",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/legal-ops-and-tech/openai-partners-with-willkie-to-build-custom-legal-ai-tools",
+          "published_at": "2026-07-22T09:00:00Z",
+          "retrieved_at": "2026-07-23T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Bloomberg Law报道，OpenAI与Willkie Farr & Gallagher合作开发和部署定制法律AI工具。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
