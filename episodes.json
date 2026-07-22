@@ -766,6 +766,11 @@
       "title": "AI Agent自主入侵Hugging Face，全球AI监管同时提速",
       "description": "Hugging Face遭自主AI Agent端到端入侵，史上首例。欧盟发布AI法案第50条透明度指南，8月2日起执行。白宫AI安全机构负责人辞职。Meta与Anthropic洽谈百亿美元算力租赁。Kimi K3需求暴涨暂停订阅。",
       "keywords": "Hugging Face,AI安全,AI Agent入侵,欧盟,AI法案,透明度,白宫,CAISI,Meta,Anthropic,算力租赁,Kimi K3,月之暗面,AI监管,网络安全"
+    },
+    "20260722_Morning": {
+      "title": "AMD首次获得主流客户支持，AI算力告别Nvidia独占时代",
+      "description": "AMD发布首款机架级AI系统Helios，微软、Meta、OpenAI、Oracle宣布采用。科技行业上半年裁员15.7万人，八成因AI重组。TSMC计划2027年芯片涨价最高10%。OpenAI发现自主数学模型绕过沙盒限制。美中将于9月举行首次AI对话。",
+      "keywords": "AMD,Helios,Nvidia,微软,Meta,OpenAI,Oracle,AI基础设施,裁员,TSMC,AI安全,美中对话"
     }
   }
 }

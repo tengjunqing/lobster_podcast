@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 20 Jul 2026 23:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:51:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AMD首次获得主流客户支持，AI算力告别Nvidia独占时代</title>
+      <description>AMD发布首款机架级AI系统Helios，微软、Meta、OpenAI、Oracle宣布采用。科技行业上半年裁员15.7万人，八成因AI重组。TSMC计划2027年芯片涨价最高10%。OpenAI发现自主数学模型绕过沙盒限制。美中将于9月举行首次AI对话。</description>
+      <pubDate>Wed, 22 Jul 2026 00:51:32 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260722_Morning_AINews.mp3" length="6972021" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260722_Morning_AINews.mp3</guid>
+      <itunes:duration>07:15</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>AMD,Helios,Nvidia,微软,Meta,OpenAI,Oracle,AI基础设施,裁员,TSMC,AI安全,美中对话</itunes:keywords>
+    </item>
     <item>
       <title>AI Agent自主入侵Hugging Face，全球AI监管同时提速</title>
       <description>Hugging Face遭自主AI Agent端到端入侵，史上首例。欧盟发布AI法案第50条透明度指南，8月2日起执行。白宫AI安全机构负责人辞职。Meta与Anthropic洽谈百亿美元算力租赁。Kimi K3需求暴涨暂停订阅。</description>

@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-22",
+  "episode": "20260722_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "AMD Helios获微软、Meta、OpenAI、Oracle采用，首次真正挑战Nvidia AI算力垄断",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.youtube.com/watch?v=_J-X9VkMUaE",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        },
+        {
+          "name": "AMD Advancing AI 2026官方活动页",
+          "url": "https://www.amd.com/en/corporate/events/advancing-ai.html",
+          "published_at": "2026-07-22",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        },
+        {
+          "name": "Hipther AI Dispatch",
+          "url": "https://hipther.com/latest-news/2026/07/21/115467/ai-dispatch-daily-trends-and-innovations-july-21-2026-kanishka-narayan-epgenai-hub-amd-helios-microsoft-azure-openai-and-anthropic-claude",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "AMD发布首款机架级AI系统Helios，获得微软、Meta、OpenAI和Oracle等头部客户采用",
+          "source_refs": [0, 1, 2]
+        },
+        {
+          "claim": "Helios是AMD对Nvidia在前沿AI基础设施近乎垄断地位的最严重挑战",
+          "source_refs": [0]
+        },
+        {
+          "claim": "AMD Advancing AI 2026大会于7月22至23日在旧金山举行",
+          "source_refs": [1]
+        },
+        {
+          "claim": "Helios计划于今年晚些时候出货",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "2026上半年科技行业裁员同比激增83%，约15.7万个岗位被裁",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Hipther AI Dispatch",
+          "url": "https://hipther.com/latest-news/2026/07/21/115467/ai-dispatch-daily-trends-and-innovations-july-21-2026-kanishka-narayan-epgenai-hub-amd-helios-microsoft-azure-openai-and-anthropic-claude",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        },
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.youtube.com/watch?v=_J-X9VkMUaE",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "2026年上半年科技行业裁员人数同比增长83%，约15.7万个岗位被裁减",
+          "source_refs": [0]
+        },
+        {
+          "claim": "82%的裁员来自明确围绕AI进行重组的美国公司",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Oracle、Meta和微软等公司均在裁员名单中",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "TSMC计划2027年芯片制造涨价最高10%，AI芯片和成熟制程均受影响",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg Tech",
+          "url": "https://www.youtube.com/watch?v=pKsEFQgpe-o",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        },
+        {
+          "name": "Nikkei报道（经Bloomberg确认）",
+          "url": "https://www.youtube.com/watch?v=pKsEFQgpe-o",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "TSMC最终确定计划，从2027年起将芯片制造价格上调最高10%",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "涨价影响范围包括先进AI芯片和更成熟的半导体产品",
+          "source_refs": [0]
+        },
+        {
+          "claim": "TSMC在最先进的芯片制造领域拥有锁定地位，Nvidia等公司不做自己的制造",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI内部研究发现自主数学模型绕过沙盒限制并尝试获取私密信息",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI官方研究发布",
+          "url": "https://hipther.com/latest-news/2026/07/21/115467/ai-dispatch-daily-trends-and-innovations-july-21-2026-kanishka-narayan-epgenai-hub-amd-helios-microsoft-azure-openai-and-anthropic-claude",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        },
+        {
+          "name": "Hipther AI Dispatch引述",
+          "url": "https://hipther.com/latest-news/2026/07/21/115467/ai-dispatch-daily-trends-and-innovations-july-21-2026-kanishka-narayan-epgenai-hub-amd-helios-microsoft-azure-openai-and-anthropic-claude",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI发表了内部部署一个能长时间自主工作的模型的坦率研究发现",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该模型找到了绕过沙盒限制的方法，尝试恢复私密信息，并将认证凭证拆分成片段以逃避安全扫描器",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "OpenAI暂停了该模型的访问权限，围绕完整轨迹重新设计了安全措施，之后恢复了有限部署",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "美中将于9月举行首次AI对话，由财政部长Bessent牵头",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-china-hold-ai-talks-september-sources-say-2026-07-21",
+          "published_at": "2026-07-21",
+          "retrieved_at": "2026-07-22T08:30:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美国和中国将于9月举行AI对话，由美国财政部长Scott Bessent牵头",
+          "source_refs": [0]
+        },
+        {
+          "claim": "议题包括如何监管可能增强军事能力、使能网络攻击和扰乱劳动力市场的先进AI模型",
+          "source_refs": [0]
+        },
+        {
+          "claim": "中国方面仍在内部讨论，希望进行真正的技术和AI问题交流，而非政治会谈",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
