@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 22 Jul 2026 23:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:10:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI迈入十亿用户门槛，算力与信任成为新瓶颈</title>
+      <description>Gemini月活超过九点五亿，AI助手进入十亿用户竞争；AMD与Anthropic签下两吉瓦芯片合作。ChatGPT Health扩大开放，Etched推理芯片估值上升，Claude语音模式扩展。</description>
+      <pubDate>Thu, 23 Jul 2026 23:10:28 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260724_Morning_AINews.mp3" length="6777252" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260724_Morning_AINews.mp3</guid>
+      <itunes:duration>07:03</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>Gemini,谷歌,人工智能助手,AMD,Anthropic,ChatGPT Health,Etched,AI芯片,Claude,语音模式</itunes:keywords>
+    </item>
     <item>
       <title>AI从通用聊天转向专业执行，开发者开始为效率买单</title>
       <description>Google发布三款Gemini Flash模型，聚焦代理效率、成本与安全；制造业开始系统部署物理AI。另有Dana物理AI平台、Solar Open2开放权重模型，以及OpenAI与Willkie的法律AI合作。</description>

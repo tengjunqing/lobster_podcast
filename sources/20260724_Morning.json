@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-24",
+  "episode": "20260724_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Gemini月活突破九点五亿，谷歌AI进入十亿用户门槛",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+          "published_at": "2026-07-23T14:52:44Z",
+          "retrieved_at": "2026-07-24T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Alphabet在第二季度业绩电话会上表示，Gemini月活跃用户超过9.5亿，较上一年增长约三倍。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google搜索中的AI Mode月活跃用户已超过10亿。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "AMD与Anthropic达成两吉瓦AI芯片合作",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/",
+          "published_at": "2026-07-23T10:06:53Z",
+          "retrieved_at": "2026-07-24T07:12:00+08:00"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "published_at": "2026-07-23T15:00:00Z",
+          "retrieved_at": "2026-07-24T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "AMD计划从2027年上半年起向Anthropic提供最多两吉瓦的Instinct MI450芯片。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "合作还包括AMD对Anthropic最高50亿美元的投资。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "ChatGPT Health向美国成年用户全面开放",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+          "published_at": "2026-07-23T17:00:00Z",
+          "retrieved_at": "2026-07-24T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "ChatGPT Health本周开始向美国18岁以上的已登录用户开放，覆盖免费、Go、Plus和Pro计划，并支持网页和iOS。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该功能可在用户授权后连接Apple Health和受支持的医疗记录，但OpenAI条款仍说明其服务不用于诊断或治疗。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "AI芯片公司Etched估值升至一百零三亿美元",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "published_at": "2026-07-23T15:00:00Z",
+          "retrieved_at": "2026-07-24T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "专注AI推理芯片的Etched最新估值达到103亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Etched称其方案分别针对提示预填和输出解码阶段设计，并强调低电压推理以降低发热。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Claude语音模式扩展至Opus和Sonnet",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+          "published_at": "2026-07-23T16:00:00Z",
+          "retrieved_at": "2026-07-24T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic把Claude语音模式扩展到Opus和Sonnet模型。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "这项变化让用户可以用语音访问更高能力等级的Claude模型。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
