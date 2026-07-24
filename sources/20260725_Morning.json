@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-25",
+  "episode": "20260725_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic发布Claude Opus 5",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "published_at": "2026-07-24",
+          "retrieved_at": "2026-07-25T07:01:47+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Claude Opus 5已在所有Claude平台及API上线，API型号为claude-opus-5。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "标准模式每百万输入token 5美元、每百万输出token 25美元；Fast模式约快2.5倍，价格为标准模式两倍。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic称Opus 5接近Fable 5的前沿能力，但价格约为后者一半，并承认长时间自主研究任务仍有限制。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Meta AI增加代理能力并连接日历和邮箱",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/24/meta-muse-spark-agents",
+          "published_at": "2026-07-24T17:00:06Z",
+          "retrieved_at": "2026-07-25T07:01:10+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Axios报道，Meta AI正在获得由Muse Spark 1.1驱动的新代理能力。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "新能力可连接Google Calendar和Gmail，并用于生成每日更新、辅助研究和家居改造项目。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Bluesky把Attie扩展为开放社交研究工具",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool",
+          "published_at": "2026-07-24",
+          "retrieved_at": "2026-07-25T07:02:22+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Attie新增Quests功能，可研究Bluesky及采用AT Protocol的更广泛开放社交网络。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该体验仍处于测试阶段，未来数周将从候补名单邀请用户。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Bluesky目前报告约4560万注册账户。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Cognition收购消息代理Poke",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+          "published_at": "2026-07-24",
+          "retrieved_at": "2026-07-25T07:02:22+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "TechCrunch报道，Cognition收购了可通过iMessage、短信、Telegram及部分市场WhatsApp使用的AI代理Poke。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Cognition称，过去三个月Poke用户交换了超过1亿条消息，但该服务运营成本较高。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Poke今年底前不会立即改变，团队计划明年尝试让Poke使用Cognition的SWE-1.7处理部分任务。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "AnySearch推出学生与开发者免费计划",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "AnySearch / PR Newswire",
+          "url": "https://www.aol.com/articles/anysearch-launches-student-developer-program-102900000.html",
+          "published_at": "2026-07-24T10:29:00Z",
+          "retrieved_at": "2026-07-25T07:02:22+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "AnySearch面向学生、开发者和开源贡献者推出计划，每位通过验证的用户每天可获得2000次免费搜索调用。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称已有超过20万名开发者使用其服务，累计搜索调用超过2000万次。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
