@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 24 Jul 2026 23:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 23:07:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI从自动开启走向主动选择，用户控制成为新门槛</title>
+      <description>美国图书馆兴起“避开AI”课程，折射用户对默认开启AI的反弹；数据中心电网事件、Codex实体控制器和自主飞行相机，则显示AI正进入更多现实入口。</description>
+      <pubDate>Sat, 25 Jul 2026 23:07:17 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260726_Morning_AINews.mp3" length="7033461" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260726_Morning_AINews.mp3</guid>
+      <itunes:duration>07:19</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,数字素养,用户控制,数据中心,Codex Micro,OpenAI,HOVERAir,DeepSeek,AI基础设施,产品设计</itunes:keywords>
+    </item>
     <item>
       <title>Claude把旗舰能力压到日常价位，AI代理走进真实入口</title>
       <description>Anthropic发布Claude Opus 5，以更低成本提供接近前沿模型的能力；Meta AI开始连接日历和邮箱。另有Bluesky社交研究工具、Cognition收购Poke，以及AnySearch开发者免费计划。</description>

@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-26",
+  "episode": "20260726_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "美国图书馆兴起“避开AI”数字素养课程",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+          "published_at": "2026-07-25T16:00:00Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "费城一场名为“避开AI”的图书馆课程约有二十名成年人参加，课程演示如何关闭Apple Intelligence和Gemini等功能。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "组织者把课程定位为数字素养教育，重点是帮助用户理解并自主选择是否使用AI。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "三点一吉瓦数据中心负载在半分钟内退出电网",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+          "published_at": "2026-07-25T13:05:00Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "报道援引PJM数据称，一条输电线故障后，约三点一吉瓦数据中心负载在约三十秒内切换到备用电源并退出电网。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "ON.Energy提出用园区级电池和电力转换设备，让电网看到更平稳的数据中心负载。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI的Codex Micro迎来首批独立上手评测",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else/",
+          "published_at": "2026-07-25T00:23:11Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+          "published_at": "2026-07-15T00:00:00Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Codex Micro售价二百三十美元，配有十三个机械按键、旋钮、摇杆和触摸传感器，用于触发Codex常用操作。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "TechCrunch的上手体验认为，它更适合ChatGPT和Codex高频用户，对普通用户的必要性仍不明确。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "HOVERAir预告可拆卸相机的自主飞行设备",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "DroneXL",
+          "url": "https://dronexl.co/2026/07/25/hoverair-modular-flying-camera-teaser-gopro-karma/",
+          "published_at": "2026-07-25T12:03:00Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        },
+        {
+          "name": "New Camera",
+          "url": "https://thenewcamera.com/hoverair-teases-modular-pocket-flying-camera-detachable-camera-unit-shown/",
+          "published_at": "2026-07-24T11:01:00Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "官方预告画面显示一个带机械卡扣和金色触点的可拆卸相机模块，以及带全包围桨叶保护罩的飞行机身。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "截至检索时，公司尚未公布产品名称、规格、重量或上市日期。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "彭博称DeepSeek暂停面向潜在投资人的融资沟通",
+      "credibility": "C",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+          "published_at": "2026-07-25T14:49:55Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
+          "published_at": "2026-07-25T22:08:30Z",
+          "retrieved_at": "2026-07-26T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "彭博援引知情人士称，DeepSeek管理层已告知部分潜在投资人暂停融资沟通。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "该消息截至检索时未获DeepSeek公开确认，融资条款和后续安排仍不确定。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
