@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-27",
+  "episode": "20260727_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "韩国企业与美国科技公司公布总额九千五百亿美元的AI合作",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/articles/south-koreas-sk-hynix-samsung-043721636.html",
+          "published_at": "2026-07-25T04:37:21Z",
+          "retrieved_at": "2026-07-27T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "韩国总统顾问表示，三星电子和SK海力士将与包括英伟达在内的美国科技公司推进总额九千五百亿美元的内存芯片供应合作。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "其中SK海力士相关长期供应规模为七千五百亿美元，三星电子面向博通的合作规模为两千亿美元。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "巨额AI资本开支开始接受投资回报检验",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
+          "published_at": "2026-07-26T13:00:00Z",
+          "retrieved_at": "2026-07-27T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Alphabet把二零二六年资本开支上限提高到两千零五十亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Alphabet第二季度自由现金流自二零零四年上市以来首次转负，消息后股价周四下跌超过百分之七。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "中国AI模型以价格优势争取全球开发者",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/07/26/china-moonshot-deepseek-zai-kimi-challenging-us-ai-cost",
+          "published_at": "2026-07-26T21:00:00Z",
+          "retrieved_at": "2026-07-27T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Fortune报道认为，月之暗面、智谱和DeepSeek等中国模型正在能力接近的同时，以更低调用价格争取全球用户。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "价格优势能否转化为企业采用，还取决于数据治理、服务稳定性和开发生态。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "现代汽车提出向物理AI公司转型",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "UPI / Asia Today",
+          "url": "https://www.upi.com/Top_News/World-News/2026/07/26/hyundai-motor-group-physical-ai-company/2171785094384",
+          "published_at": "2026-07-26T19:37:29Z",
+          "retrieved_at": "2026-07-27T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "现代汽车集团执行董事长郑义宣提出，把集团从汽车制造商扩展为覆盖自动驾驶、机器人、AI工厂和互联城市基础设施的物理AI公司。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该战略于旧金山AI峰会上提出。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "约七成美国旅行者曾用AI辅助出行规划",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TravelPulse citing Phocuswright 2026 travel trends",
+          "url": "https://www.travelpulse.com/news/technology/how-different-generations-use-ai-for-travel-planning",
+          "published_at": "2026-07-26T13:00:00Z",
+          "retrieved_at": "2026-07-27T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Phocuswright二零二六年旅行趋势数据称，在了解AI的美国旅行者中，约七成过去一年至少一次用AI规划或辅助休闲旅行。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "使用主要集中在查询航班、住宿、活动和目的地等规划环节。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

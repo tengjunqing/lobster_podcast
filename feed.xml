@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 25 Jul 2026 23:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 23:07:52 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>九千五百亿美元AI合作落地，算力投资进入回报检验期</title>
+      <description>韩国企业与美国科技公司公布九千五百亿美元AI合作，Alphabet巨额资本开支引发投资者重新定价。中国低价模型、现代汽车物理AI转型和旅行规划应用，显示AI竞争正从能力展示进入成本与回报检验。</description>
+      <pubDate>Sun, 26 Jul 2026 23:07:34 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260727_Morning_AINews.mp3" length="6623861" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260727_Morning_AINews.mp3</guid>
+      <itunes:duration>06:53</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,AI基础设施,三星电子,SK海力士,Alphabet,中国大模型,物理AI,现代汽车,旅行规划,投资回报</itunes:keywords>
+    </item>
     <item>
       <title>AI从自动开启走向主动选择，用户控制成为新门槛</title>
       <description>美国图书馆兴起“避开AI”课程，折射用户对默认开启AI的反弹；数据中心电网事件、Codex实体控制器和自主飞行相机，则显示AI正进入更多现实入口。</description>
