@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 26 Jul 2026 23:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 23:06:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI安全从报警走向行动，企业开始重画责任边界</title>
+      <description>微软推出代理式安全系统，英伟达牵头开放安全AI联盟；特拉华州讨论AI公司法律实体。Waymo与Uber合作生变，苹果集中修补系统安全问题。</description>
+      <pubDate>Mon, 27 Jul 2026 23:05:47 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260728_Morning_AINews.mp3" length="6180824" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260728_Morning_AINews.mp3</guid>
+      <itunes:duration>06:26</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,AI安全,微软,Project Perception,英伟达,开放模型,特拉华州,自动驾驶,Waymo,苹果</itunes:keywords>
+    </item>
     <item>
       <title>九千五百亿美元AI合作落地，算力投资进入回报检验期</title>
       <description>韩国企业与美国科技公司公布九千五百亿美元AI合作，Alphabet巨额资本开支引发投资者重新定价。中国低价模型、现代汽车物理AI转型和旅行规划应用，显示AI竞争正从能力展示进入成本与回报检验。</description>

@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-28",
+  "episode": "20260728_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "微软发布面向AI时代的代理式安全系统Project Perception",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Microsoft Official Blog",
+          "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai",
+          "published_at": "2026-07-27",
+          "retrieved_at": "2026-07-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "微软公布Project Perception，用代理把安全信号转成实时防护。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "系统以持续感知、推理和行动为设计目标，并强调由人类保留监督。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "英伟达牵头成立开放安全AI联盟",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "SecurityWeek",
+          "url": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+          "published_at": "2026-07-27T12:25:43Z",
+          "retrieved_at": "2026-07-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "联盟将开发并共享AI安全与网络安全工具，成员包括Adobe、CrowdStrike、Hugging Face和戴尔。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "英伟达贡献开放模型、权重、数据和代理框架研究。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "特拉华州讨论为AI公司建立独立法律实体",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/business-and-practice/ai-run-company-gamble-tests-the-limits-of-delaware-corporate-law",
+          "published_at": "2026-07-27T09:00:00Z",
+          "retrieved_at": "2026-07-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "相关提案设想一种人工智能公司实体，并讨论最低资金、持有资产、诉讼权与所有者有限责任。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "提案设计了最早明年开始、为期三十个月的沙盒阶段。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Waymo计划结束与Uber的机器人出租车合作",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Bloomberg via Automotive News",
+          "url": "https://www.autonews.com/technology/ane-waymo-uber-robotaxi-jv-ended-0727/",
+          "published_at": "2026-07-27T08:07:15Z",
+          "retrieved_at": "2026-07-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "彭博报道称Waymo计划结束与Uber的机器人出租车合作，双方竞争关系将上升。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "苹果发布iOS 26.6并集中修补安全问题",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Apple Security Releases",
+          "url": "https://support.apple.com/en-us/100100",
+          "published_at": "2026-07-27",
+          "retrieved_at": "2026-07-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "苹果安全发布页列出iOS 26.6及同期系统更新。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
