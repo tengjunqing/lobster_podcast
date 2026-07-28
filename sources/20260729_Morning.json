@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-29",
+  "episode": "20260729_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google为Gemini API托管代理加入工具调用钩子和预算控制",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+          "published_at": "2026-07-28T16:00:00Z",
+          "retrieved_at": "2026-07-29T07:13:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Gemini API托管代理默认模型更新为Gemini 3.6 Flash。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "新功能包括环境钩子、预算控制、定时触发和免费层访问。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "环境钩子可以在隔离沙箱内拦截、检查或审计工具调用。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic称Claude在密码分析中发现新的攻击方法",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anthropic Research",
+          "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+          "published_at": "2026-07-28T17:00:00Z",
+          "retrieved_at": "2026-07-29T07:13:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic称Mythos Preview对HAWK方案找到一种利用晶格对称性的攻击，达到相同安全级别需要把HAWK密钥大小加倍。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic称Mythos Preview对13轮LEA的攻击可在少于230个加密明文、现代桌面电脑一小时内恢复密钥。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该LEA结果不适用于完整24轮密码，Anthropic表示仍需进一步理解结果边界。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "微软用客户案例总结企业AI从试验走向规模部署",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Official Microsoft Blog",
+          "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation",
+          "published_at": "2026-07-28T16:00:10Z",
+          "retrieved_at": "2026-07-29T07:13:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "微软称EY向15万名员工部署Microsoft 365 Copilot后测得15%的生产力提升，并计划扩展到超过40万名员工。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "微软称英国国家医疗服务体系试验覆盖90个机构的3万名员工，参与者平均每天节省43分钟行政时间，随后计划向超过50万名临床及支持人员推广。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "三星发布三款第八代折叠屏手机并强化代理式AI",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Samsung Global Newsroom",
+          "url": "https://news.samsung.com/uk/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
+          "published_at": "2026-07-28T00:00:00Z",
+          "retrieved_at": "2026-07-29T07:13:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "三星在伦敦发布Galaxy Z Fold8 Ultra、Galaxy Z Fold8和Galaxy Z Flip8。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "三星展示了由Gemini执行跨应用酒店搜索、由用户确认关键动作的代理式场景。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Galaxy Z Fold8重201克，配备4800毫安时电池；续航数字来自三星内部测试。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Fish Audio完成五千二百万美元种子轮融资",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "published_at": "2026-07-28T14:00:00Z",
+          "retrieved_at": "2026-07-29T07:13:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "TechCrunch报道Fish Audio完成5200万美元种子轮融资，由Coreline Ventures和今日资本领投。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司向TechCrunch表示，其开源或托管模型已有超过800万用户，年经常性收入为2100万美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Fish Speech的GitHub仓库超过3.1万颗星，公司过去一年发布了五个模型。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

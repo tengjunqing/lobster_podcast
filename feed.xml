@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 23:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:07:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI代理补上控制面板，规模部署开始接受结果检验</title>
+      <description>Google为托管代理加入钩子与预算控制，Anthropic公布AI密码分析结果；微软用企业案例展示规模部署。三星把代理带进手机，Fish Audio完成新融资。</description>
+      <pubDate>Tue, 28 Jul 2026 23:07:19 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260729_Morning_AINews.mp3" length="7107439" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260729_Morning_AINews.mp3</guid>
+      <itunes:duration>07:24</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,AI代理,Gemini,Google,Anthropic,密码分析,微软,企业AI,三星,Fish Audio</itunes:keywords>
+    </item>
     <item>
       <title>AI安全从报警走向行动，企业开始重画责任边界</title>
       <description>微软推出代理式安全系统，英伟达牵头开放安全AI联盟；特拉华州讨论AI公司法律实体。Waymo与Uber合作生变，苹果集中修补系统安全问题。</description>
