@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 23:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:10:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>微软云增长回应AI投入，行业进入回报与治理双重检验</title>
+      <description>微软Azure收入增长回应巨额AI投入，Meta收入上升但利润承压；高通收购Modular补齐软件栈。中国治理草案和ChipAgents融资，则显示AI规模落地同时接受责任与效率检验。</description>
+      <pubDate>Wed, 29 Jul 2026 23:09:30 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260730_Morning_AINews.mp3" length="6836184" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260730_Morning_AINews.mp3</guid>
+      <itunes:duration>07:07</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,微软,Azure,Meta,资本开支,高通,Modular,网络治理,ChipAgents,芯片设计</itunes:keywords>
+    </item>
     <item>
       <title>AI代理补上控制面板，规模部署开始接受结果检验</title>
       <description>Google为托管代理加入钩子与预算控制，Anthropic公布AI密码分析结果；微软用企业案例展示规模部署。三星把代理带进手机，Fish Audio完成新融资。</description>

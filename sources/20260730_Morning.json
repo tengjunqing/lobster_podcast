@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-30",
+  "episode": "20260730_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "微软云与人工智能业务增长开始回应巨额投入",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Microsoft Investor Relations",
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+          "published_at": "2026-07-29T00:00:00-07:00",
+          "retrieved_at": "2026-07-30T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "微软2026财年第四季度收入为900亿美元，同比增长18%。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Azure及其他云服务收入同比增长43%，智能云业务收入为393亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "微软2026财年全年收入为3318亿美元，同比增长18%。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Meta收入增长但利润承压并收窄资本开支区间",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Meta Investor Relations",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx",
+          "published_at": "2026-07-29T00:00:00-07:00",
+          "retrieved_at": "2026-07-30T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Meta第二季度收入为608.01亿美元，同比增长28%。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Meta第二季度营业利润同比下降8%，净利润同比下降14%。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Meta将2026年资本开支预期收窄至1300亿至1450亿美元。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "高通完成收购Modular补齐跨硬件人工智能软件栈",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Qualcomm Newsroom",
+          "url": "https://www.qualcomm.com/news/releases/2026/07/qualcomm-completes-acquisition-of-modular",
+          "published_at": "2026-07-29T00:00:00-07:00",
+          "retrieved_at": "2026-07-30T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "高通宣布完成对人工智能软件基础设施公司Modular的收购。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Mojo、MAX和Modular Cloud将继续作为产品与品牌保留。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Modular联合创始人兼首席执行官Chris Lattner将出任高通先进人工智能软件与平台执行副总裁。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "中国网络暴力治理草案纳入人工智能生成与传播",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/china-releases-draft-cyberbullying-law-covering-ai-enabled-abuse-2026-07-29",
+          "published_at": "2026-07-29T11:38:19Z",
+          "retrieved_at": "2026-07-30T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "草案要求平台追踪并报告利用人工智能生成或传播的网络暴力风险内容，并进行删除、屏蔽和报告。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "草案公开征求意见截至2026年8月28日。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "违规在线服务提供者最高可能面临1000万元人民币罚款；该规则目前仍是草案。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "ChipAgents追加融资推动人工智能代理进入芯片验证",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/nvidia-partner-chipagents-raises-60-million-accelerate-chip-design-with-ai-2026-07-29",
+          "published_at": "2026-07-29T11:50:01Z",
+          "retrieved_at": "2026-07-30T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "ChipAgents获得6000万美元A轮追加融资，累计融资达到1.31亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "追加融资由B Capital领投，既有投资者包括美光、联发科和爱立信。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称其软件最明显的提速出现在芯片功能验证环节；该表述来自公司首席执行官。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
