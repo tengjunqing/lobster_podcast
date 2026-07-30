@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-31",
+  "episode": "20260731_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI下调GPT-5.6 Terra与Luna API价格",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "自7月30日起，GPT-5.6 Terra API输入和输出价格分别为每百万token 2美元和12美元，Luna分别为0.20美元和1.20美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Sol价格不变，原Priority Processing更名为Fast mode，旧参数继续兼容。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google发布Gemini Robotics ER 2",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        },
+        {
+          "name": "Google DeepMind Model Card",
+          "url": "https://deepmind.google/models/model-cards/gemini-robotics-er-2",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "该模型可基于连续视频进行空间推理、多步任务规划和多机器人协作，并把动作执行交给下层视觉语言动作模型。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "模型已通过Gemini API和Google AI Studio向开发者开放，并在Gemini Enterprise Agent Platform提供私有预览。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Chrome披露AI辅助漏洞发现和修复流程",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google Chrome Security Team",
+          "url": "https://blog.google/security/chrome-stronger-with-every-update",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Chrome称其使用AI扩展漏洞发现、分诊和修复，并估计自动分诊每月节省数百小时开发时间。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Chromium及相关项目包含超过2300个第三方依赖，其中约1700个以某种形式交付给用户。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Nscale签约收购Anyscale",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Nscale",
+          "url": "https://www.nscale.com/press-releases/nscale-acquires-anyscale",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Nscale已签署最终协议收购Anyscale，交易仍需满足交割条件和监管批准，预计2026年下半年完成，财务条款未披露。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anyscale约200名员工将加入Nscale，Anyscale品牌和客户现有基础设施选择将保留。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "PolyAI推出音频原生对话模型Dialog-RSN-1",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "PolyAI",
+          "url": "https://poly.ai/blog/PolyAI-dialog-rsn-1",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        },
+        {
+          "name": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/07/30/polyai-launches-new-real-time-voice-conversation-model-make-ai-driven-calls-human",
+          "published_at": "2026-07-30",
+          "retrieved_at": "2026-07-31T07:08:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Dialog-RSN-1直接处理用户音频，把轮次判断、语音识别、函数调用和回复生成整合进一个模型，语音合成仍由独立系统完成。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "首个版本重点面向英语；更广泛的语言支持尚未推出。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

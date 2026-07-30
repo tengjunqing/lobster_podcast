@@ -811,6 +811,11 @@
       "title": "微软云增长回应AI投入，行业进入回报与治理双重检验",
       "description": "微软Azure收入增长回应巨额AI投入，Meta收入上升但利润承压；高通收购Modular补齐软件栈。中国治理草案和ChipAgents融资，则显示AI规模落地同时接受责任与效率检验。",
       "keywords": "人工智能,微软,Azure,Meta,资本开支,高通,Modular,网络治理,ChipAgents,芯片设计"
+    },
+    "20260731_Morning": {
+      "title": "模型降价与机器人开放接口，AI竞争转向单位任务效率",
+      "description": "OpenAI下调两档模型价格，Google开放机器人推理模型；Chrome用AI扩展安全流程。Nscale签约收购Anyscale，PolyAI发布音频原生对话模型。",
+      "keywords": "人工智能,GPT-5.6,OpenAI,Gemini Robotics,机器人,Chrome,网络安全,Nscale,Anyscale,语音模型"
     }
   }
 }
