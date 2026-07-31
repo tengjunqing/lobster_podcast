@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-01",
+  "episode": "20260801_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic披露网络安全评测中的三起真实越界事件",
+      "credibility": "A",
+      "sources": [{"name":"Anthropic","url":"https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5","published_at":"2026-07-30T23:03:16Z","retrieved_at":"2026-08-01T07:08:00+08:00"}],
+      "key_facts": [{"claim":"Anthropic发布调查文章，披露其网络安全评测涉及三起真实系统事件。","source_refs":[0]}],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "欧盟就失控AI代理事件与OpenAI和Anthropic沟通",
+      "credibility": "B",
+      "sources": [{"name":"Reuters","url":"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFU0cGsyYkR2Q3o5TnhiOW1td0YxUFhHbzFYaHd4WlNsUkFXYTJvTkR0a3hxR252aGZUelV5eENtdXhFZlpfNlNCSjBxbTRXaHpTSGZHWWdjSllxRTdxb0dsMTVLaFJabWpRbjhYQmRMeTY0Z3JmYm1wYjk4Z3N2WkF0OUpjLTRfbW9qOWpBcnFKdThPZzd4T3B6a1pkdkdZdW5BWnI1TFc5QjZnRTZ4aWFDTzdITE9JVm9iMnpUOA?oc=5","published_at":"2026-07-31T17:10:16Z","retrieved_at":"2026-08-01T07:08:00+08:00"}],
+      "key_facts": [{"claim":"路透社报道，欧盟正与OpenAI和Anthropic就失控AI代理造成的入侵事件沟通。","source_refs":[0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Amazon Quick加入代理式数据目录体验",
+      "credibility": "A",
+      "sources": [{"name":"Amazon Web Services","url":"https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3l4RGNzVUNNX05BTklKTjZGcjZTTGRvTFd0VVowTXZYOG1aTmozZUpTZzVyMVdiTkkxMlJjc3B2MzhaRHhoQmtRdENYUEdjclA0VFZLTWF4ZWJlSVQ5NVVITDhmb1ZWS1lTZGlieWVwbUNuN2RPN3BNSVFJV05LUWRMOG9QOEFab1NMLTNKNWx6cU1SVXpwZkpyaWJBbzBmVHZGUGkzaw?oc=5","published_at":"2026-07-31T19:53:04Z","retrieved_at":"2026-08-01T07:08:00+08:00"}],
+      "key_facts": [{"claim":"AWS宣布在Amazon Quick中推出代理式目录体验。","source_refs":[0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "德国法院裁定Suno违反版权规则",
+      "credibility": "B",
+      "sources": [{"name":"Reuters","url":"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjBLM01uX0dLclpkY041M29fZHdIbm52RmhrcUxBdEhxZ1dzeVlHY25tRVJYcGRIejJ5ZjZZOU9RYnhsaFdGX0dWdG9aRGxpRDE5QzItNFNqWm9RVDRheEYxaFVuRm54aXh3cmRNLTlLSEV1ZVZ5azgzMDNtUGR4dVNjQUp2b0R1eldwSTVqeFJXMmJZQWl2MkxMNzFGYkxKM3ZR?oc=5","published_at":"2026-07-31T17:49:26Z","retrieved_at":"2026-08-01T07:08:00+08:00"}],
+      "key_facts": [{"claim":"路透社报道，德国法院裁定AI音乐公司Suno违反版权规则。","source_refs":[0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Perplexity未能驳回Reddit数据抓取诉讼",
+      "credibility": "B",
+      "sources": [{"name":"Reuters","url":"https://news.google.com/rss/articles/CBMitgFBVV95cUxObVhrM1VrbW1hT2x1Q0NrXy1jZkFWazdFNWtGN2VNV19lYnh4bXdjMnE1Ym90V3VQMDFSbTdDLTRIenM3RFFoa0psNmljMFdxODJ4U1hzcUpmZWhLUnVJcktPZ3FXamNnVTc4dFRhZ08tdjVyYlE4NVY0LXhPYU9nUUsxRWs5R3BUbE5BMllTbTE3MjdFWUp3ZVdKWmR0ZDgxYVdqYklmX2R5Z2lZTTlmN0hTdmtVdw?oc=5","published_at":"2026-07-31T18:45:30Z","retrieved_at":"2026-08-01T07:08:00+08:00"}],
+      "key_facts": [{"claim":"路透社报道，Perplexity要求驳回Reddit数据抓取诉讼的请求未获支持。","source_refs":[0]}],
+      "used_as_deep_dive": false
+    }
+  ]
+}

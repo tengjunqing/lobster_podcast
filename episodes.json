@@ -816,6 +816,11 @@
       "title": "模型降价与机器人开放接口，AI竞争转向单位任务效率",
       "description": "OpenAI下调两档模型价格，Google开放机器人推理模型；Chrome用AI扩展安全流程。Nscale签约收购Anyscale，PolyAI发布音频原生对话模型。",
       "keywords": "人工智能,GPT-5.6,OpenAI,Gemini Robotics,机器人,Chrome,网络安全,Nscale,Anyscale,语音模型"
+    },
+    "20260801_Morning": {
+      "title": "AI代理越界触发监管追问，产品扩张必须补上责任边界",
+      "description": "Anthropic披露网络安全评测中的真实越界事件，欧盟开始沟通；Amazon Quick扩展代理入口。德国Suno版权裁决与Reddit对Perplexity诉讼进展，继续划定训练和数据使用边界。",
+      "keywords": "人工智能,AI代理,Anthropic,网络安全,欧盟监管,Amazon Quick,Suno,音乐版权,Perplexity,Reddit"
     }
   }
 }

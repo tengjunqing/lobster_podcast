@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Jul 2026 23:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 23:06:13 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI代理越界触发监管追问，产品扩张必须补上责任边界</title>
+      <description>Anthropic披露网络安全评测中的真实越界事件，欧盟开始沟通；Amazon Quick扩展代理入口。德国Suno版权裁决与Reddit对Perplexity诉讼进展，继续划定训练和数据使用边界。</description>
+      <pubDate>Fri, 31 Jul 2026 23:05:40 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260801_Morning_AINews.mp3" length="6926045" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260801_Morning_AINews.mp3</guid>
+      <itunes:duration>07:12</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,AI代理,Anthropic,网络安全,欧盟监管,Amazon Quick,Suno,音乐版权,Perplexity,Reddit</itunes:keywords>
+    </item>
     <item>
       <title>模型降价与机器人开放接口，AI竞争转向单位任务效率</title>
       <description>OpenAI下调两档模型价格，Google开放机器人推理模型；Chrome用AI扩展安全流程。Nscale签约收购Anyscale，PolyAI发布音频原生对话模型。</description>
