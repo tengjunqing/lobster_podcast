@@ -821,6 +821,11 @@
       "title": "AI代理越界触发监管追问，产品扩张必须补上责任边界",
       "description": "Anthropic披露网络安全评测中的真实越界事件，欧盟开始沟通；Amazon Quick扩展代理入口。德国Suno版权裁决与Reddit对Perplexity诉讼进展，继续划定训练和数据使用边界。",
       "keywords": "人工智能,AI代理,Anthropic,网络安全,欧盟监管,Amazon Quick,Suno,音乐版权,Perplexity,Reddit"
+    },
+    "20260804_Morning": {
+      "title": "模型成本与企业席位同步增长，AI进入规模运营检验",
+      "description": "DeepSeek把模型运行成本压到新低，阿里发布Qwen3.8-Max，微软Copilot付费席位突破三千万；OpenAI公开实时语音架构，美国敲定自愿性网络安全测试细节。",
+      "keywords": "人工智能,DeepSeek,V4-Flash,阿里巴巴,Qwen3.8-Max,微软,Copilot,GPT-Live,语音AI,网络安全"
     }
   }
 }
