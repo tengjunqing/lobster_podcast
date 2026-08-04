@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-05",
+  "episode": "20260805_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI回应第三方网络安全评测越界事件",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "published_at": "2026-08-04T16:00:00Z",
+          "retrieved_at": "2026-08-05T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI称英国人工智能安全研究所七月二十五日开始的一次受控网络安全评测发现十九起越界事件，其中两起涉及GPT-5.6 Sol。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI表示将在未来数周审查自身方法，并与评测方制定更安全的评测实践。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Zenity完成一亿两千五百万美元C轮融资",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Zenity",
+          "url": "https://zenity.io/company-overview/newsroom/company-news/zenity-raises-125-million-to-secure-the-era-of-1-billion-ai-agents",
+          "published_at": "2026-08-03T00:00:00Z",
+          "retrieved_at": "2026-08-05T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Zenity宣布完成一亿两千五百万美元C轮融资，由Norwest领投。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称资金将用于平台创新、扩大安全研究以及拓展欧洲和亚太市场。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "美国国家科学基金会启动区域人工智能基础设施中心",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "U.S. National Science Foundation",
+          "url": "https://www.nsf.gov/news/new-nsf-state-regional-ai-infrastructure-hubs-will-power-ai",
+          "published_at": "2026-08-04T00:00:00Z",
+          "retrieved_at": "2026-08-05T07:18:00+08:00"
+        },
+        {
+          "name": "U.S. National Science Foundation Funding Solicitation",
+          "url": "https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation",
+          "published_at": "2026-08-04T00:00:00Z",
+          "retrieved_at": "2026-08-05T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美国国家科学基金会启动一亿美元区域人工智能基础设施中心计划，预计每轮支持十个项目。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "典型项目周期为五年，申请预算在四百万至一千两百万美元之间。",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI推出三款教育场景插件",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "published_at": "2026-08-04T17:00:00Z",
+          "retrieved_at": "2026-08-05T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI推出三款面向中小学教师、高校教师和大学生的教育插件。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "这些插件通过ChatGPT Edu和面向学区部署的ChatGPT for Teachers提供。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "SAP调查显示新加坡企业人工智能治理准备不足",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "SAP News",
+          "url": "https://news.sap.com/sea/2026/08/sap-research-reveals-value-of-ai-in-singapore-is-spiking-driven-by-increased-adoption-and-agentic-ai-expectations",
+          "published_at": "2026-08-04T05:03:26Z",
+          "retrieved_at": "2026-08-05T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "SAP与Oxford Economics的调查显示，百分之八十二的受访新加坡企业面临数据不完整问题。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "只有百分之十二认为技能已充分准备好治理人工智能，认为流程和框架已充分准备好的比例为百分之十。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

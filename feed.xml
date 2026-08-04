@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 03 Aug 2026 23:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 23:08:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>代理进入真实工作流，安全边界与公共基础设施必须同步补齐</title>
+      <description>OpenAI回应网络安全评测越界事件，Zenity完成大额融资；美国启动区域AI基础设施中心。教育插件与新加坡企业调查显示，工具进入日常场景后，治理能力必须同步跟上。</description>
+      <pubDate>Tue, 04 Aug 2026 23:08:31 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260805_Morning_AINews.mp3" length="6900132" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260805_Morning_AINews.mp3</guid>
+      <itunes:duration>07:11</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,AI代理,OpenAI,网络安全,Zenity,人工智能治理,美国国家科学基金会,算力基础设施,教育插件,SAP</itunes:keywords>
+    </item>
     <item>
       <title>模型成本与企业席位同步增长，AI进入规模运营检验</title>
       <description>DeepSeek把模型运行成本压到新低，阿里发布Qwen3.8-Max，微软Copilot付费席位突破三千万；OpenAI公开实时语音架构，美国敲定自愿性网络安全测试细节。</description>
