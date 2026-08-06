@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-06",
+  "episode": "20260806_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google调整人工智能领导架构",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google官方博客",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "published_at": "2026-08-05T16:05:23Z",
+          "retrieved_at": "2026-08-05T23:04:20Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Demis Hassabis转任Google DeepMind董事长和Alphabet首席科学家，Koray Kavukcuoglu出任Google DeepMind高级副总裁并负责日常运营。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Jeff Dean与Sanjay Ghemawat将成立一家独立的公益公司，Google作为创始投资者和云合作伙伴继续合作。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google称Gemini应用月活跃用户超过9.5亿，Gemma模型下载量超过9亿次。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic组建Claude自研芯片团队",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05/",
+          "published_at": "2026-08-05T14:00:00Z",
+          "retrieved_at": "2026-08-05T23:04:22Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic确认组建内部团队，为Claude设计定制人工智能芯片，并招聘跨硬件和软件栈的工程师。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic未公布芯片计划时间表，并表示仍会使用亚马逊、Google、英伟达和AMD组成的多元硬件栈。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "英伟达自动驾驶模型开放商业使用",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "NVIDIA官方博客",
+          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+          "published_at": "2026-08-04T16:00:00Z",
+          "retrieved_at": "2026-08-05T23:04:26Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "NVIDIA Alpamayo 2 Super已可在OpenMDW-1.1许可下用于微调、衍生模型和商业再分发。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该模型规模是100亿参数Alpamayo 1和1.5的三倍，并能结合车辆前后左右摄像头信息。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Anaconda收购Enkrypt AI补齐代理安全",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anaconda官方博客",
+          "url": "https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai",
+          "published_at": "2026-08-04T16:00:00Z",
+          "retrieved_at": "2026-08-05T23:04:30Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anaconda宣布收购人工智能安全公司Enkrypt AI，将部署前红队测试、运行时护栏和合规审计整合进平台。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Enkrypt AI称其两个月内扫描了2.5万个MCP服务器，发现超过14.3万个漏洞，涉及73%的受检服务器；该数字来自被收购方自身数据。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Google质疑欧盟Android代理互操作措施",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google安全博客",
+          "url": "https://blog.google/security/android-ai-security-eu-dma/",
+          "published_at": "2026-08-05T16:00:00Z",
+          "retrieved_at": "2026-08-05T23:04:35Z"
+        },
+        {
+          "name": "欧盟委员会最终措施文件",
+          "url": "https://ec.europa.eu/competition/digital_markets_act/cases/202629/DMA_100220_2683.pdf",
+          "published_at": "2026-08-05T00:00:00Z",
+          "retrieved_at": "2026-08-05T23:04:35Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google表示，欧盟委员会依据《数字市场法》制定的最终措施要求Android向用户下载的人工智能代理开放更深层系统能力。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Google认为持续麦克风、摄像头和屏幕内容访问等能力需要更强资格审查；这是Google的风险判断，不是已经发生的安全事故。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

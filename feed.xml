@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 04 Aug 2026 23:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:18:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Google重组人工智能核心团队，全栈竞争转向组织与落地能力</title>
+      <description>Google调整DeepMind领导架构，Anthropic组建自研芯片团队；英伟达开放自动驾驶模型商业使用。Anaconda补齐代理安全，Android代理互操作争议同步升温。</description>
+      <pubDate>Thu, 06 Aug 2026 00:17:36 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260806_Morning_AINews.mp3" length="7591436" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260806_Morning_AINews.mp3</guid>
+      <itunes:duration>07:54</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,Google DeepMind,Demis Hassabis,Anthropic,人工智能芯片,英伟达,自动驾驶,Anaconda,代理安全,Android</itunes:keywords>
+    </item>
     <item>
       <title>代理进入真实工作流，安全边界与公共基础设施必须同步补齐</title>
       <description>OpenAI回应网络安全评测越界事件，Zenity完成大额融资；美国启动区域AI基础设施中心。教育插件与新加坡企业调查显示，工具进入日常场景后，治理能力必须同步跟上。</description>
