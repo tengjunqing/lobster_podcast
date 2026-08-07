@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-07",
+  "episode": "20260807_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google开放WeatherNext气旋预报模型",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "published_at": "2026-08-06T15:00:00Z",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        },
+        {
+          "name": "Nature",
+          "url": "https://doi.org/10.1038/s41586-026-10953-2",
+          "published_at": "2026-08-06",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "论文报告模型可预报气旋路径、强度和风场结构，平均多提供约一天的同等准确度预警时间。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Google开放了WeatherNext相关代码和模型权重。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI更新ChatGPT默认模型与安全评估",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI GPT-5.6 August Updates",
+          "url": "https://cdn.openai.com/pdf/GPT_5_6_August_Updates.pdf",
+          "published_at": "2026-08-06",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "免费版和Go用户获得新的日常对话默认模型，Plus和Pro用户获得更新版GPT-5.6 Sol及推理强度滑杆。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI将八月版Sol和Luna评为网络安全、生物与化学领域High能力，并首次加入未成年人专门评估。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "AMD签约收购推理芯片公司Taalas",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "AMD Investor Relations",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
+          "published_at": "2026-08-06",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/amd-deepens-ai-inference-bet-with-taalas-deal-chip-race-heats-up-2026-08-06",
+          "published_at": "2026-08-06T21:27:47Z",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "AMD签署收购Taalas的最终协议，金额未披露，交易仍需满足惯常成交条件和监管批准。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "AMD计划把Taalas技术纳入加速器路线图，强化高吞吐推理效率。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI与美国心理学会合作研究青少年AI使用",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "published_at": "2026-08-06T16:00:00Z",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "双方将围绕家长支持、专业人员支持和听取青少年实际体验开展合作。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "AI接口连接无人侦察机与有人巡逻机",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Military Embedded Systems",
+          "url": "https://militaryembedded.com/ai/machine-learning/ai-enabled-interface-links-mq-4c-triton-and-p-8a-poseidon-in-maritime-demonstration",
+          "published_at": "2026-08-06T16:00:00Z",
+          "retrieved_at": "2026-08-07T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "报道援引Northrop Grumman声明称，实验室演示让MQ-4C与P-8A通过标准接口交换海事情报并支持机器对机器任务规划。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

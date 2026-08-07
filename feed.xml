@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 06 Aug 2026 00:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 02:39:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI走进真实场景，可验证结果成为下一道门槛</title>
+      <description>Google开放气旋预报模型，OpenAI更新ChatGPT与青少年安全评估；AMD收购推理芯片公司。海上协同演示进一步显示，AI进入真实场景后，准确性、成本和责任都要接受检验。</description>
+      <pubDate>Fri, 07 Aug 2026 02:38:22 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260807_Morning_AINews.mp3" length="6756772" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260807_Morning_AINews.mp3</guid>
+      <itunes:duration>07:02</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,WeatherNext,气旋预报,OpenAI,GPT-5.6,青少年安全,AMD,Taalas,推理芯片,人机协同</itunes:keywords>
+    </item>
     <item>
       <title>Google重组人工智能核心团队，全栈竞争转向组织与落地能力</title>
       <description>Google调整DeepMind领导架构，Anthropic组建自研芯片团队；英伟达开放自动驾驶模型商业使用。Anaconda补齐代理安全，Android代理互操作争议同步升温。</description>
