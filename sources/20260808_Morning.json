@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-08",
+  "episode": "20260808_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI称Astra或达到关键级网络安全能力",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "published_at": "2026-08-07",
+          "retrieved_at": "2026-08-08T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI称初步评估尚不能排除Astra达到其准备框架中的关键级网络安全能力。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI暂停了尚未满足强化安全控制要求的Astra内部活动，并增加隔离测试、网络与工具访问限制、监控和沙箱执行。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Astra是尚未发布的模型，OpenAI明确表示它与此前Hugging Face事件无关。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic调整Fable 5生物安全分类器",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "published_at": "2026-08-07",
+          "retrieved_at": "2026-08-08T07:13:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Anthropic称更新后的分类器让生物相关请求触发模型回退的数量在其产品表面上减少约85%。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "高风险双重用途研究、生物专业研究和药物开发请求仍会被限制并回退到能力较低的Opus 5。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic预计全部原因造成的回退将分别在Claude.ai、Cowork、Claude Code和Claude Platform上减少约67%、55%、17%和7%。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI公布德国税务网络企业采用数据",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "published_at": "2026-08-07",
+          "retrieved_at": "2026-08-08T07:14:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI客户案例称，HSP GRUPPE与Kanzleipakt共享的ChatGPT Enterprise工作区覆盖81个组织群组。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "案例称周活跃使用率为84%，六个月产生超过50万次对话。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "98.6%的受访员工报告生产力提高，网络估算每年新增超过4万小时可用工作时间；这些数据来自公司客户案例。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Google在台湾区域启用安全运营平台",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google台湾官方博客",
+          "url": "https://blog.google/intl/zh-tw/products/cloud/security_operations_launch_in_taiwan_region",
+          "published_at": "2026-08-07",
+          "retrieved_at": "2026-08-08T07:15:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google Cloud宣布Google Security Operations在台湾云端区域启用。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google称区域化部署面向数据治理和数据落地需求，并以威胁情报与人工智能辅助安全运营。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Google展示Gemini Omni五个开发案例",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google官方博客",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders",
+          "published_at": "2026-08-07",
+          "retrieved_at": "2026-08-08T07:16:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google展示了五个使用Gemini Omni创建视频的开发案例。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Google称Gemini Omni可通过Gemini应用、Flow、Google AI Studio、Gemini API和Gemini Enterprise Agent Platform使用。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
