@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 07 Aug 2026 23:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 23:09:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>算力与入口同步下沉，人工智能竞争转向可持续扩张</title>
+      <description>亚美尼亚启用大型AI算力工厂，中国大陆部分Mac接入千问；生成式AI完成噬菌体设计。美国监管争论与开放模型许可变化显示，扩张速度正同时受到安全和商业规则约束。</description>
+      <pubDate>Sat, 08 Aug 2026 23:09:42 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260809_Morning_AINews.mp3" length="6746741" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260809_Morning_AINews.mp3</guid>
+      <itunes:duration>07:01</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,算力工厂,亚美尼亚,NVIDIA,Firebird,苹果,千问,生成式生物学,人工智能监管,开放模型</itunes:keywords>
+    </item>
     <item>
       <title>高能力模型进入真实工作流，安全控制成为部署门槛</title>
       <description>OpenAI称Astra或达到关键级网络安全能力，Anthropic减少生物查询误拦截；德国税务网络、Google台湾安全平台和视频开发案例显示，AI落地开始同时接受效果与控制检验。</description>
