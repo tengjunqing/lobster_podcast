@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-10",
+  "episode": "20260810_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "英伟达组建人工智能安全与防御团队",
+      "credibility": "B",
+      "sources": [
+        {"name": "Business Insider", "url": "https://www.businessinsider.com/nvidia-staffs-new-ai-safety-team-push-for-open-models-2026-8", "published_at": "2026-08-09", "retrieved_at": "2026-08-10T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "招聘信息显示团队包括创始技术负责人、安全研究工程师、评估工程师和高级经理。", "source_refs": [0]},
+        {"claim": "团队职责包括在部署前评估人工智能代理，并开发修补软件漏洞的人工智能工具。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI收购演示文稿初创公司NextSlide",
+      "credibility": "B",
+      "sources": [
+        {"name": "The Next Web", "url": "https://thenextweb.com/news/openai-nextslide-acquisition-office-suite-microsoft", "published_at": "2026-08-09", "retrieved_at": "2026-08-10T07:18:00+08:00"},
+        {"name": "Storyboard18", "url": "https://www.storyboard18.com/brand-marketing/openai-acquires-presentation-startup-nextslide-107155.htm", "published_at": "2026-08-09T10:41:01+05:30", "retrieved_at": "2026-08-10T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "NextSlide团队已加入OpenAI并参与ChatGPT相关工作，交易金额未披露。", "source_refs": [0, 1]},
+        {"claim": "NextSlide此前可把提示、笔记、文档和研究材料转为可编辑演示文稿。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "网络安全评测方将发布隔离实践白皮书",
+      "credibility": "B",
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html", "published_at": "2026-08-09T11:31:42Z", "retrieved_at": "2026-08-10T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "Irregular称相关事件源于同一评测环境问题，并计划发布安全运行网络评测的最佳实践白皮书。", "source_refs": [0]},
+        {"claim": "该公司称事件不涉及沙箱逃逸，当前没有未解决问题。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "多模态模型预测乳腺癌远期复发风险",
+      "credibility": "A",
+      "sources": [
+        {"name": "Caris Life Sciences正式新闻稿", "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-ecog-acrin-and-nrg-oncology-study", "published_at": "2026-08-06", "retrieved_at": "2026-08-10T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "研究使用病理图像与临床变量训练多模态模型，并在独立试验数据中验证。", "source_refs": [0]},
+        {"claim": "研究目标是预测激素受体阳性早期乳腺癌的远期远处复发风险。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "生成式人工智能参与证明埃尔哈特体积猜想等号情形",
+      "credibility": "A",
+      "sources": [
+        {"name": "arXiv论文", "url": "https://arxiv.org/abs/2608.01040", "published_at": "2026-08-07", "retrieved_at": "2026-08-10T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "论文声称解决埃尔哈特体积猜想的等号情形。", "source_refs": [0]},
+        {"claim": "论文注明主要结果由多套生成式人工智能系统参与获得，并经过人工验证。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

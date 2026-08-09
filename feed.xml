@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 08 Aug 2026 23:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:07:56 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能进入专业工作流，安全验证成为产品能力</title>
+      <description>英伟达组建AI安全团队，OpenAI收购演示工具团队；网络评测方将发布隔离白皮书。医疗与数学研究案例显示，AI进入专业流程后，结果验证与责任边界必须同步建立。</description>
+      <pubDate>Sun, 09 Aug 2026 23:07:35 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260810_Morning_AINews.mp3" length="5958052" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260810_Morning_AINews.mp3</guid>
+      <itunes:duration>06:12</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,英伟达,AI安全,开放模型,OpenAI,NextSlide,网络评测,医疗人工智能,数学研究,人工智能代理</itunes:keywords>
+    </item>
     <item>
       <title>算力与入口同步下沉，人工智能竞争转向可持续扩张</title>
       <description>亚美尼亚启用大型AI算力工厂，中国大陆部分Mac接入千问；生成式AI完成噬菌体设计。美国监管争论与开放模型许可变化显示，扩张速度正同时受到安全和商业规则约束。</description>
