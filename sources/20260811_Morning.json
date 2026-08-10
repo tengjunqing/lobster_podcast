@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-11",
+  "episode": "20260811_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI扩展Daybreak并推出GPT-5.6-Cyber",
+      "credibility": "A",
+      "sources": [{"name": "OpenAI", "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows", "published_at": "2026-08-10T10:00:00Z", "retrieved_at": "2026-08-11T07:08:00+08:00"}],
+      "key_facts": [
+        {"claim": "OpenAI将Daybreak分为Blue和Red两个访问层级，并为Red层级推出GPT-5.6-Cyber。", "source_refs": [0]},
+        {"claim": "OpenAI内部评测称GPT-5.6-Cyber完成95.0%的高级网络安全请求；该数字并非独立评测。", "source_refs": [0]},
+        {"claim": "访问仅面向获批个人和组织，并采用身份验证、账户安全、监控、用途限制和法律声明。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google为广告与分析平台加入代理式数据工具",
+      "credibility": "A",
+      "sources": [{"name": "Google", "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates", "published_at": "2026-08-10T14:31:52Z", "retrieved_at": "2026-08-11T07:08:00+08:00"}],
+      "key_facts": [
+        {"claim": "Google在Google Ads和Google Analytics中加入首页AI摘要、自然语言可视化报告和同类企业基准比较。", "source_refs": [0]},
+        {"claim": "Google Ads的新Dashboards可用文本提示生成报告，Google Analytics版本尚未推出；部分功能仅向英文账户提供测试版。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Zapier公布ChatGPT Work营销线索质检案例",
+      "credibility": "A",
+      "sources": [{"name": "OpenAI客户案例", "url": "https://openai.com/index/zapier", "published_at": "2026-08-10T22:00:00Z", "retrieved_at": "2026-08-11T07:08:00+08:00"}],
+      "key_facts": [
+        {"claim": "OpenAI客户案例称Zapier营销团队每月可自动质检数千条线索。", "source_refs": [0]},
+        {"claim": "Zapier称人工查看一条流失线索需35至45分钟，系统每月识别并修复的问题对应七位数美元销售管线；均为客户自述。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "q.beyond加速AI转型并下调全年业绩预期",
+      "credibility": "A",
+      "sources": [{"name": "q.beyond法定临时公告（EQS发布）", "url": "https://www.eqs-news.com/news/ad-hoc/q-beyond-accelerates-ai-transformation-and-adjusts-outlook-for-2026-financial-year/b075a3f7-40a8-406d-bd7d-259168fc4284_en", "published_at": "2026-08-10T07:29:00+02:00", "retrieved_at": "2026-08-11T07:08:00+08:00"}],
+      "key_facts": [
+        {"claim": "q.beyond预计AI转型在2026年产生约500万至600万欧元一次性费用，并涉及人员措施。", "source_refs": [0]},
+        {"claim": "公司把2026年收入预期下调至1.76亿至1.80亿欧元，并预计从2027年起每年节省约700万欧元；节省额属于前瞻预期。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Safe Pro称今年AI相关订单超过500万美元",
+      "credibility": "A",
+      "sources": [{"name": "Safe Pro Group公司公告（GlobeNewswire全文）", "url": "https://www.quiverquant.com/news/Safe+Pro+Group+Surpasses+%245+Million+in+2026+AI-Related+Orders+on+New+Government+Awards", "published_at": "2026-08-10T12:21:42Z", "retrieved_at": "2026-08-11T07:08:00+08:00"}],
+      "key_facts": [
+        {"claim": "Safe Pro称2026年AI相关订单合同总值超过500万美元，来自政府合同及8月新增分包。", "source_refs": [0]},
+        {"claim": "公司明确说明订单额可能尚未全部确认为收入。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
