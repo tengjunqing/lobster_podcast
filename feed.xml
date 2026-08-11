@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 10 Aug 2026 23:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:08:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>医疗AI走向实时交互，真实验证成为落地门槛</title>
+      <description>Google展示实时视频问诊研究系统，Abbott与Google Health合作研究代谢健康指导。零售企业设立AI负责人、职业培训新增自然语言编程，IBM与Together AI则加码推理基础设施。</description>
+      <pubDate>Tue, 11 Aug 2026 23:07:33 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260812_Morning_AINews.mp3" length="6723753" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260812_Morning_AINews.mp3</guid>
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,医疗AI,AMIE,Google,Abbott,代谢健康,Target,自然语言编程,IBM,AI推理</itunes:keywords>
+    </item>
     <item>
       <title>AI深入业务流程，权限与回报开始接受量化检验</title>
       <description>OpenAI推出网络安全专用模型并实行分级访问，Google把代理式分析带进广告平台。企业案例、转型费用和政府订单同时显示，AI落地正从能力展示转向权限、成本与真实回报的量化检验。</description>
