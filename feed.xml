@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 11 Aug 2026 23:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:29:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能代理走进真实任务，连接与控制成为新门槛</title>
+      <description>SpaceXAI发布Grok 4.6，强化长任务代理；Google扩展Gemini应用连接。代码审查融资、供应链试点与手表紧急检测显示，AI正进入更长、更真实也更高风险的工作流。</description>
+      <pubDate>Thu, 13 Aug 2026 00:28:58 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260813_Morning_AINews.mp3" length="6196288" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260813_Morning_AINews.mp3</guid>
+      <itunes:duration>06:27</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,Grok 4.6,智能代理,Gemini,应用连接,CodeRabbit,代码审查,供应链,Pixel Watch,人工智能安全</itunes:keywords>
+    </item>
     <item>
       <title>医疗AI走向实时交互，真实验证成为落地门槛</title>
       <description>Google展示实时视频问诊研究系统，Abbott与Google Health合作研究代谢健康指导。零售企业设立AI负责人、职业培训新增自然语言编程，IBM与Together AI则加码推理基础设施。</description>

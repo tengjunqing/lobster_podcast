@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-13",
+  "episode": "20260813_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "SpaceXAI发布Grok 4.6，强化长任务与代理能力",
+      "credibility": "A",
+      "sources": [{"name": "SpaceXAI", "url": "https://x.ai/news/grok-4-6", "published_at": "2026-08-12", "retrieved_at": "2026-08-13T07:08:00+08:00"}],
+      "key_facts": [
+        {"claim": "Grok 4.6面向长时间代理、交互式和视觉工作，并已在Cursor、Grok Build、API及合作平台上线。", "source_refs": [0]},
+        {"claim": "API起价为每百万输入token 2美元、每百万输出token 6美元，快速版本价格翻倍。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google为Gemini增加更多第三方应用连接",
+      "credibility": "A",
+      "sources": [{"name": "Google", "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026", "published_at": "2026-08-12", "retrieved_at": "2026-08-13T07:08:00+08:00"}],
+      "key_facts": [{"claim": "Google宣布未来数周为Gemini推出更多类别的连接应用，让用户在一个入口规划和执行任务。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "AI代码审查公司CodeRabbit融资1.43亿美元",
+      "credibility": "B",
+      "sources": [{"name": "Reuters via KELO-AM", "url": "https://kelo.com/2026/08/12/ai-code-review-platform-coderabbit-valued-at-1-5-billion-in-latest-funding-round", "published_at": "2026-08-12", "retrieved_at": "2026-08-13T07:08:00+08:00"}],
+      "key_facts": [{"claim": "CodeRabbit宣布融资1.43亿美元，投后估值15亿美元，本轮由Atomico和Smash Capital共同领投。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "美国推出Pax Silica人工智能供应链试点",
+      "credibility": "B",
+      "sources": [{"name": "PYMNTS", "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-aims-to-boost-trade-of-ai-related-goods-with-allies", "published_at": "2026-08-12", "retrieved_at": "2026-08-13T07:08:00+08:00"}],
+      "key_facts": [{"claim": "美国国务院寻求投入最多5000万美元，先与巴拿马港口和海关开发AI供应链凭证与溯源平台。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Pixel Watch推出呼吸紧急情况检测",
+      "credibility": "A",
+      "sources": [{"name": "Google", "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection", "published_at": "2026-08-12", "retrieved_at": "2026-08-13T07:08:00+08:00"}],
+      "key_facts": [{"claim": "该可选功能用人工智能分析心率、运动和海拔信号，在用户无反应时可自动联系紧急服务与紧急联系人；现已在若干欧洲国家的Pixel Watch 4和5提供。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    }
+  ]
+}
