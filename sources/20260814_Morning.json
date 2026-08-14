@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-14",
+  "episode": "20260814_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google发布Gemini 3.7 Flash",
+      "credibility": "A",
+      "sources": [{"name": "Google", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash", "published_at": "2026-08-13", "retrieved_at": "2026-08-14T07:12:00+08:00"}],
+      "key_facts": [
+        {"claim": "Gemini 3.7 Flash面向编程和代理工作流发布。", "source_refs": [0]},
+        {"claim": "Google公布的FrontierCode 1.1 Main成绩为43.6%，3.6 Flash为34.4%。", "source_refs": [0]},
+        {"claim": "2026年底前输入与输出价格分别为每百万词元0.75美元和3.75美元。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "IBM与OpenAI建立企业人工智能合作",
+      "credibility": "A",
+      "sources": [{"name": "IBM Newsroom", "url": "https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations", "published_at": "2026-08-13", "retrieved_at": "2026-08-14T07:13:00+08:00"}],
+      "key_facts": [
+        {"claim": "合作将把GPT-5.6等OpenAI模型纳入IBM Consulting的交付平台和资产。", "source_refs": [0]},
+        {"claim": "IBM将设立OpenAI专项团队，并培训数千名顾问和工程师。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Google Sheets推出自然语言小应用画布",
+      "credibility": "A",
+      "sources": [{"name": "Google", "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets", "published_at": "2026-08-13", "retrieved_at": "2026-08-14T07:14:00+08:00"}],
+      "key_facts": [
+        {"claim": "Sheets canvas可用自然语言把表格数据转为交互式小应用。", "source_refs": [0]},
+        {"claim": "功能已面向Google AI Pro和Ultra英语用户全球开放，并开始向部分Workspace套餐推出。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI任命新任首席营收官",
+      "credibility": "A",
+      "sources": [{"name": "OpenAI", "url": "https://openai.com/index/dali-rajic-chief-revenue-officer", "published_at": "2026-08-13", "retrieved_at": "2026-08-14T07:15:00+08:00"}],
+      "key_facts": [
+        {"claim": "Dali Rajic将出任OpenAI首席营收官，负责全球营收组织。", "source_refs": [0]},
+        {"claim": "OpenAI称其产品每周活跃用户超过10亿，企业客户超过200万家。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Pixel 11推出Magic Capture",
+      "credibility": "A",
+      "sources": [{"name": "Google", "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture", "published_at": "2026-08-13", "retrieved_at": "2026-08-14T07:16:00+08:00"}],
+      "key_facts": [
+        {"claim": "Magic Capture可在用户启动一次拍摄后自动捕捉照片和视频。", "source_refs": [0]},
+        {"claim": "一次典型拍摄会分析接近400帧，并可在用户选择加入后执行裁剪、拉直或去模糊。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
