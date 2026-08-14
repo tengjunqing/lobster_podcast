@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-15",
+  "episode": "20260815_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Z.ai发布GLM-5.3并为网络安全能力设置分级开放",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo Tech",
+          "url": "https://tech.yahoo.com/cybersecurity/articles/chinas-z-ai-says-model-101401746.html",
+          "published_at": "2026-08-14T10:14:16Z",
+          "retrieved_at": "2026-08-15T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Z.ai称GLM-5.3在CyberGym漏洞识别测试得分84.5%，但结果尚未独立验证。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称约两周后完成安全评估再公开发布，敏感网络安全能力只向验证用户开放。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI预览由Cerebras驱动的Ultrafast推理模式",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "published_at": "2026-08-13",
+          "retrieved_at": "2026-08-15T07:20:00+08:00"
+        },
+        {
+          "name": "Cerebras Investor Relations",
+          "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-powers-ultrafast-mode-openais-gpt-56-sol",
+          "published_at": "2026-08-13",
+          "retrieved_at": "2026-08-15T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "两家公司称GPT-5.6 Sol Ultrafast最高可达每秒750个输出词元，速度最高为标准处理的14倍。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "该模式目前只向少量客户提供有限预览，价格和全面开放时间未公布。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Pony.ai与Uber计划在欧洲部署超过两千辆自动驾驶出租车",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Pony.ai Investor Relations",
+          "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-expands-collaboration-uber-deploy-over-2000",
+          "published_at": "2026-08-14",
+          "retrieved_at": "2026-08-15T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "双方计划在欧洲部署超过两千辆自动驾驶出租车，从萨格勒布扩展至另外四座尚未公布的城市。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公告没有给出全部部署完成时间，具体安排将分阶段公布。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "美光创投设立两点五亿美元人工智能基金",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Micron Technology press release via HPCwire",
+          "url": "https://www.hpcwire.com/off-the-wire/micron-ventures-launches-250m-fund-to-invest-in-the-next-generation-of-ai",
+          "published_at": "2026-08-14",
+          "retrieved_at": "2026-08-15T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美光创投推出规模两点五亿美元的Paradigm Fund，是其迄今第三只也是最大的一只基金。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "基金计划覆盖模型架构、算力基础设施、企业应用和具身人工智能。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "LG与英伟达扩展具身人工智能合作并计划明年展示人形机器人",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10841656",
+          "published_at": "2026-08-14T14:30:51+09:00",
+          "retrieved_at": "2026-08-15T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "LG计划在二零二七年第一季度展示一款基于NVIDIA Isaac GR00T的人形机器人。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "双方还计划建设用于机器人训练和验证的具身人工智能数据工厂。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
