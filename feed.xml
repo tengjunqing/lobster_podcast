@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 23:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:10:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能进入兑现期，收入目标与真实交付接受检验</title>
+      <description>Anthropic上市估值据报押注二零二八年收入，英伟达缩减数据中心融资担保。HIVE财报、印度技能培训和人工智能制药合作显示，AI承诺正被拆成收入、交付与可验证结果。</description>
+      <pubDate>Sat, 15 Aug 2026 23:09:52 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260816_Morning_AINews.mp3" length="6562421" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260816_Morning_AINews.mp3</guid>
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,Anthropic,上市估值,英伟达,数据中心,HIVE,GPU云,印度技能培训,Aizen,人工智能制药</itunes:keywords>
+    </item>
     <item>
       <title>人工智能走出聊天框，速度、安全与部署开始同时受检</title>
       <description>Z.ai发布网络安全模型并设置分级开放，OpenAI预览超高速推理。自动驾驶、人工智能基金和人形机器人合作显示，AI竞争正从模型能力走向真实世界部署。</description>

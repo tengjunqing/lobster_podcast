@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-16",
+  "episode": "20260816_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic上市估值押注二零二八年收入预测",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "published_at": "2026-08-15T00:12:16Z",
+          "retrieved_at": "2026-08-16T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "路透社援引两名了解公司财务的人士称，Anthropic预计二零二八年收入约为一千九百亿至两千亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "报道指出，公司五月公开的收入年化运行率为四百七十亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic未立即回应路透社的置评请求，该预测不是公司正式公开指引。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "英伟达据报缩减俄亥俄数据中心融资担保",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters（转述Wall Street Journal报道）",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "published_at": "2026-08-14T23:44:05Z",
+          "retrieved_at": "2026-08-16T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "路透社转述《华尔街日报》称，英伟达缩减了对俄亥俄OpenAI数据中心项目原计划最高两千五百亿美元融资担保的承诺。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "报道说OpenAI仍在讨论为完整十吉瓦项目签署有约束力的租约。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "英伟达未立即回应，OpenAI拒绝置评。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "HIVE披露GPU云收入与合同年化规模",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "HIVE Digital Technologies季度业绩公告（Newsfile）",
+          "url": "https://www.newsfilecorp.com/release/309810/HIVE-Reports-Q1-2027-Revenue-of-79.1-Million-Contracted-GPU-Cloud-ARR1-Reaches-Approximately-110-million",
+          "published_at": "2026-08-15T15:58:00Z",
+          "retrieved_at": "2026-08-16T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "HIVE披露二零二七财年第一季度总收入七千九百一十万美元，同比增长百分之七十三点五。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "其中高性能计算业务收入七百一十万美元，同比增长百分之四十六点七。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称GPU云已签约年化经常性收入约一点一亿美元，但当前上线部分年化收入约三千五百万美元。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "印度宣布一年培训一千万名青年掌握AI技能",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "印度总理办公室独立日讲话要点",
+          "url": "https://www.pmindia.gov.in/en/news_updates/key-highlights-of-pms-address-from-the-ramparts-of-the-red-fort-on-the-occasion-of-the-80th-independence-day",
+          "published_at": "2026-08-15T00:00:00+05:30",
+          "retrieved_at": "2026-08-16T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "印度总理莫迪宣布，计划在未来一年培训一千万名青年掌握人工智能技能。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公告把这项目标归入印度技能发展与创业部相关工作。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Aizen签署人工智能口服多肽研发合作",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Aizen Therapeutics新闻稿（PR Newswire）",
+          "url": "https://www.prnewswire.com/news-releases/aizen-enters-into-collaboration-with-san-diego-biopharma-to-advance-oral-biologics-302848775.html",
+          "published_at": "2026-08-15T07:20:00-04:00",
+          "retrieved_at": "2026-08-16T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Aizen宣布与一家未具名的圣迭戈上市生物技术公司开展多项目合作，用DaX基础模型设计口服多肽疗法。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称协议包含数百万美元初始收入，每个获提名靶点的里程碑付款最高可达一亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "里程碑金额是附带条件的潜在付款，不等于已实现收入或药物获批。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
