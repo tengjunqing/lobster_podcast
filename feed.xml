@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 23:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:07:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能进入信任考场，交易、资本与监管都要证据</title>
+      <description>Anthropic首席执行官直面人工智能信任危机，Stripe收购OpenRouter据报接近落定。选举资金、得州数据中心争议和利率风险显示，AI承诺正接受公开证据检验。</description>
+      <pubDate>Sun, 16 Aug 2026 23:07:35 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260817_Morning_AINews.mp3" length="6406104" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260817_Morning_AINews.mp3</guid>
+      <itunes:duration>06:40</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,Anthropic,信任危机,Stripe,OpenRouter,模型网关,人工智能监管,数据中心,科技股,利率</itunes:keywords>
+    </item>
     <item>
       <title>人工智能进入兑现期，收入目标与真实交付接受检验</title>
       <description>Anthropic上市估值据报押注二零二八年收入，英伟达缩减数据中心融资担保。HIVE财报、印度技能培训和人工智能制药合作显示，AI承诺正被拆成收入、交付与可验证结果。</description>
