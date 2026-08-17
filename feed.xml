@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 16 Aug 2026 23:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:05:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>八吉瓦算力落地俄亥俄，人工智能竞争进入工程兑现期</title>
+      <description>OpenAI签约约八吉瓦数据中心容量，微软为Claude补齐代理工具。语音与视频公司大额融资、模型跨境合规争议显示，AI竞争正从能力展示转向基础设施、工作入口与规则兑现。</description>
+      <pubDate>Mon, 17 Aug 2026 23:05:08 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260818_Morning_AINews.mp3" length="7076928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260818_Morning_AINews.mp3</guid>
+      <itunes:duration>07:22</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,OpenAI,数据中心,俄亥俄,Microsoft Foundry,Claude,Wispr Flow,Canto,Higgsfield,模型合规</itunes:keywords>
+    </item>
     <item>
       <title>人工智能进入信任考场，交易、资本与监管都要证据</title>
       <description>Anthropic首席执行官直面人工智能信任危机，Stripe收购OpenRouter据报接近落定。选举资金、得州数据中心争议和利率风险显示，AI承诺正接受公开证据检验。</description>

@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-18",
+  "episode": "20260818_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI签约俄亥俄约八吉瓦数据中心容量",
+      "credibility": "A",
+      "sources": [{"name": "OpenAI", "url": "https://openai.com/index/openai-joins-ports-pike-project", "published_at": "2026-08-17", "retrieved_at": "2026-08-18T07:20:00+08:00"}],
+      "key_facts": [
+        {"claim": "OpenAI签署协议，在俄亥俄州PORTS-Pike技术园区获得约8吉瓦IT容量。", "source_refs": [0]},
+        {"claim": "项目合作方包括SB Energy、NVIDIA和美国能源部。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "微软Foundry为Claude增加五项代理能力",
+      "credibility": "A",
+      "sources": [{"name": "Microsoft Foundry Blog", "url": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry", "published_at": "2026-08-17", "retrieved_at": "2026-08-18T07:20:00+08:00"}],
+      "key_facts": [{"claim": "结构化输出、网页搜索、网页抓取、MCP连接器和工具搜索现已面向Microsoft Foundry托管的Claude模型提供。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Wispr Flow融资二点八亿美元并预览Canto",
+      "credibility": "A",
+      "sources": [{"name": "Wispr Flow", "url": "https://wisprflow.ai/post/series-b", "published_at": "2026-08-17", "retrieved_at": "2026-08-18T07:20:00+08:00"}],
+      "key_facts": [
+        {"claim": "Wispr Flow完成2.8亿美元B轮融资，估值20亿美元。", "source_refs": [0]},
+        {"claim": "公司累计融资3.61亿美元，并预览自研语音识别模型Canto。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Higgsfield融资四亿美元估值升至五十四亿美元",
+      "credibility": "B",
+      "sources": [{"name": "Reuters", "url": "https://www.reuters.com/business/media-telecom/higgsfields-valuation-soars-fourfold-54-billion-six-months-ai-content-demand-2026-08-17", "published_at": "2026-08-17", "retrieved_at": "2026-08-18T07:20:00+08:00"}],
+      "key_facts": [{"claim": "Higgsfield完成4亿美元融资，估值在约六个月内增至54亿美元。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "特朗普家族关联加密企业合作提供受限中国模型",
+      "credibility": "B",
+      "sources": [{"name": "Reuters", "url": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17", "published_at": "2026-08-17", "retrieved_at": "2026-08-18T07:20:00+08:00"}],
+      "key_facts": [
+        {"claim": "路透社报道，World Liberty Financial与香港企业WorldClaw合作，后者提供包括Z.ai、DeepSeek和Moonshot在内的中国模型。", "source_refs": [0]},
+        {"claim": "Z.ai被列入美国商务部实体清单，美国公司向其销售产品或服务通常需要申请出口许可。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
