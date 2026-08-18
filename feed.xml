@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 17 Aug 2026 23:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:09:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能走进生产环境，安全监控与人工复核成为硬成本</title>
+      <description>OpenAI因网络安全能力风险放慢前沿训练，Asana用Codex完成大型代码迁移。Etched交付推理机架，青少年版ChatGPT与企业代理实践显示，AI落地必须同时计算能力、控制与人工复核。</description>
+      <pubDate>Tue, 18 Aug 2026 23:08:54 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260819_Morning_AINews.mp3" length="6721245" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260819_Morning_AINews.mp3</guid>
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,OpenAI,网络安全,Astra,Codex,Asana,Etched,推理芯片,ChatGPT,智能代理</itunes:keywords>
+    </item>
     <item>
       <title>八吉瓦算力落地俄亥俄，人工智能竞争进入工程兑现期</title>
       <description>OpenAI签约约八吉瓦数据中心容量，微软为Claude补齐代理工具。语音与视频公司大额融资、模型跨境合规争议显示，AI竞争正从能力展示转向基础设施、工作入口与规则兑现。</description>

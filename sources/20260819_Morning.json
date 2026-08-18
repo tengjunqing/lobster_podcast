@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-19",
+  "episode": "20260819_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI因网络安全能力风险放慢前沿模型训练",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+          "published_at": "2026-08-18T11:00:00Z",
+          "retrieved_at": "2026-08-18T23:02:14Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI暂停了面向部署的新模型强化学习训练两周，最大规模的前沿强化学习训练仍处于暂停状态。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI称即将推出的Astra模型可能达到其准备框架中的关键网络安全能力门槛。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "新的监控系统估计增加约20%的被监控推理算力开销，并以30分钟内发出警报为目标。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Asana用Codex在两周内完成旧测试系统迁移",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI与Asana客户案例",
+          "url": "https://openai.com/index/asana/",
+          "published_at": "2026-08-18T11:00:00Z",
+          "retrieved_at": "2026-08-18T23:02:19Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Asana称其在两个日历周内移除了旧测试工具Enzyme，此前内部计划估计至少需要五年。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该项目的模型和基础设施成本约为1.2万美元，而旧人员配置方案估算约为600万美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "最多四个编码代理并行工作，工程师每天检查两次进度并审查每一项变更。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Etched融资七亿美元并交付首套推理机架",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Etched",
+          "url": "https://www.etched.com/progress/from-zero-to-one",
+          "published_at": "2026-08-18T15:00:00Z",
+          "retrieved_at": "2026-08-18T23:04:00Z"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
+          "published_at": "2026-08-18T15:13:25Z",
+          "retrieved_at": "2026-08-18T23:01:00Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Etched宣布以210亿美元估值融资7亿美元，由Jane Street领投。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "Etched称已向首位客户Jane Street交付第一套机架，Jane Street正在把设备用于实际工作负载。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "路透社报道，Etched称已获得超过10亿美元客户合同。",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI推出面向青少年的独立ChatGPT体验",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+          "published_at": "2026-08-18T11:00:00Z",
+          "retrieved_at": "2026-08-18T23:03:00Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI宣布ChatGPT for Teens；系统估计用户未满18岁，或用户自报13至17岁时，会自动进入该体验。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该版本增加青少年内置保护和家长控制，定位为帮助学习与批判性思考。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "IMA称九成五以上员工每天使用人工智能",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "IMA Financial Group",
+          "url": "http://imacorp.com/ima-financial-group-reaches-enterprise-wide-ai-adoption-powered-by-associates",
+          "published_at": "2026-08-18T12:00:00Z",
+          "retrieved_at": "2026-08-18T23:02:28Z"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "IMA称其3000多名员工中超过95%每天使用人工智能。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公司称已部署数千个代理工作流，用于研究、分析、文档比较和流程自动化。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
