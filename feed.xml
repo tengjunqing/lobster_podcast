@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 23:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:10:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能进入规模化考场，隐私、算力与信任必须同时交付</title>
+      <description>OpenAI预览兼容零数据保留的安全处理，CFTC开始研究算力衍生品。欧洲数据中心迁移、美国公众就业忧虑与伪装软件攻击显示，AI规模化必须同时解决隐私、成本和信任。</description>
+      <pubDate>Wed, 19 Aug 2026 23:10:24 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260820_Morning_AINews.mp3" length="7320181" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260820_Morning_AINews.mp3</guid>
+      <itunes:duration>07:37</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,OpenAI,零数据保留,隐私安全,算力衍生品,CFTC,数据中心,就业影响,皮尤调查,恶意软件</itunes:keywords>
+    </item>
     <item>
       <title>人工智能走进生产环境，安全监控与人工复核成为硬成本</title>
       <description>OpenAI因网络安全能力风险放慢前沿训练，Asana用Codex完成大型代码迁移。Etched交付推理机架，青少年版ChatGPT与企业代理实践显示，AI落地必须同时计算能力、控制与人工复核。</description>

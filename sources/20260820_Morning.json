@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-20",
+  "episode": "20260820_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI预览兼容零数据保留的私密安全处理",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "published_at": "2026-08-19T00:00:00Z",
+          "retrieved_at": "2026-08-20T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI预览Private Safety Processing，目标是在零数据保留部署中分析跨多次交互与代理任务的风险，同时不向OpenAI提供客户内容。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI计划在2026年9月开始推出该能力并发布技术白皮书。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "被标记为可能涉及儿童性虐待材料的图像仍会因法定义务保留并接受人工审查。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "美国商品期货交易委员会就算力衍生品征求意见",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "U.S. Commodity Futures Trading Commission",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9286-26",
+          "published_at": "2026-08-19T00:00:00-04:00",
+          "retrieved_at": "2026-08-20T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "CFTC就以算力为标的的衍生品合约征求公众意见，议题包括现货市场规模与流动性、市场操纵、客户保护和永续算力期货。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "意见期为相关文件在《联邦公报》发布后60天。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "欧洲人工智能数据中心向城市外围迁移",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/europe-ai-data-centres-seek-cheaper-quicker-energy-land-2026-08-19",
+          "published_at": "2026-08-19T10:01:57Z",
+          "retrieved_at": "2026-08-20T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "路透社援引JLL数据称，2026至2028年欧洲计划中的超大规模数据中心距离主要枢纽平均175公里，而2022至2025年已交付项目平均为46公里。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "欧洲未来项目中绿地项目占39%，已交付项目中这一比例为8%；迁移与电力、土地和并网速度有关。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "皮尤调查显示美国年轻人对人工智能就业影响更担忧",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Pew Research Center",
+          "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "retrieved_at": "2026-08-20T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "皮尤在2026年6月22日至28日调查3488名美国成年人，52%对日常生活中增加使用人工智能更担忧而非更兴奋。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "71%的受访者认为未来20年人工智能会让美国岗位减少；18至29岁受访者中该比例为73%，高于2024年的61%。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "伪装成Gemini安装程序的恶意软件窃取信息",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Darktrace Threat Research",
+          "url": "https://www.darktrace.com/blog/when-ai-becomes-the-lure-a-fake-gemini-installer-delivers-vidar",
+          "published_at": "2026-08-19T00:00:00Z",
+          "retrieved_at": "2026-08-20T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Darktrace披露一起客户环境事件：用户下载伪装成Google Gemini安装程序的可执行文件后感染Vidar信息窃取木马。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Darktrace称在2026年7月15日复核时，相关Google Colab页面仍在引导用户下载包含恶意二进制文件的压缩包。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
