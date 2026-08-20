@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 23:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:12:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能深入专业工作流，可信交付成为规模化门槛</title>
+      <description>汤森路透推出新一代法律智能体，Stampli用Codex压缩上线工时。Gemma十亿下载、Google内容控制与Sysco治理调整显示，AI价值正从生成能力转向可核查的完整交付。</description>
+      <pubDate>Thu, 20 Aug 2026 23:11:53 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260821_Morning_AINews.mp3" length="7575972" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260821_Morning_AINews.mp3</guid>
+      <itunes:duration>07:53</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,CoCounsel,法律科技,Codex,Stampli,Gemma,开放模型,Google搜索,内容个性化,Sysco</itunes:keywords>
+    </item>
     <item>
       <title>人工智能进入规模化考场，隐私、算力与信任必须同时交付</title>
       <description>OpenAI预览兼容零数据保留的安全处理，CFTC开始研究算力衍生品。欧洲数据中心迁移、美国公众就业忧虑与伪装软件攻击显示，AI规模化必须同时解决隐私、成本和信任。</description>

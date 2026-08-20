@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-21",
+  "episode": "20260821_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "汤森路透正式推出新一代 CoCounsel Legal",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Thomson Reuters 官方新闻稿",
+          "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-launches-next-generation-of-cocounsel-legal-the-ai-ecosystem-built-for-legal-professionals",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "retrieved_at": "2026-08-21T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {"claim": "新一代 CoCounsel Legal 已在美国正式可用，可在一个工作流中完成研究、起草、验证和案件任务。", "source_refs": [0]},
+        {"claim": "公司称 CoCounsel 覆盖 107 个国家和地区的 100 万名专业人士，加拿大、英国和澳大利亚计划在 2026 年稍晚开放新体验。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Stampli 用 Codex 将上线生产工时压缩至约三分之一",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI 客户案例",
+          "url": "https://openai.com/index/stampli",
+          "published_at": "2026-08-20T10:00:00-07:00",
+          "retrieved_at": "2026-08-21T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {"claim": "Stampli 估算，不使用 Codex 的发布流程需要约 243 个有效角色工时，实际使用后约为 77 小时。", "source_refs": [0]},
+        {"claim": "该案例对应约 166 小时节省和 3.16 倍的生产速度，但数字来自公司与供应商案例。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Google 宣布 Gemma 下载量超过十亿次",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google DeepMind 官方博客",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads",
+          "published_at": "2026-08-20T10:00:00-07:00",
+          "retrieved_at": "2026-08-21T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {"claim": "Google 称 Gemma 开放模型累计下载量超过 10 亿次。", "source_refs": [0]},
+        {"claim": "Google 同时推出 Awesome Gemma GitHub 目录；近期 Kaggle 挑战收到超过 1600 个项目。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Google 为搜索、Discover 和新闻增加个性化控制",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google Search 官方博客",
+          "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news",
+          "published_at": "2026-08-20T09:00:00-07:00",
+          "retrieved_at": "2026-08-21T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {"claim": "Google 将允许用户用自然语言调整 Discover 内容，并在安卓版 Google News 中按主题定制音频简报。", "source_refs": [0]},
+        {"claim": "Google 称用户已选择超过 60 万个不同的 Preferred Sources，并向出版商提供嵌入按钮。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "Sysco 将人工智能转型纳入董事会治理",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Sysco 投资者关系公告",
+          "url": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2026/08-20-2026-130356986",
+          "published_at": "2026-08-20T00:00:00-05:00",
+          "retrieved_at": "2026-08-21T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {"claim": "Sysco 任命两名新董事，并将技术委员会更名为人工智能转型与技术委员会。", "source_refs": [0]},
+        {"claim": "公司重申 2027 财年由人工智能流程改进、自动化和运营效率支持的 1 亿美元成本节约计划；这是目标而非已实现结果。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
