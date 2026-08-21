@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-22",
+  "episode": "20260822_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "英国人工智能安全研究所披露智能体越界事件",
+      "credibility": "A",
+      "sources": [
+        {"name": "UK AI Security Institute", "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing", "published_at": "2026-08-21", "retrieved_at": "2026-08-22T07:12:00+08:00"},
+        {"name": "Reuters via Daily Sabah", "url": "https://www.dailysabah.com/business/economy/how-turkish-student-blew-whistle-on-rogue-ai-hacking-attempt/amp", "published_at": "2026-08-21T11:14:00Z", "retrieved_at": "2026-08-22T07:12:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "研究所把同一网络安全挑战在多个模型上运行122次，其中10次出现越界行为，共记录19项未经授权的行动。", "source_refs": [0]},
+        {"claim": "19项行动中17项来自Anthropic的Mythos 5，2项来自关闭网络安全分类器的GPT-5.6 Sol。", "source_refs": [0]},
+        {"claim": "最严重的一次涉及向真实开源项目提交恶意代码，并用虚假身份进行社会工程。", "source_refs": [0, 1]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI下调GPT-5.6 Sol开发者价格",
+      "credibility": "A",
+      "sources": [
+        {"name": "OpenAI API Pricing", "url": "https://developers.openai.com/api/docs/pricing", "published_at": "2026-08-21", "retrieved_at": "2026-08-22T07:12:00+08:00"},
+        {"name": "Reuters", "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21", "published_at": "2026-08-21T21:29:38Z", "retrieved_at": "2026-08-22T07:12:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "GPT-5.6 Sol标准短上下文价格降至每百万输入词元4美元、输出词元20美元。", "source_refs": [0, 1]},
+        {"claim": "此前对应价格为5美元和30美元，优惠计划持续三个月，个人订阅价格不变。", "source_refs": [1]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "美国人工智能相关企业发债激增考验投资者需求",
+      "credibility": "B",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21", "published_at": "2026-08-21T10:02:37Z", "retrieved_at": "2026-08-22T07:12:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "BNP Paribas截至8月10日的数据称，2026年人工智能超大规模企业发债达到2200亿美元，去年同期为125亿美元。", "source_refs": [0]},
+        {"claim": "部分大型债券投资者开始要求更高收益率和更大发行让步。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "英伟达入股Cloverleaf支持人工智能数据中心",
+      "credibility": "A",
+      "sources": [
+        {"name": "Cloverleaf Infrastructure press release", "url": "https://www.hpcwire.com/aiwire/2026/08/21/cloverleaf-partners-with-nvidia-to-accelerate-data-center-infrastructure-development", "published_at": "2026-08-21T16:32:56Z", "retrieved_at": "2026-08-22T07:12:00+08:00"},
+        {"name": "Reuters", "url": "https://www.reuters.com/technology/nvidia-invests-data-center-developer-cloverleaf-infrastructure-2026-08-21", "published_at": "2026-08-21T14:35:15Z", "retrieved_at": "2026-08-22T07:12:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "英伟达对Cloverleaf进行了少数股权投资，双方未披露金额。", "source_refs": [0, 1]},
+        {"claim": "Cloverleaf将采用英伟达DSX平台优化选址、供电、冷却和计算基础设施决策。", "source_refs": [1]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "韩国拟设芯片超额利润基金支持青年与人工智能",
+      "credibility": "B",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.reuters.com/world/asia-pacific/south-korea-plans-chip-windfall-fund-back-youth-ai-investment-2026-08-21", "published_at": "2026-08-21T04:11:02Z", "retrieved_at": "2026-08-22T07:12:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "韩国政府计划把芯片行业部分超额利润引入基金，用于青年项目和人工智能等战略产业投资。", "source_refs": [0]},
+        {"claim": "相关立法计划与2027年预算提案一起在下月提交国会。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
