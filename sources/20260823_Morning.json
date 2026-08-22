@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-23",
+  "episode": "20260823_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "皮尤研究测量网页中的人工智能写作痕迹",
+      "credibility": "A",
+      "sources": [
+        {"name": "Pew Research Center", "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai", "published_at": "2026-08-20", "retrieved_at": "2026-08-23T07:18:00+08:00"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds", "published_at": "2026-08-20", "retrieved_at": "2026-08-23T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "皮尤研究在2026年7月随机抽取1万个英文网页，其中约10%显示显著的AI创作痕迹。", "source_refs": [0, 1]},
+        {"claim": "在带日期且发布于ChatGPT问世之后的网页子样本中，这一比例为35%。", "source_refs": [0, 1]},
+        {"claim": "研究使用Common Crawl中近50万个网页和Pangram检测模型，作者强调检测器不适合判定单篇文本的作者身份。", "source_refs": [0, 1]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "荣耀人形机器人百米测试跑出九点三二秒",
+      "credibility": "B",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.reuters.com/sports/chinese-humanoid-robot-lightning-beats-human-100m-world-record-state-media-says-2026-08-22", "published_at": "2026-08-22", "retrieved_at": "2026-08-23T07:18:00+08:00"},
+        {"name": "The Guardian", "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record", "published_at": "2026-08-22", "retrieved_at": "2026-08-23T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "据中国中央电视台报道，荣耀研发的闪电人形机器人在赛前测试中用9.32秒跑完100米，峰值速度14.5米每秒。", "source_refs": [0, 1]},
+        {"claim": "这是世界人形机器人运动会前的测试成绩，不是人类田径赛事认可的世界纪录。", "source_refs": [0, 1]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "英伟达人工智能服务器据报面临涨价",
+      "credibility": "C",
+      "sources": [
+        {"name": "Reuters citing Bloomberg News", "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22", "published_at": "2026-08-22T19:21:09Z", "retrieved_at": "2026-08-23T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "彭博据匿名知情人士称，部分英伟达大型客户被告知，含AI芯片的服务器价格在许多配置中可能上涨超过15%。", "source_refs": [0]},
+        {"claim": "报道指涨价可能影响明年初交付的Vera Rubin和Grace Blackwell系统；路透社称无法独立核实。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "企业人工智能投入尚未普遍转化为生产率",
+      "credibility": "A",
+      "sources": [
+        {"name": "Federal Reserve Bank of Atlanta Working Paper 2026-4", "url": "https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research/publication/working-paper/2026/03/25/04-artificial-intelligence-productivity-and-the-workforce-evidence-from-corporate-executives.pdf", "published_at": "2026-03-25", "retrieved_at": "2026-08-23T07:18:00+08:00"},
+        {"name": "Fortune and The Conversation", "url": "https://fortune.com/2026/08/22/executives-ai-productivity-layoffs-study", "published_at": "2026-08-22T11:11:00-04:00", "retrieved_at": "2026-08-23T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "亚特兰大联储工作论文调查近750名企业高管，多数受访者尚未观察到AI对本企业生产率或就业的明显影响。", "source_refs": [0]},
+        {"claim": "8月22日刊发的分析认为，员工对AI的态度和参与度比管理层的乐观表态更能解释生产率收益。", "source_refs": [1]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "坦桑尼亚研究机构加入全球人工智能能力网络",
+      "credibility": "B",
+      "sources": [
+        {"name": "The Citizen Tanzania", "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-enters-global-ai-network-to-drive-digital-transformation-5567548", "published_at": "2026-08-22", "retrieved_at": "2026-08-23T07:18:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "坦桑尼亚尼尔森·曼德拉非洲科技学院副校长称，该校已加入全球AI能力发展网络。", "source_refs": [0]},
+        {"claim": "报道指该校是坦桑尼亚唯一入选机构，网络重点包括AI基础、赋能条件、能力建设和开放科学。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
