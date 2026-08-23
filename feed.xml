@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 22 Aug 2026 23:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:13:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能进入高风险流程，披露与原始记录成为新底线</title>
+      <description>加州要求州律师考试披露AI生成内容，怀俄明警局测试AI报告。阿里巴巴融资、科研云实验室与多智能体从众研究显示，扩张能力的同时必须保留可核查记录。</description>
+      <pubDate>Sun, 23 Aug 2026 23:12:43 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260824_Morning_AINews.mp3" length="7680879" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260824_Morning_AINews.mp3</guid>
+      <itunes:duration>08:00</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,加州律师考试,内容披露,警察报告,阿里巴巴,人工智能融资,云实验室,多智能体,多数意见,审计记录</itunes:keywords>
+    </item>
     <item>
       <title>人工智能走出演示场，真实世界开始给能力标价</title>
       <description>皮尤测量网页中的AI写作痕迹，荣耀机器人刷新百米测试速度。服务器涨价传闻、企业生产率研究与坦桑尼亚能力网络显示，AI价值正接受真实性、成本和普及程度的共同检验。</description>

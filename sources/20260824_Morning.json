@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-24",
+  "episode": "20260824_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "加州要求州律师考试披露人工智能生成内容",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "California Legislative Information - AB 1651 bill text",
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1651",
+          "published_at": "2026-08-22",
+          "retrieved_at": "2026-08-24T07:18:00+08:00"
+        },
+        {
+          "name": "Office of Governor Gavin Newsom - legislation signed 8.22.2026",
+          "url": "https://www.gov.ca.gov/2026/08/22/governor-newsom-signs-legislation-8-22-2026/",
+          "published_at": "2026-08-22",
+          "retrieved_at": "2026-08-24T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "加州州长于2026年8月22日签署AB 1651，法案主题为加州州律师协会使用人工智能。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "法案要求州律师协会披露由其开发或明确指示开发的律师考试及学习材料中使用的人工智能生成内容，即使内容经过人工修改或审核也要披露。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "考试内容的相关披露须在使用该内容的考试前60天发布在州律师协会网站上。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "怀俄明州多地警局测试人工智能生成报告",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Cowboy State Daily",
+          "url": "https://cowboystatedaily.com/2026/08/23/wyoming-police-departments-test-using-ai-to-generate-reports-look-at-evidence/",
+          "published_at": "2026-08-23T12:32:00-06:00",
+          "retrieved_at": "2026-08-24T07:16:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "报道指出，Casper、Evanston和Sheridan的警局正在分别测试叙述执法记录仪视频、转录访谈或起草警察报告的人工智能工具。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Evanston警局正在测试Code Four，生成的叙述由警员复核、纠正并签字；该局尚未购买该产品。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "报道指出，怀俄明州目前没有专门要求保存人工智能原始报告或在成稿中披露机器参与的法律。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "阿里巴巴计划配售约八百亿港元股票投入人工智能",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/alibaba-launches-10-billion-hong-kong-share-placement-to-fund-ai-spending-93CH-4209603",
+          "published_at": "2026-08-23T04:47:00Z",
+          "retrieved_at": "2026-08-24T07:12:00+08:00"
+        },
+        {
+          "name": "The Edge Malaysia",
+          "url": "https://theedgemalaysia.com/node/815531",
+          "published_at": "2026-08-23",
+          "retrieved_at": "2026-08-24T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "阿里巴巴计划配售七亿一千万股普通股，每股作价一百一十二点七港元，募资规模约八百亿港元。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "公司表示拟将净收益全部投入全栈人工智能能力，包括芯片、基础设施以及模型开发和部署。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "配售价较此前收盘价折让约百分之三点六。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "加州大学圣塔芭芭拉分校获人工智能云实验室资助",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Santa Barbara News-Press",
+          "url": "https://www.newspress.com/2026/08/23/ucsb-receives-four-year-federal-grant-for-artificial-intelligence-cloud-laboratory/",
+          "published_at": "2026-08-23T18:08:05Z",
+          "retrieved_at": "2026-08-24T07:16:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美国国家科学基金会提供四年两千万美元资助，在该校OASIS设施建设可远程访问的人工智能可编程云实验室。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "申请者需要经过审核，远程使用资格限于美国机构。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "研究发现多智能体会自发跟随多数意见",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Science Advances - AI agents can coordinate via majority-following beyond human scale",
+          "url": "https://doi.org/10.1126/sciadv.aea6091",
+          "published_at": "2026",
+          "retrieved_at": "2026-08-24T07:20:00+08:00"
+        },
+        {
+          "name": "PsyPost",
+          "url": "https://www.psypost.org/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/",
+          "published_at": "2026-08-23T13:00:18Z",
+          "retrieved_at": "2026-08-24T07:20:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "论文实验让GPT、Claude和Llama系列模型组成群体，在没有要求达成一致的情况下反复选择两个中性选项。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "报道对论文结果的总结显示，GPT-4 Turbo和Claude 3 Opus的实验群体最终全部达成一致，而GPT-3.5 Turbo没有在实验中形成共识。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "两项关于错误答案与不安全价值趋同的后续研究仍是预印本，尚未同行评审。",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
