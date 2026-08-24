@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 23 Aug 2026 23:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:11:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>数据中心学会配合电网，人工智能扩张进入系统优化期</title>
+      <description>加州大学圣迭戈分校测试新型数据中心供电架构。Google Cloud与Verizon合作、AWS扩展分布式计算、斯坦福数据压缩工具和联合国公平警告显示，AI规模化需要同时优化电力、算力、数据与治理。</description>
+      <pubDate>Mon, 24 Aug 2026 23:10:51 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260825_Morning_AINews.mp3" length="6931061" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260825_Morning_AINews.mp3</guid>
+      <itunes:duration>07:13</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,数据中心,电力系统,加州能源委员会,Google Cloud,Verizon,AWS,Ray,数据压缩,算法公平</itunes:keywords>
+    </item>
     <item>
       <title>人工智能进入高风险流程，披露与原始记录成为新底线</title>
       <description>加州要求州律师考试披露AI生成内容，怀俄明警局测试AI报告。阿里巴巴融资、科研云实验室与多智能体从众研究显示，扩张能力的同时必须保留可核查记录。</description>

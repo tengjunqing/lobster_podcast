@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-25",
+  "episode": "20260825_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "加州大学圣迭戈分校测试人工智能数据中心新型供电架构",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "UC San Diego Today",
+          "url": "https://today.ucsd.edu/story/uc-san-diego-to-test-innovative-power-technology-for-ai-data-centers",
+          "published_at": "2026-08-24T14:57:32Z",
+          "retrieved_at": "2026-08-25T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "项目获得加州能源委员会848万美元资助，将在圣迭戈超级计算中心测试新型供电架构。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "项目目标是服务2兆瓦人工智能计算负载，将供电设备占地缩小超过50%，预计节能约25%。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "系统将中压交流电直接转换为800伏直流电，并用软件调节可延后的计算任务。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google Cloud与Verizon扩大企业人工智能合作",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google Cloud Press Corner",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnlZcHctY2lOakN4YXVGM3dHb2VqY1hzenZMbUREZ2tBNmZ0OHZwRV9HZ1FzcFVMZGZYLWwzZEJSdjJ2NU1MQXR2Zi16WDk0Tm1WZEdmZkM1YXJWc1VvbmdzZGVmV1YwTHpXLUpvalJuQW5pUGZtZ3dNQXZvNUJXbENQLVFEZnlKbE4tdEVFUkVUSDB5TktkTmh4aEhZNW1QLUhXTm9IbmI0aFpHejBVMzdnMm1sWFNGUDlUZlhBYVdyMGZQdUxQZ2x3?oc=5",
+          "published_at": "2026-08-24T13:05:22Z",
+          "retrieved_at": "2026-08-25T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google Cloud正式宣布与Verizon建立战略合作，以扩大企业人工智能和基础设施部署。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "AWS为SageMaker HyperPod增加Ray能力",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Amazon Web Services",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUFRcGZCbUdsdmJGNkU2TzUxNkJVbEY5cWxnOVVwWUl5VjhfRG1nOXhrNG5BeWw4RUstaGpVYU05dzl4LVBCWTNQMHMyTF9sUzl3WGpOLWJKRDVDamEtcDhMcFI0UkthX3U1OVNfNFBZNmxQb3FLNlAxTmNyb1RPNHBvU3ZwcGo3ZmRZaVhZajItRFBvRVA0dFItMl9KWHpOUkRj?oc=5",
+          "published_at": "2026-08-24T19:32:14Z",
+          "retrieved_at": "2026-08-25T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "AWS宣布为SageMaker HyperPod加入新的Ray能力。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "斯坦福发布保留关键信息的数据压缩人工智能工具",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Stanford Report",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWZqaDB0b3c2MGZHbWVoRFdVUk5QamhLcEVCLUJSR0kwUlhHSXpJRHQ5Yjl0cFV4c2JWNmswdDdrcldQWmZOS0FhZFdBLU1UOWxmU2x4Tlc5cVBhRi1PTUNENGE2RHl0X2QxbTRhc0lUUDFGX1JVbHdwY1dnZHdnQmRXNW5LVEVvZnIzMWZkUFk?oc=5",
+          "published_at": "2026-08-24T18:57:04Z",
+          "retrieved_at": "2026-08-25T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "斯坦福大学宣布一项新的人工智能数据压缩工具，目标是在压缩数据时保留关键信息。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "联合国呼吁在人工智能发展中主动纠正既有歧视",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "United Nations Sustainable Development Group",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG5nQm5EWnJCMjk5RjRVWjVrREdQenVDUnhhc01rT0RQampiTXpUalREa3otam9RRjFZLVh1dkJrb2tuSTJqd3k1b3ZxMXcwTW5pZEZWVFUtVDFLMXRtM0stSDV1emVKdzFwTzZzMWtnZnN5czAyWFdaU0tZdVdibEk3dGlmR0otRDJkaTZEalpSXzRYYnpxSDAtWnRFRlgwNm5JZWtTUWxyTjJDTjhmR0VvZEFSUUww?oc=5",
+          "published_at": "2026-08-24T19:23:49Z",
+          "retrieved_at": "2026-08-25T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "联合国常务副秘书长在人工智能与人类发展区域会议上警告，如果不主动纠正，人工智能会让旧有歧视获得新的速度和权威。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
