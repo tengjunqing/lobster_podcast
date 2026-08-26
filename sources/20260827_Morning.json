@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-27",
+  "episode": "20260827_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "英伟达季度营收同比增长百分之一百零六",
+      "credibility": "A",
+      "sources": [{"name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027", "published_at": "2026-08-26T20:25:18Z", "retrieved_at": "2026-08-27T07:22:00+08:00"}],
+      "key_facts": [
+        {"claim": "英伟达二零二七财年第二季度营收九百六十二亿美元，同比增长百分之一百零六。", "source_refs": [0]},
+        {"claim": "数据中心营收八百九十亿美元，同比增长百分之一百一十七；公司预计下一季度营收一千零八十亿美元，上下浮动百分之二。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "AWS开放跨智能体框架评估能力",
+      "credibility": "A",
+      "sources": [{"name": "Amazon Web Services", "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/", "published_at": "2026-08-26T19:13:35Z", "retrieved_at": "2026-08-27T07:22:00+08:00"}],
+      "key_facts": [
+        {"claim": "Amazon Bedrock AgentCore Evaluations可评估不同框架构建的智能体。", "source_refs": [0]},
+        {"claim": "AWS示例覆盖OpenAI Agents SDK、Google ADK、LlamaIndex和Claude Agent SDK，并使用相同的内置与自定义评估器。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "美国国家科学基金会资助MESA科研数据平台",
+      "credibility": "A",
+      "sources": [{"name": "University of Arizona News", "url": "https://news.arizona.edu/news/nsf-awards-46m-ai-platform-speeding-scientific-discovery", "published_at": "2026-08-26T18:27:16Z", "retrieved_at": "2026-08-27T07:22:00+08:00"}],
+      "key_facts": [
+        {"claim": "亚利桑那大学和新墨西哥大学获得美国国家科学基金会四百六十万美元资助，开发MESA科研数据平台。", "source_refs": [0]},
+        {"claim": "亚利桑那大学将在两年内获得二百一十万美元，开发用户界面和云端存储；原型数据覆盖环境科学、黑洞分析和下一代移动网络。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Anthropic支持独立研究Claude实际使用方式",
+      "credibility": "A",
+      "sources": [{"name": "Anthropic", "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5", "published_at": "2026-08-26T17:07:12Z", "retrieved_at": "2026-08-27T07:22:00+08:00"}],
+      "key_facts": [{"claim": "Anthropic宣布支持独立研究者研究人们如何使用Claude。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "美国FDA征求生成式人工智能医疗器械监管意见",
+      "credibility": "A",
+      "sources": [{"name": "U.S. Small Business Administration Office of Advocacy", "url": "https://advocacy.sba.gov/2026/08/26/fda-requests-feedback-on-considerations-for-generative-ai-enabled-medical-devices-regulation/", "published_at": "2026-08-26T16:13:51Z", "retrieved_at": "2026-08-27T07:22:00+08:00"}],
+      "key_facts": [{"claim": "美国FDA就生成式人工智能赋能医疗器械的监管考量征求反馈。", "source_refs": [0]}],
+      "used_as_deep_dive": false
+    }
+  ]
+}
