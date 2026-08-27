@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-28",
+  "episode": "20260828_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic开放模型硬件标准研究预览",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anthropic官方公告",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "published_at": "2026-08-27T17:58:11Z",
+          "retrieved_at": "2026-08-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "MHS是供AI智能体操作显微镜、移液设备和机械臂等可编程设备的共享规范，目前向首批科研实验室和先进制造企业开放研究预览。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Anthropic称MHS可把通常需要数周或数月的硬件集成缩短到数小时或数分钟，但标准尚未开源，空间和物理推理仍需专家监督。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "合作方QuEra的早期测试中，智能体开发的控制器可在99.3%的情况下无需人工干预恢复量子设备激光锁定。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google发布Gemini Omni 1.1 Flash视频模型更新",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google官方博客",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+          "published_at": "2026-08-27T16:00:00Z",
+          "retrieved_at": "2026-08-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Gemini Omni 1.1 Flash支持把视频以10秒为单位延长到累计40秒，并参考最多10秒的前文画面。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该模型支持1080p和4K输出，已通过Google AI Studio和Gemini Enterprise Agent Platform向开发者提供。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Google推出Expert Intelligence可信内容功能",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google官方博客",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+          "published_at": "2026-08-27T19:30:00Z",
+          "retrieved_at": "2026-08-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Expert Intelligence首批支持把用户在Google Play Books购买的合资格电子书加入Gemini Notebook，并基于原书回答且提供引用。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "功能首发覆盖超过10万本书和15位以上畅销作者；共享笔记本的协作者若要继续使用书中内容，需要自行购买该书。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Google与可汗学院把Gemini学习工具带入课堂",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google官方博客",
+          "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+          "published_at": "2026-08-27T16:00:00Z",
+          "retrieved_at": "2026-08-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "六名Google工程师用六个月协助可汗学院把Gemini能力集成到Khanmigo。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "新功能可生成可交互的数学与科学图示；教师可在题目发给学生前编辑、拒绝和最终批准。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "加州大学尔湾分校获千万美元研究高校写作AI",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "加州大学尔湾分校官方公告",
+          "url": "https://news.uci.edu/2026/08/27/uc-irvine-school-of-education-to-lead-10-million-national-center-on-ai-and-postsecondary-writing/",
+          "published_at": "2026-08-27T18:03:58Z",
+          "retrieved_at": "2026-08-28T07:18:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "美国教育部教育科学研究所提供1000万美元、为期五年的资助，建立WRITE AI Center。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "中心将研究生成式AI如何支持高校写作教学，并推进由教师保持监督的PapyrusAI平台；项目9月1日启动。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
