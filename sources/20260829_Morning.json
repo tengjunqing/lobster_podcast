@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-29",
+  "episode": "20260829_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "美国国家档案馆明确人工智能材料何时属于联邦记录",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "美国国家档案与记录管理局指导备忘录",
+          "url": "https://www.archives.gov/files/records-mgmt/policy/nara-fra-ai-guidance.pdf",
+          "published_at": "2026-08-21",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        },
+        {
+          "name": "Nextgov/FCW",
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/08/national-archives-says-agencies-ai-use-does-not-automatically-create-federal-records/415711/",
+          "published_at": "2026-08-28T16:18:00-04:00",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "使用人工智能本身不会自动产生联邦记录；材料是否属于记录取决于它是否被用于决策、官方业务、传播或纳入机构系统。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "指导建议各机构把联邦记录管理要求纳入内部人工智能政策，并与法律、信息技术等部门协作。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "NIST发布人工智能辅助网络安全评估指南草案",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "NIST Special Publication 1353 初始公开草案",
+          "url": "https://csrc.nist.gov/pubs/sp/1353/ipd",
+          "published_at": "2026-08-28",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "草案提供结构化提示和示例材料，用生成式人工智能辅助网络安全框架二点零的分析与报告。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "草案包含政策审查、当前状态画像和目标状态画像三个示例，并开放意见至十月十五日。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "科罗拉多州公布自动化就业决策规则草案",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "科罗拉多州总检察长办公室规则草案",
+          "url": "https://coag.gov/app/uploads/2026/08/2026.08.11-ADMT-Chatbot-Act-Rulemaking.docx",
+          "published_at": "2026-08-11",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        },
+        {
+          "name": "Ogletree Deakins规则解读",
+          "url": "https://ogletree.com/insights-resources/blog-posts/colorado-unveils-new-proposed-rules-implementing-revamped-ai-act/",
+          "published_at": "2026-08-28",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "草案要求雇主在重大就业决定中披露自动化决策技术的用途、所起作用及主要不利结果原因。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "草案规定独立人工复核者应有权批准、修改或推翻原决定；规则仍处于征求意见阶段。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "百余家企业联名呼吁加强人工智能时代网络防御",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Spectrum News",
+          "url": "https://spectrumlocalnews.com/us/snplus/technology/2026/08/28/openai-cyberdefense-letter",
+          "published_at": "2026-08-28",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI发布的公开信有超过一百家机构签署，包括Anthropic、Google和Microsoft。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "联名信建议用具备网络安全能力的人工智能加速防御任务，并加强威胁情报、工具和经验共享。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "加州立法限制人工智能冒充真人参与公共事务",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Los Angeles Times",
+          "url": "https://www.latimes.com/environment/story/2026-08-28/california-lawmakers-move-to-crack-down-on-ai-used-for-public-comment",
+          "published_at": "2026-08-28",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        },
+        {
+          "name": "加州参议院第1159号法案文本",
+          "url": "https://legiscan.com/CA/text/SB1159/id/3450837",
+          "published_at": "2026-08-28",
+          "retrieved_at": "2026-08-29T07:04:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "法案禁止明知而使用人工智能虚假表示某个真人与政府机构互动。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "法案已获立法机构通过，将在九月送交州长签署；真人使用人工智能润色正常参与内容不被一概禁止。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

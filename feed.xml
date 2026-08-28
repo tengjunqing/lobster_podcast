@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 27 Aug 2026 23:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:14:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>人工智能进入正式流程，记录、复核与真人身份成为新门槛</title>
+      <description>美国国家档案馆明确AI材料何时属于联邦记录，NIST发布网络安全评估草案。科罗拉多就业决策规则、企业网络防御联名信与加州公共参与法案显示，AI治理正从披露走向可追溯行动。</description>
+      <pubDate>Fri, 28 Aug 2026 23:14:11 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260829_Morning_AINews.mp3" length="6554479" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260829_Morning_AINews.mp3</guid>
+      <itunes:duration>06:49</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,联邦记录,NIST,网络安全,自动化决策,就业审核,科罗拉多,公共参与,加州立法,人工复核</itunes:keywords>
+    </item>
     <item>
       <title>智能体开始操作真实设备，人工智能落地转向受控行动</title>
       <description>Anthropic开放模型硬件标准研究预览。Google更新视频模型、引入正版书籍知识并与可汗学院合作；美国高校启动写作AI研究，显示AI正从生成答案走向有来源、有边界的行动。</description>
