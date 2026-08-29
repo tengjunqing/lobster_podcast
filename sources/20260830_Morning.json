@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-30",
+  "episode": "20260830_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI将停止向SpaceX旗下Cursor提供模型",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+          "published_at": "2026-08-29T07:05:19Z",
+          "retrieved_at": "2026-08-30T07:10:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "路透社报道，OpenAI计划停止向SpaceX旗下的Cursor提供其人工智能模型。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "报道将此事描述为OpenAI与马斯克阵营矛盾的升级。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "南卡罗来纳医科大学开发青少年自杀风险预警系统",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Medical University of South Carolina",
+          "url": "https://www.musc.edu/content-hub/News/2026/08/27/musc-receives-over-a-million-from-the-duke-endowment-to-create-system-to-detect-youth-suicide",
+          "published_at": "2026-08-27",
+          "retrieved_at": "2026-08-30T07:12:00+08:00"
+        },
+        {
+          "name": "WRDW/WAGT",
+          "url": "https://www.wrdw.com/2026/08/29/musc-receives-grant-develop-ai-system-youth-suicide-prevention/",
+          "published_at": "2026-08-29T20:25:09Z",
+          "retrieved_at": "2026-08-30T07:12:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "学校获得杜克基金会超过一百万美元资助，用于建立青少年自杀风险预警系统。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "系统计划使用南卡罗来纳州学区数据，并在未来三年设计和部署。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "Nature文章讨论合成生物学与人工智能的监管碎片化",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Nature Biotechnology",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNl8xYUNzQTdyV19YX0gxem45ZWZCdnl0QmhDQ3RKMkx5UWxuWl85TjNMcUZzeFgteGFtc1RLbUREUWlwcFRvem4zLVFkRF9Ra0dmb0Naa0c1QkdaN1g4?oc=5",
+          "published_at": "2026-08-29T11:11:05Z",
+          "retrieved_at": "2026-08-30T07:14:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Nature Biotechnology发表文章，讨论合成生物学、人工智能与自动化交汇处的监管碎片化。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "Rivian开始推送新的人工智能语音助手",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "InsideEVs",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMEhJUHRQaVR4eGJxcmE2WGtiRFg3V0FoUkVCRkFRU2pQaDJJZzlHTUpSeFgxVmU0ZjI5dEZseVV5VFl3bm9LMU5QbHZjaURNVW8xbjJ6UHlnWGt6MU1iVldTUGxIUldfZUM0ZXU4Mk5CYzJUaURQQg?oc=5",
+          "published_at": "2026-08-29T14:44:26Z",
+          "retrieved_at": "2026-08-30T07:15:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "InsideEVs报道，Rivian正在向车辆推送新的人工智能语音助手。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "东北大学新增人工智能复合专业并调整数据科学项目名称",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "The Huntington News",
+          "url": "https://huntnewsnu.com/94167/campus/northeastern-introduces-artificial-intelligence-combined-majors-renames-undergraduate-data-science-programs/",
+          "published_at": "2026-08-29T16:20:18Z",
+          "retrieved_at": "2026-08-30T07:16:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "东北大学学生媒体报道，学校新增人工智能复合专业，并重新命名本科数据科学项目。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
