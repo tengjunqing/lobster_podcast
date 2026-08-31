@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 29 Aug 2026 23:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:09:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ChatGPT广告跨过十亿美元，人工智能开始争夺决策入口</title>
+      <description>ChatGPT广告上线不足二百天，年化收入运行率达到十亿美元。Google行星预测引擎、金融稳定理事会警告、口腔筛查资助和人机协作研究显示，AI进入真实决策后，商业模式、证据和责任必须同步建立。</description>
+      <pubDate>Mon, 31 Aug 2026 23:08:36 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260901_Morning_AINews.mp3" length="6590424" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260901_Morning_AINews.mp3</guid>
+      <itunes:duration>06:51</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,ChatGPT广告,OpenAI,Google Earth AI,行星预测,金融稳定,网络风险,口腔筛查,人机协作,决策系统</itunes:keywords>
+    </item>
     <item>
       <title>模型供应关系生变，人工智能产品开始重估控制权</title>
       <description>OpenAI拟停止向SpaceX旗下Cursor提供模型。医疗预警、合成生物监管、车载助手和高校专业调整显示，AI进入真实流程后，能力之外的供应稳定、隐私、问责与人才准备同样关键。</description>

@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-01",
+  "episode": "20260901_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "ChatGPT广告年化收入达到十亿美元",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+          "published_at": "2026-08-31T13:05:10Z",
+          "retrieved_at": "2026-09-01T07:04:47+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI称ChatGPT Ads上线不足200天，年化收入运行率已达到10亿美元。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI称ChatGPT每周活跃用户超过10亿，广告自助购买扩展到印度、欧洲、中东和北非。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "OpenAI称广告会明确标注并与回答分开，广告主不能访问用户私人对话。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Google发布行星预测引擎研究原型",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Google Research",
+          "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+          "published_at": "2026-08-31T19:34:22Z",
+          "retrieved_at": "2026-09-01T07:05:02+08:00"
+        },
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2608.26088",
+          "published_at": "2026-08-31T00:00:00Z",
+          "retrieved_at": "2026-09-01T07:06:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Google称行星预测引擎可从自然语言问题开始，自动完成地理数据发现、清洗、建模和评估。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "在21项美国疾控中心健康指标上，系统平均决定系数为76.8%，人工专家管线基线为60.0%。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "金融稳定理事会警告前沿模型网络风险",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Financial Stability Board",
+          "url": "https://www.fsb.org/2026/08/fsb-chair-warns-of-risks-arising-from-frontier-artificial-intelligence-ai-models/",
+          "published_at": "2026-08-31T06:04:42Z",
+          "retrieved_at": "2026-09-01T07:05:07+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "金融稳定理事会主席Andrew Bailey致函二十国集团财长和央行行长，称前沿模型对网络风险的影响是最直接的担忧。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "信中要求金融机构强化响应恢复能力，并关注关键第三方技术服务商的韧性。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "美国国立卫生研究院资助人工智能口腔筛查",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "University of Rochester Medical Center",
+          "url": "https://www.urmc.rochester.edu/news/story/eioh-awarded-3-1-million-to-advance-ai-powered-oral-disease-detection",
+          "published_at": "2026-08-31T17:06:25Z",
+          "retrieved_at": "2026-09-01T07:04:58+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Eastman口腔健康研究所获得美国国立卫生研究院下属机构为期五年、310万美元资助。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "SMARTeeth++将结合便携口腔影像、人工智能和患者健康信息，辅助发现蛀牙和早期牙周病。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "卡内基梅隆提出按错误后果设计人机协作",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Carnegie Mellon University",
+          "url": "https://www.cmu.edu/news/stories/archives/2026/august/cmu-researchers-envision-humans-and-ai-as-teammates",
+          "published_at": "2026-08-31T13:52:11Z",
+          "retrieved_at": "2026-09-01T07:04:52+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "卡内基梅隆研究者主张按不同错误的后果分配人工智能与人的角色，而不是套用单一工作流。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "校方介绍的受控任务实验中，认知模型观察几十次决策后，对个人选择的预测一致度最高达到95%。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
