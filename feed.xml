@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 31 Aug 2026 23:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:10:47 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>三百五十亿美元算力协议背后，人工智能竞争转向长期交付</title>
+      <description>Anthropic据报签下350亿美元云计算协议。网络安全收购、电网基础模型、医疗伦理立场与二十国集团政策分歧显示，AI竞争正从模型发布转向算力、工作流和责任的长期交付。</description>
+      <pubDate>Tue, 01 Sep 2026 23:10:30 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260902_Morning_AINews.mp3" length="6367652" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260902_Morning_AINews.mp3</guid>
+      <itunes:duration>06:37</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,Anthropic,Lambda,英伟达,云计算,智能体安全,电网模型,医疗伦理,二十国集团,人工智能治理</itunes:keywords>
+    </item>
     <item>
       <title>ChatGPT广告跨过十亿美元，人工智能开始争夺决策入口</title>
       <description>ChatGPT广告上线不足二百天，年化收入运行率达到十亿美元。Google行星预测引擎、金融稳定理事会警告、口腔筛查资助和人机协作研究显示，AI进入真实决策后，商业模式、证据和责任必须同步建立。</description>

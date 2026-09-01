@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-02",
+  "episode": "20260902_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic据报签下350亿美元云计算协议",
+      "credibility": "B",
+      "sources": [
+        {"name": "The Wall Street Journal", "url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1", "published_at": "2026-08-31", "retrieved_at": "2026-09-02T07:12:00+08:00"},
+        {"name": "AFP via TechXplore", "url": "https://techxplore.com/news/2026-09-anthropic-35b-startup-nvidia.html", "published_at": "2026-09-01", "retrieved_at": "2026-09-02T07:12:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "Anthropic据报与Lambda签署六年、价值350亿美元的云计算协议。", "source_refs": [0, 1]},
+        {"claim": "相关算力来自得克萨斯州数据中心，英伟达持有数据中心租约并向项目供应芯片。", "source_refs": [0, 1]}
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto Networks收购智能体平台Console",
+      "credibility": "A",
+      "sources": [
+        {"name": "Palo Alto Networks Investor Relations", "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquires-console-agentify-security", "published_at": "2026-09-01", "retrieved_at": "2026-09-02T07:13:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "Palo Alto Networks宣布已收购AI原生平台Console，交易金额未披露。", "source_refs": [0]},
+        {"claim": "公司计划把Console能力整合进Cortex，用自然语言构建调查、排序和处置工作流。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "美国能源部支持电网基础模型项目",
+      "credibility": "A",
+      "sources": [
+        {"name": "Brookhaven National Laboratory", "url": "https://www.bnl.gov/newsroom/news.php?a=123136", "published_at": "2026-09-01", "retrieved_at": "2026-09-02T07:14:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "布鲁克海文国家实验室获选牵头一项1420万美元、为期三年的电网基础模型项目。", "source_refs": [0]},
+        {"claim": "项目目标是在24小时内模拟十亿种新增负载接入电网的情景。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "美国内科医师学会发布医疗AI伦理立场",
+      "credibility": "A",
+      "sources": [
+        {"name": "Annals of Internal Medicine / ACP", "url": "https://www.acpjournals.org/doi/10.7326/acpi-20260901-new-acp-paper-says-ai-in-medicine-must-be", "published_at": "2026-09-01", "retrieved_at": "2026-09-02T07:15:00+08:00"},
+        {"name": "Dermatology Times", "url": "https://www.dermatologytimes.com/view/ethics-and-ai-use-in-medical-practice-american-college-of-physicians-releases-position-statement", "published_at": "2026-09-01", "retrieved_at": "2026-09-02T07:15:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "立场文件要求医疗AI支持而非削弱医患关系，并维护医生独立临床判断。", "source_refs": [0, 1]},
+        {"claim": "文件提出关系、自主治理与专业能力三项伦理支点，并要求识别和缓解算法偏差。", "source_refs": [0, 1]}
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "美国在二十国集团会议推动轻监管人工智能路线",
+      "credibility": "B",
+      "sources": [
+        {"name": "Reuters via WIKY", "url": "https://wiky.com/2026/09/01/us-to-urge-hands-off-ai-regulation-at-g-20-official-says", "published_at": "2026-09-01", "retrieved_at": "2026-09-02T07:16:00+08:00"}
+      ],
+      "key_facts": [
+        {"claim": "路透社报道，美国在北卡罗来纳州举行的二十国集团科技会议上推动避免设立新的AI监管机构。", "source_refs": [0]},
+        {"claim": "会议由美国商务部长霍华德·卢特尼克和白宫科技顾问迈克尔·克拉齐奥斯主持。", "source_refs": [0]}
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
