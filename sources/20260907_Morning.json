@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-07",
+  "episode": "20260907_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI称已达到自动化研究实习生目标",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI：Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "published_at": "2026-09-06",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI称其系统已能在人工指导下完成定义明确、可能需要熟练研究人员数天的研究任务。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "截至八月中旬，OpenAI研究组织每一个人类工作日对应三点一个智能体工作日。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "过去六个月，成功完成的四到八小时任务中，超过一半至少需要一次人工干预。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI首席科学家强调推理监控与开发节奏",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI：An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "published_at": "2026-09-06",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI首席科学家Jakub Pachocki表示，保持思维链可监控性是模型设计中的更高优先级。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "文章认为防御需求不能成为不计后果推进的理由，并讨论在风险上升时调整开发节奏。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 3,
+      "title": "英伟达宣布以约一百二十九亿美元收购Hugging Face",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "NVIDIA Blog：NVIDIA to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "published_at": "2026-09-03",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "英伟达公告称已同意以一百二十九点三零三亿美元收购Hugging Face。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "英伟达承诺Hugging Face继续支持多模型、多框架、多云和多种计算平台，使用英伟达算力不是必要条件。",
+          "source_refs": [0]
+        },
+        {
+          "claim": "公告称Hugging Face拥有超过一千八百万用户、三百万个模型和五十万个数据集。",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "西雅图时报与Newsday起诉OpenAI和微软",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "GeekWire：Seattle Times sues Microsoft and OpenAI",
+          "url": "https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism",
+          "published_at": "2026-09-04",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        },
+        {
+          "name": "Investing.com转引路透社报道",
+          "url": "https://m.au.investing.com/news/economy-news/seattle-times-newsday-sue-openai-and-microsoft-over-ai-training-4630704?ampMode=1",
+          "published_at": "2026-09-05",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "两家报纸在联邦法院起诉OpenAI和微软，指控其未经许可使用新闻作品训练和运行人工智能产品。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "原告寻求损害赔偿，并要求销毁使用其作品的训练集。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "OpenAI回应称模型基于公开数据训练并主张合理使用；微软表示愿意讨论解决方案。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "加州州立大学圣贝纳迪诺分校建设人工智能训练中心",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "美国参议员Adam Schiff办公室新闻稿",
+          "url": "https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-rep-aguilar-deliver-more-than-1-million-for-cal-state-san-bernardino-ai-research-center",
+          "published_at": "2026-08-31",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        },
+        {
+          "name": "San Bernardino Sun：AI research center coming to Cal State San Bernardino",
+          "url": "https://www.sbsun.com/2026/09/06/ai-research-center-coming-to-cal-state-san-bernardino",
+          "published_at": "2026-09-06",
+          "retrieved_at": "2026-09-07T07:05:00+08:00"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "超过一百万美元联邦资金将用于完成并启动人工智能、机器人和虚拟现实应用研究训练中心。",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "项目将扩展网络安全人才培养，并加入人工智能安全方案和虚拟现实训练。",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}

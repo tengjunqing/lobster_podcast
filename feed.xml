@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Sep 2026 23:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:11:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>自动化研究跨过实习生门槛，人工监督成为能力的一部分</title>
+      <description>OpenAI称已达到自动化研究实习生目标。推理监控、开源平台收购、新闻版权诉讼和人才中心显示，AI能力加速进入真实流程，监督、开放性与权利边界必须同步验证。</description>
+      <pubDate>Sun, 06 Sep 2026 23:11:14 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260907_Morning_AINews.mp3" length="7657892" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260907_Morning_AINews.mp3</guid>
+      <itunes:duration>07:58</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>人工智能,自动化研究,OpenAI,智能体,人工监督,推理监控,英伟达,Hugging Face,新闻版权,人才培养</itunes:keywords>
+    </item>
     <item>
       <title>三百五十亿美元算力协议背后，人工智能竞争转向长期交付</title>
       <description>Anthropic据报签下350亿美元云计算协议。网络安全收购、电网基础模型、医疗伦理立场与二十国集团政策分歧显示，AI竞争正从模型发布转向算力、工作流和责任的长期交付。</description>
