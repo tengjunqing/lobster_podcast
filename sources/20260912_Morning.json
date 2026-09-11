@@ -1,0 +1,194 @@
+{
+ "date": "2026-09-12",
+ "episode": "20260912_Morning",
+ "items": [
+ {
+ "rank": 1,
+ "title": "OpenAI呼吁国会制定强制性全国AI安全法规",
+ "credibility": "A",
+ "sources": [
+ {
+ "name": "OpenAI官方博客",
+ "url": "https://openai.com/index/ai-policy-window",
+ "published_at": "2026-09-09",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "Reuters",
+ "url": "https://www.reuters.com/legal/government/openai-pushes-mandatory-national-ai-safety-requirements-2026-09-09",
+ "published_at": "2026-09-09",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "The Next Web",
+ "url": "https://thenextweb.com/news/openai-mandatory-national-ai-safety-requirements-congress",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ }
+ ],
+ "key_facts": [
+ {
+ "claim": "OpenAI首席全球事务官Chris Lehane于9月9日发文呼吁国会制定强制性、基于能力的全国AI安全监管",
+ "source_refs": [0]
+ },
+ {
+ "claim": "OpenAI同时宣布支持加州四项AI安全法案，包括SB813独立评估基础设施、AB1405审计标准等",
+ "source_refs": [0, 2]
+ },
+ {
+ "claim": "OpenAI表示完全自主的递归自我改进目前并未发生，不应在安全前提下被追求",
+ "source_refs": [2]
+ }
+ ],
+ "used_as_deep_dive": true
+ },
+ {
+ "rank": 2,
+ "title": "Anthropic发布威胁情报报告披露约40起AI滥用案例",
+ "credibility": "A",
+ "sources": [
+ {
+ "name": "Anthropic官方报告",
+ "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "CNBC-TV18",
+ "url": "https://www.youtube.com/watch?v=zy1ZsRZAMKk",
+ "published_at": "2026-09-11",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "Yahoo Finance",
+ "url": "https://ca.finance.yahoo.com/news/anthropic-says-blocked-misuse-ai-205138703.html",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ }
+ ],
+ "key_facts": [
+ {
+ "claim": "报告覆盖2025年12月至2026年8月期间约40起AI滥用案例，涉及七类威胁",
+ "source_refs": [0, 1]
+ },
+ {
+ "claim": "发现六起与常规武器开发相关的案例，涉及中国、俄罗斯和也门用户",
+ "source_refs": [0, 2]
+ },
+ {
+ "claim": "有疑似武器开发人员已构建不依赖Claude的离线模拟工具包",
+ "source_refs": [0]
+ }
+ ],
+ "used_as_deep_dive": false
+ },
+ {
+ "rank": 3,
+ "title": "OpenAI暂停200美元Pro订阅因Astra需求前所未有",
+ "credibility": "B",
+ "sources": [
+ {
+ "name": "TechCrunch",
+ "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "The Next Web",
+ "url": "https://thenextweb.com/news/openai-pro-pause-astra-eu-zone",
+ "published_at": "2026-09-11",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "The Information",
+ "url": "https://www.theinformation.com/briefings/openai-pause-new-pro-subscriptions-cites-astra-demand",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ }
+ ],
+ "key_facts": [
+ {
+ "claim": "OpenAI产品负责人Thibault Sottiaux宣布暂停200美元Pro新订阅，称Astra需求前所未有",
+ "source_refs": [0]
+ },
+ {
+ "claim": "Astra在欧盟仍无数据区域部署，没有付费选项将处理保留在欧盟数据边界内",
+ "source_refs": [1]
+ },
+ {
+ "claim": "100美元Pro计划、Plus、Go计划和API仍然可用",
+ "source_refs": [0, 1]
+ }
+ ],
+ "used_as_deep_dive": false
+ },
+ {
+ "rank": 4,
+ "title": "OpenAI向国会询问行业协调减速是否违反反垄断法",
+ "credibility": "B",
+ "sources": [
+ {
+ "name": "WIRED",
+ "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal",
+ "published_at": "2026-09-11",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "AI Chat Daily",
+ "url": "https://www.aichatdaily.com/ai-security/openai-asks-congress-if-industry-wide-ai-slowdown-legal",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ }
+ ],
+ "key_facts": [
+ {
+ "claim": "OpenAI首席科学家Jakub Pachocki发文主张自愿减速应成为常态",
+ "source_refs": [0]
+ },
+ {
+ "claim": "澳大利亚竞争与消费者委员会助理主任Nicholas Felstead在3月文章中论证协调减速可能违反谢尔曼反垄断法",
+ "source_refs": [0, 1]
+ },
+ {
+ "claim": "国会7月已提出两党法案允许AI实验室在安全方面协调而不违反反垄断法，但尚未进入审议",
+ "source_refs": [0]
+ }
+ ],
+ "used_as_deep_dive": false
+ },
+ {
+ "rank": 5,
+ "title": "Anthropic计划十月IPO估值目标两万亿美元",
+ "credibility": "B",
+ "sources": [
+ {
+ "name": "Yahoo Finance",
+ "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-september-1-triple-release-012352481.html",
+ "published_at": "2026-09-10",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ },
+ {
+ "name": "GraniteShares Research",
+ "url": "https://graniteshares.com/research/anthropic-ipo-2026-explained-from-965-billion-to-a-possible-2-trillion-listing",
+ "published_at": "2026-09-09",
+ "retrieved_at": "2026-09-12T06:00:00+08:00"
+ }
+ ],
+ "key_facts": [
+ {
+ "claim": "Anthropic于6月1日秘密提交S-1注册文件，银行和投资者讨论的上市估值高达约两万亿美元",
+ "source_refs": [0, 1]
+ },
+ {
+ "claim": "Anthropic 2026年第二季度营收超115亿美元，较上年同期增长超14倍",
+ "source_refs": [1]
+ },
+ {
+ "claim": "Anthropic最新私人估值为9650亿美元，总融资额达1181.5亿美元",
+ "source_refs": [1]
+ }
+ ],
+ "used_as_deep_dive": false
+ }
+ ]
+}

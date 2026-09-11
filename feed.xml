@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 06 Sep 2026 23:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:13:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI安全监管窗口打开，行业自律遭遇法律和信任双重考验</title>
+      <description>OpenAI呼吁国会制定强制性AI安全法规，Anthropic披露约40起武器相关AI滥用案例。OpenAI因Astra需求暂停Pro订阅，行业协调减速遭遇反垄断法律障碍。Anthropic筹备十月IPO估值目标两万亿美元。</description>
+      <pubDate>Fri, 11 Sep 2026 23:13:40 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260912_Morning_AINews.mp3" length="7626257" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260912_Morning_AINews.mp3</guid>
+      <itunes:duration>07:46</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>OpenAI,Anthropic,AI安全,强制监管,国会,武器滥用,Pro订阅暂停,GPT-6,Astra,反垄断,IPO,两万亿</itunes:keywords>
+    </item>
     <item>
       <title>自动化研究跨过实习生门槛，人工监督成为能力的一部分</title>
       <description>OpenAI称已达到自动化研究实习生目标。推理监控、开源平台收购、新闻版权诉讼和人才中心显示，AI能力加速进入真实流程，监督、开放性与权利边界必须同步验证。</description>
@@ -216,7 +227,7 @@
       <pubDate>Fri, 14 Aug 2026 23:09:53 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260815_Morning_AINews.mp3" length="6928553" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260815_Morning_AINews.mp3</guid>
-      <itunes:duration>07:13</itunes:duration>
+      <itunes:duration>07:12</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:keywords>人工智能,GLM-5.3,网络安全,OpenAI,Cerebras,超高速推理,自动驾驶,美光创投,人形机器人,具身智能</itunes:keywords>
@@ -480,7 +491,7 @@
       <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3" length="9360239" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260720_Morning_AINews.mp3</guid>
-      <itunes:duration>09:45</itunes:duration>
+      <itunes:duration>09:44</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:keywords>欧盟,Google,DMA,Android,搜索数据,Claude,Fable 5,Anthropic,SAP,Prior Labs,Apple,OpenAI,Oracle,Stargate,裁员,AI基础设施,AI定价</itunes:keywords>
@@ -534,7 +545,7 @@
       <pubDate>Mon, 20 Jul 2026 02:45:32 GMT</pubDate>
       <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260715_Morning_AINews.mp3" length="7184344" type="audio/mpeg"/>
       <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260715_Morning_AINews.mp3</guid>
-      <itunes:duration>07:29</itunes:duration>
+      <itunes:duration>07:28</itunes:duration>
       <itunes:author>小王</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:keywords>台积电,TSMC,OpenAI,政府股权,Google,Gemini,算力瓶颈,Anthropic,三星,定制芯片,诺贝尔奖,AI投资</itunes:keywords>
