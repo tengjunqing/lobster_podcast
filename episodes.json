@@ -1118,6 +1118,14 @@
       "audio_sha256": "84f827049a7dcdcb73d0a96883bedde5fd2c26903658cd060a8b7ad3fb284aaa",
       "published_at": "Sat, 12 Sep 2026 07:13:40 +0800",
       "duration_seconds": 466.56
+    },
+    "20260914_Morning": {
+      "title": "AI攻克数学千年难题与苹果今日上线Siri AI",
+      "description": "OpenAI声称AI系统攻克纳维-斯托克斯千禧年难题，Anthropic的Claude完成费马大定理机器验证形式化证明。特朗普淡化AI监管需求称不想在AI竞赛中输给中国，苹果iOS 27今日正式发布Siri AI，印度NPCI建设AI代理注册表为UPI智能支付铺路。",
+      "keywords": "OpenAI,Navier-Stokes,Anthropic,Claude,费马大定理,形式化验证,苹果,SiriAI,印度UPI,AI代理",
+      "audio_sha256": "60c6989aa6b25deadb058a2eb9469e86a4997616a65c52f400e4a7ecb723fe65",
+      "duration_seconds": 435.2,
+      "published_at": "Mon, 14 Sep 2026 07:00:00 +0800"
     }
   }
 }

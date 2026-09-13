@@ -21,8 +21,19 @@
     <itunes:image href="https://tengjunqing.github.io/lobster_podcast/cover_v3.png"/>
     <itunes:keywords>AI, 人工智能, 大模型, 科技资讯, OpenAI, Anthropic, Google, 国产大模型, AI应用, 科技播客, 虾聊AI</itunes:keywords>
     <atom:link href="https://tengjunqing.github.io/lobster_podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 11 Sep 2026 23:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI攻克数学千年难题与苹果今日上线Siri AI</title>
+      <description>OpenAI声称AI系统攻克纳维-斯托克斯千禧年难题，Anthropic的Claude完成费马大定理机器验证形式化证明。特朗普淡化AI监管需求称不想在AI竞赛中输给中国，苹果iOS 27今日正式发布Siri AI，印度NPCI建设AI代理注册表为UPI智能支付铺路。</description>
+      <pubDate>Sun, 13 Sep 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://tengjunqing.github.io/lobster_podcast/audio/20260914_Morning_AINews.mp3" length="7124316" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tengjunqing.github.io/lobster_podcast/audio/20260914_Morning_AINews.mp3</guid>
+      <itunes:duration>07:15</itunes:duration>
+      <itunes:author>小王</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>OpenAI,Navier-Stokes,Anthropic,Claude,费马大定理,形式化验证,苹果,SiriAI,印度UPI,AI代理</itunes:keywords>
+    </item>
     <item>
       <title>AI安全监管窗口打开，行业自律遭遇法律和信任双重考验</title>
       <description>OpenAI呼吁国会制定强制性AI安全法规，Anthropic披露约40起武器相关AI滥用案例。OpenAI因Astra需求暂停Pro订阅，行业协调减速遭遇反垄断法律障碍。Anthropic筹备十月IPO估值目标两万亿美元。</description>

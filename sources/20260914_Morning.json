@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-14",
+  "episode": "20260914_Morning",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI声称AI系统攻克纳维-斯托克斯千禧年难题",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "OpenAI官方博客",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "published_at": "2026-09-08",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
+          "published_at": "2026-09-08",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908",
+          "published_at": "2026-09-08",
+          "retrieved_at": "2026-09-14"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "OpenAI于9月8日发布博文，称其内部AI系统使用约10000个协调代理、耗时约88小时、生成约1300亿输出token，提出了纳维-斯托克斯存在性与光滑性问题的解",
+          "source_refs": [0]
+        },
+        {
+          "claim": "证明展示三维流体运动的纳维-斯托克斯方程可在有限时间内发展出奇点",
+          "source_refs": [0]
+        },
+        {
+          "claim": "该证明已用Lean形式化验证，Clay数学研究所为此问题悬赏100万美元",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "数学家Tristan Buckmaster指控OpenAI基于其未公开的协作工作抢先发布证明，OpenAI否认直接查看其私人工作",
+          "source_refs": [2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic的Claude完成费马大定理首次机器验证形式化证明",
+      "credibility": "A",
+      "sources": [
+        {
+          "name": "Anthropic研究博客",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "published_at": "2026-09-04",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "Xena Project博客",
+          "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it",
+          "published_at": "2026-09-04",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "Enterprise DNA",
+          "url": "https://enterprisedna.co/resources/news/anthropic-claude-fermats-last-theorem-lean-proof-september-2026",
+          "published_at": "2026-09-05",
+          "retrieved_at": "2026-09-14"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "Claude在11天内自主完成费马大定理的Lean 4形式化证明，生成约1300万行Lean代码",
+          "source_refs": [0, 2]
+        },
+        {
+          "claim": "证明过程验证了29500个中间定理，消耗约60亿输出token",
+          "source_refs": [0]
+        },
+        {
+          "claim": "这是Freek Wiedijk百大形式化挑战清单的最后一项，标志着该20年基准的完成",
+          "source_refs": [1]
+        },
+        {
+          "claim": "帝国理工数学家Kevin Buzzard审查后称这是自动化形式化的重大一步",
+          "source_refs": [0]
+        }
+      ],
+      "used_as_deep_dive": true
+    },
+    {
+      "rank": 3,
+      "title": "特朗普淡化AI监管需求称不想在AI竞赛中输给中国",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d",
+          "published_at": "2026-09-13",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/trump-downplays-check-ai-development-cede-edge-china-136406999",
+          "published_at": "2026-09-13",
+          "retrieved_at": "2026-09-14"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "特朗普9月13日在爱尔兰参加高尔夫球赛时表示美国在AI领域领先中国，不希望失去优势",
+          "source_refs": [0, 1]
+        },
+        {
+          "claim": "这是在Anthropic CEO Amodei呼吁AI减速一天后发表的言论，马斯克和OpenAI CEO Altman也公开同意Amodei",
+          "source_refs": [0]
+        },
+        {
+          "claim": "白宫国家经济委员会主任Hassett表示本周将举行会议讨论AI下一步行动",
+          "source_refs": [1]
+        },
+        {
+          "claim": "中国国家主席习近平预计9月24日访美与特朗普会面，AI将列为主要议题",
+          "source_refs": [1]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 4,
+      "title": "苹果iOS 27今日正式发布Siri AI首次面向公众",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Engadget",
+          "url": "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14",
+          "published_at": "2026-09-13",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/09/",
+          "published_at": "2026-09-09",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/09/12/apple-ios-27-release-date-is-sept-14-check-if-your-iphone-can-upgrade",
+          "published_at": "2026-09-12",
+          "retrieved_at": "2026-09-14"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "苹果确认iOS 27于9月14日正式发布，同日发布iPadOS 27和watchOS 27",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Siri AI是核心卖点，苹果与Google合作使用Gemini模型训练，支持多步骤提示",
+          "source_refs": [0]
+        },
+        {
+          "claim": "Siri AI需要iPhone 15 Pro或更新设备，目前仅支持英语beta版",
+          "source_refs": [0, 2]
+        }
+      ],
+      "used_as_deep_dive": false
+    },
+    {
+      "rank": 5,
+      "title": "印度NPCI建设AI代理注册表为UPI智能支付铺路",
+      "credibility": "B",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/india/india-plans-ai-registry-it-looks-roll-out-agentic-payments-sources-say-2026-09-10",
+          "published_at": "2026-09-10",
+          "retrieved_at": "2026-09-14"
+        },
+        {
+          "name": "TechNode Global",
+          "url": "https://technode.global/2026/09/12/india-npci-ai-agent-registry-upi-payments",
+          "published_at": "2026-09-12",
+          "retrieved_at": "2026-09-14"
+        }
+      ],
+      "key_facts": [
+        {
+          "claim": "印度国家支付公司正在建设AI代理注册表，用于验证和监控在UPI上进行交易的AI代理",
+          "source_refs": [0]
+        },
+        {
+          "claim": "UPI在2026年8月处理了245.1亿笔交易，总额29.82万亿卢比",
+          "source_refs": [0]
+        },
+        {
+          "claim": "注册表是统一代理协议的一部分，初期聚焦小额频繁支付如杂货购买",
+          "source_refs": [0, 1]
+        }
+      ],
+      "used_as_deep_dive": false
+    }
+  ]
+}
